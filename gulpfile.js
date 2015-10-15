@@ -7,6 +7,7 @@ var jetpack = require('fs-jetpack');
 var browserify = require('browserify');
 var watchify = require('watchify');
 var source = require('vinyl-source-stream');
+var ghPages = require('gulp-gh-pages');
 
 var rootDir = jetpack.cwd(__dirname);
 var ratchetDir = rootDir.cwd('node_modules/ratchet');
@@ -55,14 +56,27 @@ gulp.task('build', ['build-less', 'build-js'], function() {
 
 gulp.task('watch', function() {
     b = watchify(b);
-
     gulp.watch('./src/stylesheets/**/*.less', ['build-less']);
 });
 
-gulp.task('package', function(cb) {
+gulp.task('package-prepare', function(cb) {
     runSequence('clean', 'build', cb);
 });
 
+gulp.task('package', ['package-prepare'], function(cb) {
+    var distDir = rootDir.dir('dist', { empty: true });
+
+    rootDir.copy('config.xml', distDir.path('config.xml'));
+    rootDir.copy('www', distDir.path('www'));
+});
+
+gulp.task('deploy', ['package'], function(cb) {
+    return gulp.src('./dist/**/*')
+    .pipe(ghPages({
+        branch: 'builds'
+    }));
+});
+
 gulp.task('default', function(cb) {
-    runSequence('watch', 'package', cb);
+    runSequence('watch', 'package-prepare', cb);
 });
