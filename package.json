@@ -18,7 +18,9 @@
         "browserify": "11.2.0",
         "reactify": "1.1.1",
         "watchify": "3.4.0",
-        "vinyl-source-stream": "1.1.0"
+        "vinyl-source-stream": "1.1.0",
+        "ios-splash-generate": "1.0.0",
+        "ios-icon-resize": "1.0.1"
     },
     "scripts": {
         "package": "gulp package",

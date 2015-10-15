@@ -8,6 +8,8 @@ var browserify = require('browserify');
 var watchify = require('watchify');
 var source = require('vinyl-source-stream');
 var ghPages = require('gulp-gh-pages');
+var genSplash = require('ios-splash-generate');
+var genIcons = require('ios-icon-resize');
 
 var rootDir = jetpack.cwd(__dirname);
 var ratchetDir = rootDir.cwd('node_modules/ratchet');
@@ -48,7 +50,17 @@ gulp.task('build-less', function () {
     .pipe(gulp.dest('./www/css'));
 });
 
-gulp.task('build', ['build-less', 'build-js'], function() {
+gulp.task('build-splash', function() {
+    wwwDir.dir('images/screen/ios/', { empty: true });
+    return genSplash(srcDir.path('images/screen/base.png'), wwwDir.path('images/screen/ios/'));
+});
+
+gulp.task('build-icons', function() {
+    wwwDir.dir('images/icon/ios/', { empty: true });
+    return genIcons(srcDir.path('images/icon/base.png'), wwwDir.path('images/icon/ios/'));
+});
+
+gulp.task('build', ['build-less', 'build-js', 'build-splash', 'build-icons'], function() {
     srcDir.copy('index.html', wwwDir.path('index.html'));
     srcDir.copy('images', wwwDir.path('images'));
     ratchetDir.copy('dist/fonts', wwwDir.path('fonts'));
