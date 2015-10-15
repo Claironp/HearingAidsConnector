@@ -10,7 +10,7 @@ var Tab = React.createClass({
 
     render: function() {
         return <div>
-            <HeaderNav title={this.props.title} />
+            <HeaderNav {...this.props} />
             <div className="content">
                 {this.props.children}
               </div>

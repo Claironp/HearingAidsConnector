@@ -1,7 +1,7 @@
 var React = require('react');
 var Tab = require('./tab');
 
-var MarquesTab = React.createClass({
+var BrandsTab = React.createClass({
     render: function() {
         return <Tab>
 
@@ -9,4 +9,4 @@ var MarquesTab = React.createClass({
     }
 });
 
-module.exports = MarquesTab
+module.exports = BrandsTab

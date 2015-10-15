@@ -45,6 +45,7 @@ gulp.task('build-less', function () {
 
 gulp.task('build', ['build-less', 'build-js'], function() {
     srcDir.copy('index.html', wwwDir.path('index.html'));
+    srcDir.copy('images', wwwDir.path('images'));
     ratchetDir.copy('dist/fonts', wwwDir.path('fonts'));
 });
 
