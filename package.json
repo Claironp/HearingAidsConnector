@@ -1,0 +1,22 @@
+{
+    "name": "HearingAidsConnector",
+    "version": "0.0.0",
+    "dependencies": {
+        "lodash": "3.10.1",
+        "react": "0.14.0",
+        "react-dom": "0.14.0",
+        "react-router": "1.0.0-rc3",
+        "ratchet": "git+https://github.com/twbs/ratchet#1e7fdbc4f273f6a6d3c16b67fa178687d902cd17"
+    },
+    "devDependencies": {
+        "gulp": "3.9.0",
+        "gulp-less": "3.0.3",
+        "gulp-util": "3.0.6",
+        "run-sequence": "1.1.4",
+        "fs-jetpack": "0.7.0",
+        "browserify": "11.2.0",
+        "reactify": "1.1.1",
+        "watchify": "3.4.0",
+        "vinyl-source-stream": "1.1.0"
+    }
+}
