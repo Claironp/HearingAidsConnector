@@ -9,7 +9,7 @@ var Application = React.createClass({
         return <NavBar>
             <NavButton left>Left</NavButton>
             <NavButton right>Right</NavButton>
-            <Title>Title</Title>
+            <Title>HearingAidsConnector</Title>
         </NavBar>;
     }
 });
