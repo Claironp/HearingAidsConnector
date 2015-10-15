@@ -83,6 +83,7 @@ gulp.task('package', ['package-prepare'], function() {
 });
 
 gulp.task('deploy', ['package'], function(cb) {
+    rootDir.dir('.publish', { empty: true });
     return gulp.src('./dist/**/*')
     .pipe(ghPages({
         branch: 'builds'
