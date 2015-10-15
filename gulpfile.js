@@ -30,7 +30,11 @@ function bundleJS() {
 
 
 gulp.task('clean', function() {
-    wwwDir.dir('.', { empty: true });
+    wwwDir.remove('js');
+    wwwDir.remove('css');
+    wwwDir.remove('images');
+    wwwDir.remove('index.html');
+    wwwDir.remove('fonts');
 });
 
 gulp.task('build-js', bundleJS);

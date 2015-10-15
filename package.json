@@ -18,5 +18,8 @@
         "reactify": "1.1.1",
         "watchify": "3.4.0",
         "vinyl-source-stream": "1.1.0"
+    },
+    "scripts": {
+        "package": "gulp package"
     }
 }
