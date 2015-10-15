@@ -4,9 +4,13 @@ var FooterNav = require('./footer');
 var HeaderNav = require('./header');
 
 var Tab = React.createClass({
+    propTypes: {
+        title: React.PropTypes.string
+    },
+
     render: function() {
         return <div>
-            <HeaderNav />
+            <HeaderNav title={this.props.title} />
             <div className="content">
                 {this.props.children}
               </div>
