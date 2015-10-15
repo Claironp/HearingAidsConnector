@@ -63,7 +63,7 @@ gulp.task('package-prepare', function(cb) {
     runSequence('clean', 'build', cb);
 });
 
-gulp.task('package', ['package-prepare'], function(cb) {
+gulp.task('package', ['package-prepare'], function() {
     var distDir = rootDir.dir('dist', { empty: true });
 
     rootDir.copy('config.xml', distDir.path('config.xml'));
