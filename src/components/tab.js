@@ -11,9 +11,7 @@ var Tab = React.createClass({
     render: function() {
         return <div>
             <HeaderNav {...this.props} />
-            <div className="content">
-                {this.props.children}
-              </div>
+            {this.props.children}
             <FooterNav />
         </div>;
     }

@@ -8,6 +8,19 @@ module.exports = {
         });
     },
 
+    search: function(q) {
+        q = q.toLowerCase();
+
+        return _.filter(accessoriesList, function(accessory) {
+            var text = [
+                accessory.title,
+                accessory.description
+            ].join(' ').toLowerCase();
+
+            return text.indexOf(q) >= 0;
+        });
+    },
+
     all: function() {
         return accessoriesList;
     }
