@@ -18,10 +18,12 @@ var b = browserify('./src/index.js', {
 });
 b.on('update', bundleJS);
 b.on('log', gutil.log);
-b.on('error', gutil.log.bind(gutil, 'Browserify Error'));
 
 function bundleJS() {
     return b.bundle()
+    .on('error', function(err) {
+        gutil.log(gutil.colors.red('JS error:'), err.message);
+    })
     .pipe(source('bundle.js'))
     .pipe(gulp.dest('./www/js'));
 }
