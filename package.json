@@ -1,0 +1,16 @@
+{
+    "name": "HearingAidsConnector",
+    "version": "0.0.0",
+    "dependencies": {
+        "react": "0.14.0",
+        "react-dom": "0.14.0",
+        "react-ratchet": "0.4.1"
+    },
+    "devDependencies": {
+        "gulp": "3.9.0",
+        "gulp-less": "3.0.3",
+        "fs-jetpack": "0.7.0",
+        "browserify": "11.2.0",
+        "vinyl-source-stream": "1.1.0"
+    }
+}
