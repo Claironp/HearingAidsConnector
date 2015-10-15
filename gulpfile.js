@@ -60,7 +60,7 @@ gulp.task('build-icons', function() {
     return genIcons(srcDir.path('images/icon/base.png'), wwwDir.path('images/icon/ios/'));
 });
 
-gulp.task('build', ['build-less', 'build-js', 'build-splash', 'build-icons'], function() {
+gulp.task('build', ['build-less', 'build-js'], function() {
     srcDir.copy('index.html', wwwDir.path('index.html'));
     srcDir.copy('images', wwwDir.path('images'));
     ratchetDir.copy('dist/fonts', wwwDir.path('fonts'));
@@ -72,7 +72,7 @@ gulp.task('watch', function() {
 });
 
 gulp.task('package-prepare', function(cb) {
-    runSequence('clean', 'build', cb);
+    runSequence('clean', 'build', 'build-splash', 'build-icons', cb);
 });
 
 gulp.task('package', ['package-prepare'], function() {
