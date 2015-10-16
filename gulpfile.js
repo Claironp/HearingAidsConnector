@@ -103,7 +103,7 @@ gulp.task('deploy', ['env', 'package'], function(cb) {
             }
         },
         'download': {
-            'ios': 'releases/ios.ipa'
+            'ios': path.resolve(__dirname, 'releases/ios.ipa')
         }
     }));
 });

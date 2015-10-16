@@ -41,16 +41,32 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
-    <icon src="icon.png" />
-    <icon gap:platform="ios" height="57" src="www/images/icon/ios/icon-57.png" width="57" />
-    <icon gap:platform="ios" height="72" src="www/images/icon/ios/icon-72.png" width="72" />
-    <icon gap:platform="ios" height="114" src="www/images/icon/ios/icon-57-2x.png" width="114" />
-    <icon gap:platform="ios" height="144" src="www/images/icon/ios/icon-72-2x.png" width="144" />
-    <gap:splash gap:platform="ios" height="480" src="www/images/screen/ios/screen-iphone-portrait.png" width="320" />
-    <gap:splash gap:platform="ios" height="960" src="www/images/screen/ios/screen-iphone-portrait-2x.png" width="640" />
-    <gap:splash gap:platform="ios" height="1136" src="www/images/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" />
-    <gap:splash gap:platform="ios" height="1024" src="www/images/screen/ios/screen-ipad-portrait.png" width="768" />
-    <gap:splash gap:platform="ios" height="768" src="www/images/screen/ios/screen-ipad-landscape.png" width="1024" />
+    <icon src="www/images/icon/base.png" />
+    <icon gap:platform="ios" height="40" width="40" src="www/images/icon/ios/icon-40.png" />
+    <icon gap:platform="ios" height="50" width="50" src="icon-50.png" />
+    <icon gap:platform="ios" height="60" width="60" src="icon-60.png" />
+    <icon gap:platform="ios" height="180" width="180" src="icon-60@3x.png" />
+    <icon gap:platform="ios" height="144" width="144" src="icon-72@2x.png" />
+    <icon gap:platform="ios" height="152" width="152" src="icon-76@2x.png" />
+    <icon gap:platform="ios" height="58" width="58" src="icon-small@2x.png" />
+    <icon gap:platform="ios" height="114" width="114" src="icon@2x.png" />
+    <icon gap:platform="ios" height="80" width="80" src="icon-40@2x.png" />
+    <icon gap:platform="ios" height="100" width="100" src="icon-50@2x.png" />
+    <icon gap:platform="ios" height="120" width="120" src="icon-60@2x.png" />
+    <icon gap:platform="ios" height="72" width="72" src="icon-72.png" />
+    <icon gap:platform="ios" height="76" width="76" src="icon-76.png" />
+    <icon gap:platform="ios" height="29" width="29" src="icon-small.png" />
+    <icon gap:platform="ios" height="40" width="40" src="icon.png" />
+    <gap:splash gap:platform="ios" height="1136" width="640" src="www/images/screen/ios/Default-568h@2x~iphone.png" />
+    <gap:splash gap:platform="ios" height="2208" width="1242" src="www/images/screen/ios/Default-736h.png" />
+    <gap:splash gap:platform="ios" height="1334" width="750" src="www/images/screen/ios/Default-667h.png" />
+    <gap:splash gap:platform="ios" height="2208" width="1242" src="www/images/screen/ios/Default-Landscape-736h.png" />
+    <gap:splash gap:platform="ios" height="1536" width="2048" src="www/images/screen/ios/Default-Landscape@2x~ipad.png" />
+    <gap:splash gap:platform="ios" height="768" width="1024" src="www/images/screen/ios/Default-Landscape~ipad.png" />
+    <gap:splash gap:platform="ios" height="2048" width="1536" src="www/images/screen/ios/Default-Portrait@2x~ipad.png" />
+    <gap:splash gap:platform="ios" height="1024" width="768" src="www/images/screen/ios/Default-Portrait~ipad.png" />
+    <gap:splash gap:platform="ios" height="960" width="640" src="www/images/screen/ios/Default@2x~iphone.png" />
+    <gap:splash gap:platform="ios" height="480" width="320" src="www/images/screen/ios/Default~iphone.png" />
     <access origin="*" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <allow-intent href="http://*/*" />
