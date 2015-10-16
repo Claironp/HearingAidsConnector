@@ -7,9 +7,10 @@ var jetpack = require('fs-jetpack');
 var browserify = require('browserify');
 var watchify = require('watchify');
 var source = require('vinyl-source-stream');
-var ghPages = require('gulp-gh-pages');
 var genSplash = require('ios-splash-generate');
 var genIcons = require('ios-icon-resize');
+var phonegapBuild = require('gulp-phonegap-build');
+var env = require('gulp-env');
 
 var rootDir = jetpack.cwd(__dirname);
 var ratchetDir = rootDir.cwd('node_modules/ratchet');
@@ -17,7 +18,7 @@ var srcDir = rootDir.cwd('src');
 var wwwDir = rootDir.cwd('www');
 
 var b = browserify('./src/index.js', {
-    "transform": ["reactify"]
+    'transform': ['reactify']
 });
 b.on('update', bundleJS);
 b.on('log', gutil.log);
@@ -82,11 +83,28 @@ gulp.task('package', ['package-prepare'], function() {
     rootDir.copy('www', distDir.path('www'));
 });
 
-gulp.task('deploy', ['package'], function(cb) {
-    rootDir.dir('.publish', { empty: true });
-    return gulp.src('./dist/**/*')
-    .pipe(ghPages({
-        branch: 'builds'
+gulp.task('env', function() {
+    env({
+        file: '.env.json'
+    });
+});
+
+gulp.task('deploy', ['env', 'package'], function(cb) {
+    gulp.src('dist/**/*')
+    .pipe(phonegapBuild({
+        'isRepository': 'false',
+        'appId': process.env.PHONEGAP_APPID,
+        'user': {
+            'token': process.env.PHONEGAP_TOKEN
+        },
+        'keys': {
+            'ios': {
+                'password': process.env.PHONEGAP_IOS_PASSWORD
+            }
+        },
+        'download': {
+            'ios': 'releases/ios.ipa'
+        }
     }));
 });
 

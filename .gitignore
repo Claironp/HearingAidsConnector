@@ -31,3 +31,6 @@ plugins
 platforms
 dist
 .publish
+
+.env.json
+releases
