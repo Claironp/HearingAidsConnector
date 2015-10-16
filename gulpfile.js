@@ -92,7 +92,7 @@ gulp.task('env', function() {
 gulp.task('deploy', ['env', 'package'], function(cb) {
     gulp.src('dist/**/*')
     .pipe(phonegapBuild({
-        'isRepository': 'false',
+        'isRepository': false,
         'appId': process.env.PHONEGAP_APPID,
         'user': {
             'token': process.env.PHONEGAP_TOKEN
