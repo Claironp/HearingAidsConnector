@@ -90,7 +90,8 @@ gulp.task('env', function() {
 });
 
 gulp.task('deploy', ['env', 'package'], function(cb) {
-    gulp.src('dist/**/*')
+    rootDir.dir('releases', { empty: true });
+    return gulp.src('dist/**/*')
     .pipe(phonegapBuild({
         'isRepository': false,
         'appId': process.env.PHONEGAP_APPID,
