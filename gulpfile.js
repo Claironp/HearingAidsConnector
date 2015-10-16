@@ -38,6 +38,7 @@ gulp.task('clean', function() {
     wwwDir.remove('css');
     wwwDir.remove('images');
     wwwDir.remove('index.html');
+    wwwDir.remove('config.xml');
     wwwDir.remove('fonts');
 });
 
@@ -64,6 +65,7 @@ gulp.task('build-icons', function() {
 gulp.task('build', ['build-less', 'build-js'], function() {
     srcDir.copy('index.html', wwwDir.path('index.html'));
     srcDir.copy('images', wwwDir.path('images'));
+    rootDir.copy('config.xml', wwwDir.path('config.xml'));
     ratchetDir.copy('dist/fonts', wwwDir.path('fonts'));
 });
 
@@ -77,10 +79,8 @@ gulp.task('package-prepare', function(cb) {
 });
 
 gulp.task('package', ['package-prepare'], function() {
-    var distDir = rootDir.dir('dist', { empty: true });
-
-    rootDir.copy('config.xml', distDir.path('config.xml'));
-    rootDir.copy('www', distDir.path('www'));
+    rootDir.remove('dist');
+    wwwDir.copy('.', rootDir.path('dist'));
 });
 
 gulp.task('env', function() {
