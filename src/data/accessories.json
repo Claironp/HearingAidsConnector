@@ -1,8 +1,30 @@
 [
     {
         "id": "siemens-pure-carat",
+        "image": "images/siemens-pure-carat.jpg",
         "marque": "siemens",
-        "title": "PURE CARAT - SIEMENS  ",
+        "title": "PURE CARAT - SIEMENS",
+        "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
+    },
+    {
+        "id": "siemens-pure-carat2",
+        "image": "images/siemens-pure-carat.jpg",
+        "marque": "siemens",
+        "title": "PURE CARAT - SIEMENS 2",
+        "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
+    },
+    {
+        "id": "siemens-pure-carat3",
+        "image": "images/siemens-pure-carat.jpg",
+        "marque": "siemens",
+        "title": "PURE CARAT - SIEMENS 3",
+        "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
+    },
+    {
+        "id": "siemens-pure-carat4",
+        "image": "images/siemens-pure-carat.jpg",
+        "marque": "siemens",
+        "title": "PURE CARAT - SIEMENS hello",
         "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
     }
 ]

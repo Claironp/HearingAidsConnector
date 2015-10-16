@@ -16,7 +16,7 @@ var Accessory = React.createClass({
             <div id="tab-accessory" className="content">
                 <div className="accessory-intro">
                     <div className="content-padded">
-                        <img src={'images/'+accessory.id+'.jpg'} />
+                        <img src={accessory.image} />
                         <h3>{accessory.title}</h3>
                     </div>
                 </div>
