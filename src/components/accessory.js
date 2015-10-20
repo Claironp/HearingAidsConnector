@@ -12,7 +12,7 @@ var Accessory = React.createClass({
         var accessory = accessories.get(this.props.params.id);
         if (!accessory) return <Tab></Tab>;
 
-        return <Tab title="Accessoire" backTo="/accessories" backLabel="Back">
+        return <Tab title="Accessoire" back={true} backLabel="Back">
             <div id="tab-accessory" className="content">
                 <div className="accessory-intro">
                     <div className="content-padded">

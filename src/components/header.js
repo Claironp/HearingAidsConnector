@@ -1,7 +1,9 @@
 var React = require('react');
 var Link = require('react-router').Link;
+var History = require('react-router').History;
 
 var HeaderNav = React.createClass({
+    mixins: [ History ],
     propTypes: {
         title: React.PropTypes.string
     },
@@ -10,18 +12,18 @@ var HeaderNav = React.createClass({
         return {
             title: 'HearingAidsConnector',
             backLabel: 'Back',
-            backTo: ''
+            back: false
         };
     },
 
     render: function() {
         var buttons = [];
 
-        if (this.props.backTo) {
-            buttons.push(<Link to={this.props.backTo} className="btn btn-link btn-nav pull-left">
+        if (this.props.back) {
+            buttons.push(<a key="back" onClick={this.history.goBack} className="btn btn-link btn-nav pull-left">
                 <span className="icon icon-left-nav"></span>
                 {this.props.backLabel}
-            </Link>);
+            </a>);
         }
 
 
