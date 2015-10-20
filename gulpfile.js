@@ -15,6 +15,7 @@ var env = require('gulp-env');
 
 var rootDir = jetpack.cwd(__dirname);
 var ratchetDir = rootDir.cwd('node_modules/ratchet');
+var fontAwesomeDir = rootDir.cwd('node_modules/font-awesome');
 var srcDir = rootDir.cwd('src');
 var wwwDir = rootDir.cwd('www');
 
@@ -68,6 +69,7 @@ gulp.task('build', ['build-less', 'build-js'], function() {
     srcDir.copy('images', wwwDir.path('images'));
     rootDir.copy('config.xml', wwwDir.path('config.xml'));
     ratchetDir.copy('dist/fonts', wwwDir.path('fonts'));
+    fontAwesomeDir.copy('fonts', wwwDir.path('fonts/font-awesome'));
 });
 
 gulp.task('watch', function() {
