@@ -29,7 +29,7 @@ var SearchTab = React.createClass({
         return <Tab title='Rechercher'>
             <div className="bar bar-standard bar-header-secondary">
                 <form>
-                    <input type="search" placeholder='Rechercher un produits ou une marques' onKeyUp={this.onInputKeyup} />
+                    <input type="search" placeholder='Rechercher un produit ou une marque' onKeyUp={this.onInputKeyup} />
                 </form>
             </div>
             <div id="tab-search" className="content">
