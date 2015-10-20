@@ -45,9 +45,6 @@ var Accessory = React.createClass({
                     </li>
                 </ul>
             </div>
-            <div className="bar bar-standard bar-footer-secondary">
-                <button className="btn btn-block">Acheter</button>
-            </div>
         </Tab>;
     }
 });
