@@ -10,6 +10,7 @@ var source = require('vinyl-source-stream');
 var genSplash = require('ios-splash-generate');
 var genIcons = require('ios-icon-resize');
 var phonegapBuild = require('gulp-phonegap-build');
+var connect = require('gulp-connect');
 var env = require('gulp-env');
 
 var rootDir = jetpack.cwd(__dirname);
@@ -109,6 +110,13 @@ gulp.task('deploy', ['env', 'package'], function(cb) {
     }));
 });
 
+gulp.task('serve', function() {
+    connect.server({
+        root: wwwDir.cwd(),
+        port: 8888
+    });
+});
+
 gulp.task('default', function(cb) {
-    runSequence('watch', 'package-prepare', cb);
+    runSequence('watch', 'package-prepare', 'serve', cb);
 });
