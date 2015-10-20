@@ -21,6 +21,10 @@ module.exports = {
         });
     },
 
+    filter: function(filter) {
+        return _.filter(accessoriesList, filter);
+    },
+
     all: function() {
         return accessoriesList;
     }

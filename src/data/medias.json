@@ -3,5 +3,10 @@
         "id": "tv",
         "title": "Television",
         "icon": "fa fa-television"
+    },
+    {
+        "id": "phone",
+        "title": "Telephone",
+        "icon": "fa fa-phone"
     }
 ]
