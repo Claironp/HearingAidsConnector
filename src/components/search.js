@@ -1,8 +1,14 @@
 var React = require('react');
 
 var Tab = require('./tab');
+
 var accessories = require('../lib/accessories');
+var medias = require('../lib/medias');
+var brands = require('../lib/brands');
+
 var AccessoriesList = require('./lists/accessories');
+var MediasList = require('./lists/medias');
+var BrandsList = require('./lists/brands');
 
 var SearchTab = React.createClass({
     getInitialState: function() {
@@ -22,6 +28,8 @@ var SearchTab = React.createClass({
 
         if (this.state.q) {
             content = <div>
+                <BrandsList brands={brands.search(this.state.q)} />
+                <MediasList medias={medias.search(this.state.q)} />
                 <AccessoriesList accessories={accessories.search(this.state.q)} />
             </div>;
         }

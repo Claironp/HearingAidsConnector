@@ -1,14 +1,7 @@
-var _ = require('lodash');
-var mediasList = require('../data/medias');
+var list = require('./list');
+var data = require('../data/medias');
 
-module.exports = {
-    get: function(id) {
-        return _.find(mediasList, {
-            id: id
-        });
-    },
+module.exports = list(data, {
+    searchFields: ['title']
+});
 
-    all: function() {
-        return mediasList;
-    }
-};
