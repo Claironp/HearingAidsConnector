@@ -1,12 +1,47 @@
 [
     {
-        "id": "tv",
-        "title": "Television",
-        "icon": "fa fa-television"
+        "id": "mobile apps",
+        "title": "Applications Mobiles",
+        "icon": "fa fa-at"
+    },
+    {
+        "id": "remote",
+        "title": "Télécommande",
+        "icon": "fa fa-volume-up"
+    },
+    {
+        "id": "mobile phone",
+        "title": "Ecoute du téléphone mobile",
+        "icon": "fa fa-mobile"
     },
     {
         "id": "phone",
-        "title": "Telephone",
+        "title": "Ecoute du téléphone fixe",
         "icon": "fa fa-phone"
+    },
+    {
+        "id": "tv",
+        "title": "Ecoute de la télévision",
+        "icon": "fa fa-television"
+    },
+    {
+        "id": "computer",
+        "title": "Ecoute de l'ordinateur/tablette",
+        "icon": "fa fa-laptop"
+    },
+    {
+        "id": "music",
+        "title": "Ecoute du lecteur de Musique",
+        "icon": "fa fa-music"
+    },
+    {
+        "id": "distance",
+        "title": "Ecoute à distance",
+        "icon": "fa fa-arrow-right"
+    },
+    {
+        "id": "difficult",
+        "title": "Ecoute en situations difficiles",
+        "icon": "fa fa-comments"
     }
 ]
