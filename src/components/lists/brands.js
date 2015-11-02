@@ -8,10 +8,8 @@ var Brand = React.createClass({
 
         return <li className="table-view-cell media">
             <Link to={'/medias/'+brand.id} className="navigate-right">
-                <img className="media-object pull-left" src={brand.image} />
                 <div className="media-body">
                     {brand.title}
-                    <p>{brand.description}</p>
                 </div>
             </Link>
         </li>;
