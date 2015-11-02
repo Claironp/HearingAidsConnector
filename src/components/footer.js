@@ -20,7 +20,6 @@ var FooterNav = React.createClass({
     render: function() {
         return <nav className="bar bar-tab">
             <FooterLink to='/' label='Marques' icon='home' />
-            <FooterLink to='/medias' label='Medias' icon='list' />
             <FooterLink to='/search' label='Rechercher' icon='search' />
             <FooterLink to='/about' label='A propos' icon='info' />
         </nav>;

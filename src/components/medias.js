@@ -8,9 +8,11 @@ var MediasList = require('./lists/medias');
 
 var MediasTab = React.createClass({
     render: function() {
+        var brand = this.props.params.brand;
+
         return <Tab title='Medias'>
             <div id="tab-accessories" className="content">
-                <MediasList medias={medias.all()} />
+                <MediasList medias={medias.filterByBrand(brand)} />
             </div>
         </Tab>;
     }

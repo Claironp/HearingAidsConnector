@@ -13,7 +13,7 @@ ReactDOM.render(
     <router.Router>
         <router.Route path="/" component={BrandsTab} />
         <router.Route path="/accessories/:filter/:value" component={AccessoriesTab}/>
-        <router.Route path="/medias" component={MediasTab}/>
+        <router.Route path="/medias/:brand" component={MediasTab}/>
         <router.Route path="/accessory/:id" component={AccessoryTab}/>
         <router.Route path="/about" component={AboutTab}/>
         <router.Route path="/search" component={SearchTab}/>
