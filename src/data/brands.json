@@ -1,42 +1,42 @@
 [
     {
         "id": "bernafon",
-        "title": "Bernafon",
+        "title": "Bernafon"
     },
     {
         "id": "hansaton",
-        "title": "Hansaton",
+        "title": "Hansaton"
     },
     {
         "id": "oticon",
-        "title": "Oticon",
+        "title": "Oticon"
     },
     {
         "id": "phonak",
-        "title": "Phonak",
+        "title": "Phonak"
     },
     {
         "id": "resound",
-        "title": "Resound",
+        "title": "Resound"
     },
     {
         "id": "rexton",
-        "title": "Rexton",
+        "title": "Rexton"
     },
     {
         "id": "siemens",
-        "title": "Siemens",
+        "title": "Siemens"
     },
     {
         "id": "starkey",
-        "title": "Starkey",
+        "title": "Starkey"
     },
     {
         "id": "unitron",
-        "title": "Unitron",
+        "title": "Unitron"
     },
     {
         "id": "widex",
-        "title": "Widex",
+        "title": "Widex"
     }
 ]
