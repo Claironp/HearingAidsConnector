@@ -1,26 +1,27 @@
 [
     {
         "id": "starkey-surflink-telecommande",
-        "image": "images/starkey/starkey-surflink-telecommande.png",
+        "image": "images/starkey-surflink-telecommande.png",
         "brand": "starkey",
         "medias": ["remote"],
         "title": "Surflink Telecommande",
-        "description": "La télécommande SurfLink est l’outil idéal pour les patients qui préfèrent commander leurs aides auditives pour changer le programme et le volume, couper le son ou même activer et désactiver le mode streaming à leur guise."
+        "description": "La télécommande SurfLink est une telecommande simple qui permet de commander les aides auditives pour changer le programme et le volume, couper le son ou même activer et désactiver le mode streaming.",
+        "detail": "Surflink telecommande permet de piloter ses aides auditives de facon simple et basique"
     },
     {
         "id": "starkey-surflink-media",
-        "image": "images/starkey/starkey-surflink-media.jpg",
+        "image": "images/starkey-surflink-media.jpg",
         "brand": "starkey",
         "medias": ["tv","computer","music"],
         "title": "Surflink Media",
-        "description": "L’émetteur SurfLink Media permet de recevoir directement dans les aides auditives (sans accessoire intermédiaire) le son de la plupart des appareils multimédia, notamment les télévisions, les chaines Hi-Fi, les radios et les lecteurs MP3"
+        "description": "Le SurfLink Media permet de recevoir directement dans les aides auditives (sans aucun accessoire intermédiaire) le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs..."
     },
     {
         "id": "starkey-surflink-mobile",
-        "image": "images/starkey/starkey-surflink-mobile",
+        "image": "images/starkey-surflink-mobile.jpeg",
         "brand": "starkey",
         "medias": ["remote","mobile phone","phone","tv","computer","music","distance","difficult"],
         "title": "Surflink Mobile 2",
-        "description": "Combinée avec nos aides auditives sans-fil, SurfLink Mobile 2 représente tout ce dont vous avez besoin en matière de connectivité pour converser au téléphone, profiter de la télévision et de la musique ou écouter un conférencier."
+        "description": "Le SurfLink Mobile 2 permet de recevoir directement dans les aides auditives les conversations téléphoniques, le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs. Il permet également des facilités d'écoute à distance et dans des environnements sonores difficiles."
     }
 ]
