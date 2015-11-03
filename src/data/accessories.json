@@ -8,27 +8,19 @@
         "description": "La télécommande SurfLink est l’outil idéal pour les patients qui préfèrent commander leurs aides auditives pour changer le programme et le volume, couper le son ou même activer et désactiver le mode streaming à leur guise."
     },
     {
-        "id": "siemens-pure-carat2",
-        "image": "images/siemens-pure-carat.jpg",
-        "brand": "siemens",
-        "medias": ["tv"],
-        "title": "PURE CARAT - SIEMENS 2",
-        "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
+        "id": "starkey-surflink-media",
+        "image": "images/starkey/starkey-surflink-media.jpg",
+        "brand": "starkey",
+        "medias": ["tv","computer","music"],
+        "title": "Surflink Media",
+        "description": "L’émetteur SurfLink Media permet de recevoir directement dans les aides auditives (sans accessoire intermédiaire) le son de la plupart des appareils multimédia, notamment les télévisions, les chaines Hi-Fi, les radios et les lecteurs MP3"
     },
     {
-        "id": "siemens-pure-carat3",
-        "image": "images/siemens-pure-carat.jpg",
-        "brand": "siemens",
-        "medias": ["phone"],
-        "title": "PURE CARAT - SIEMENS 3",
-        "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
-    },
-    {
-        "id": "siemens-pure-carat4",
-        "image": "images/siemens-pure-carat.jpg",
-        "brand": "siemens",
-        "medias": ["tv"],
-        "title": "PURE CARAT - SIEMENS hello",
-        "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
+        "id": "starkey-surflink-mobile",
+        "image": "images/starkey/starkey-surflink-mobile",
+        "brand": "starkey",
+        "medias": ["remote","mobile phone","phone","tv","computer","music","distance","difficult"],
+        "title": "Surflink Mobile 2",
+        "description": "Combinée avec nos aides auditives sans-fil, SurfLink Mobile 2 représente tout ce dont vous avez besoin en matière de connectivité pour converser au téléphone, profiter de la télévision et de la musique ou écouter un conférencier."
     }
 ]
