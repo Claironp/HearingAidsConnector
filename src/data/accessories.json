@@ -1,11 +1,11 @@
 [
     {
-        "id": "siemens-pure-carat",
-        "image": "images/siemens-pure-carat.jpg",
-        "brand": "siemens",
-        "medias": ["tv", "phone"],
-        "title": "PURE CARAT - SIEMENS",
-        "description": "Les appareils auditifs Pure Carat sont équipés de toutes les fonctionnalités de la technologie BestSound Technology développée..."
+        "id": "starkey-surflink-telecommande",
+        "image": "images/starkey/starkey-surflink-telecommande.png",
+        "brand": "starkey",
+        "medias": ["remote"],
+        "title": "Surflink Telecommande",
+        "description": "La télécommande SurfLink est l’outil idéal pour les patients qui préfèrent commander leurs aides auditives pour changer le programme et le volume, couper le son ou même activer et désactiver le mode streaming à leur guise."
     },
     {
         "id": "siemens-pure-carat2",
