@@ -23,5 +23,37 @@
         "medias": ["remote","mobile phone","phone","tv","computer","music","distance","difficult"],
         "title": "Surflink Mobile 2",
         "description": "Le SurfLink Mobile 2 permet de recevoir directement dans les aides auditives les conversations téléphoniques, le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs. Il permet également des facilités d'écoute à distance et dans des environnements sonores difficiles."
+    },
+    {
+        "id": "resound-remote-control-2",
+        "image": "images/resound-remote-control.png",
+        "brand": "resound",
+        "medias": ["remote"],
+        "title": "Unite Remote Control 2",
+        "description": "Ajustez le volume et changez les programmes de vos aides auditives compatibles sans fil en toute discrétion."
+    },
+    {
+        "id": "resound-tv-streamer-2",
+        "image": "images/resound-tv-streamer",
+        "brand": "resound",
+        "medias": ["tv","computer","music"],
+        "title": "Unite TV Streamer 2",
+        "description": "Ecoutez le son de votre télévision directement dans vos aides auditives au volume que vous désirez."
+    },
+    {
+        "id": "resound-phone-clip",
+        "image": "images/resound-phone-clip",
+        "brand": "resound",
+        "medias": ["remote","mobile phone","phone","tv","computer","music"],
+        "title": "Unite Phone Clip+",
+        "description": "Entendez clairement toutes vos conversations téléphoniques directement dans vos aides auditives compatible sans fil."
+    },
+    {
+        "id": "resound-mini-microphone-",
+        "image": "images/resound-mini-microphone",
+        "brand": "resound",
+        "medias": ["tv","computer","music","distance","difficult"],
+        "title": "Unite Mini Microphone",
+        "description": "Profitez de toutes les conversations même dans les environnements bruyants avec ce micro-cravate."
     }
 ]
