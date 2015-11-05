@@ -55,5 +55,61 @@
         "medias": ["tv","computer","music","distance","difficult"],
         "title": "Unite Mini Microphone",
         "description": "Profitez de toutes les conversations même dans les environnements bruyants avec ce micro-cravate."
+    },
+    {
+        "id": "widex-phone-dex",
+        "image": "images/widex-phonedex.png",
+        "brand": "widex",
+        "medias": ["phone"],
+        "title": "Phone Dex",
+        "description": "Pone Dex est un téléphone fixe sans fil, qui transmet un son d'une grande clarté directement dans vos aides auditives. Il s'utilise comme un téléphone fixe traditionnel. ",
+    },
+    {
+        "id": "widex-rc-dex",
+        "image": "images/widex-RCDex.png",
+        "brand": "widex",
+        "medias": ["remote"],
+        "title": "RC Dex",
+        "description": "RC Dex est une radio-commande élégante et conviviale vous donnant le contrôle des fonctions de l'aide auditive comme le volume et les programmes."
+    },
+    {
+        "id": "widex-call-dex",
+        "image": "images/widex-call-dex-small.jpg",
+        "brand": "widex",
+        "medias": ["mobile phone"],
+        "title": "Call Dex",
+        "description": "Call Dex permet la transmission de conversations directement depuis le téléphone portable à vos aides auditives."
+    },
+    {
+        "id": "widex-tv-dex",
+        "image": "images/widex-TVDex.jpg",
+        "brand": "widex",
+        "medias": ["tv"],
+        "title": "TV Dex",
+        "description": "Avec TV Dex, vous bénéficierez d'une transmission sans fil du son du téléviseur directement à votre aide auditive. "
+    },
+    {
+        "id": "widex-uni-dex",
+        "image": "images/widex-unidex.jpg",
+        "brand": "widex",
+        "medias": ["mobile phone","computer","music"],
+        "title": "Uni Dex",
+        "description": "L'appareil transmet le son à vos aides auditives, non seulement depuis les téléphones portables, mais aussi depuis tout appareil muni d'une sortie mini-jack ."
+    },
+    {
+        "id": "widex-com-dex",
+        "image": "images/comdex.jpg",
+        "brand": "widex",
+        "medias": ["remote","mobile phone","phone","tv","computer","music"],
+        "title": "Com Dex",
+        "description": "Com Dex est un élégant appareil de communication en mode mains libres qui transmet le son à vos aides auditives depuis votre smartphone. Il se porte autour du cou et se connecte sans fil à vos aides auditives pour vous offrir une véritable solution mains libres. Vous pouvez également transmettre de la musique et plus encore."
+    },
+    {
+        "id": "widex-m-dex",
+        "image": "images/widex-MDex.png",
+        "brand": "widex",
+        "medias": ["phone","mobile phone","tv","computer","music","difficult"],
+        "title": "M Dex",
+        "description": "M-DEX transmet les conversations téléphoniques depuis votre téléphone mobile directement à vos aides auditives. Il fait aussi office de télécommande etfacilite l'écoute dans des situations d'écoute difficiles."
     }
 ]
