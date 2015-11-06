@@ -5,8 +5,8 @@
         "brand": "starkey",
         "medias": ["remote"],
         "title": "Surflink Telecommande",
-        "description": "La télécommande SurfLink est une telecommande simple qui permet de commander les aides auditives pour changer le programme et le volume, couper le son ou même activer et désactiver le mode streaming.",
-        "detail": "Surflink telecommande permet de piloter ses aides auditives de facon simple et basique"
+        "description": "La télécommande SurfLink permet de commander les aides auditives pour changer le programme et le volume, couper le son...",
+        "detail": "Télécommande basique : Controle de volume, controle des programmes, marche/arret, controle de volume monaural, activation du streaming (si associé au Surflink Media)."
     },
     {
         "id": "starkey-surflink-media",
@@ -30,7 +30,8 @@
         "brand": "resound",
         "medias": ["remote"],
         "title": "Unite Remote Control 2",
-        "description": "Ajustez le volume et changez les programmes de vos aides auditives compatibles sans fil en toute discrétion."
+        "description": "Ajustez le volume et changez les programmes de vos aides auditives compatibles sans fil en toute discrétion.",
+        "detail": "Télécommande basique : Controle de volume, controle des programmes, marche/arret, commande de volume monaural, activation du streaming (si associé au Unite TV)."
     },
     {
         "id": "resound-tv-streamer-2",
@@ -62,7 +63,8 @@
         "brand": "widex",
         "medias": ["phone"],
         "title": "Phone Dex",
-        "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives. Il s'utilise comme un téléphone fixe traditionnel. ",
+        "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives.",
+        "detail": "Ecoute du téléphone fixe : S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique."
     },
     {
         "id": "widex-rc-dex",
@@ -70,7 +72,8 @@
         "brand": "widex",
         "medias": ["remote"],
         "title": "RC Dex",
-        "description": "RC Dex est une télécommande vous donnant le contrôle des fonctions de l'aide auditive comme le volume et les programmes."
+        "description": "RC Dex est une télécommande vous donnant le contrôle des fonctions de l'aide auditive comme le volume et les programmes.",
+        "detail": "Télécommande basique : Controle de volume, controle des programmes, marche/arret."
     },
     {
         "id": "widex-call-dex",
@@ -113,20 +116,13 @@
         "description": "M-DEX transmet les conversations téléphoniques depuis votre téléphone mobile directement à vos aides auditives. Il fait aussi office de télécommande et facilite l'écoute dans des situations d'écoute difficiles."
     },
     {
-        "id": "resound-tv-streamer-2",
-        "image": "images/resound-tv-streamer",
-        "brand": "resound",
-        "medias": ["tv","computer","music"],
-        "title": "Unite TV Streamer 2",
-        "description": "Ecoutez le son de votre télévision directement dans vos aides auditives au volume que vous désirez."
-    },
-    {
         "id": "phonak-dect",
         "image": "images/phonak-dect.jpg",
         "brand": "phonak",
         "medias": ["phone"],
         "title": "Dect",
-        "description": "Phonak DECT est un téléphone fixe sans fil qui transmet le son en simultané à vos deux aides auditives, réduisant le bruit pour une compréhension optimale."
+        "description": "Phonak DECT est un téléphone fixe qui transmet le son directement à vos aides auditives.",
+        "detail": "Ecoute du téléphone fixe : S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique. Augmentation du volume jusqu'à 15dB, mode booster pour les moments ou les utilisateurs ne portent pas leurs aides auditives."
     },
     {
         "id": "phonak-easy-call",
@@ -143,6 +139,7 @@
         "medias": ["remote"],
         "title": "Pilot One",
         "description": "Pilot One est une télécommande simple qui ajuste les réglages du volume et des programmes des aides auditives.",
+        "detail": "Controle de volume, controle des programmes, marche/arret."
     },
     {
         "id": "phonak-tv-link",
