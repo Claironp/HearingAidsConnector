@@ -19,7 +19,7 @@ var AccessoriesTab = React.createClass({
             );
         };
 
-        return <Tab title='Accessoires'>
+        return <Tab title='Accessoires' back={true}>
             <div id="tab-accessories" className="content">
                 <AccessoriesList accessories={accessories.filter(filter)} />
             </div>

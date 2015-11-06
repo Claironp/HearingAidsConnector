@@ -11,7 +11,7 @@ var HeaderNav = React.createClass({
     getDefaultProps: function() {
         return {
             title: 'HearingAidsConnector',
-            backLabel: 'Back',
+            backLabel: 'Retour',
             back: false
         };
     },
