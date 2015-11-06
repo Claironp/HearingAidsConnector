@@ -8,6 +8,7 @@ var BrandTab = require('./components/brand');
 var AccessoryTab = require('./components/accessory');
 var AboutTab = require('./components/about');
 var SearchTab = require('./components/search');
+var ErrorTab = require('./components/error');
 
 ReactDOM.render(
     <router.Router>
@@ -17,6 +18,7 @@ ReactDOM.render(
         <router.Route path="/accessory/:id" component={AccessoryTab}/>
         <router.Route path="/about" component={AboutTab}/>
         <router.Route path="/search(/:q)" component={SearchTab}/>
+        <router.Route path="*" component={ErrorTab}/>
     </router.Router>,
     document.getElementById('app')
 );
