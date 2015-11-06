@@ -34,7 +34,7 @@ var Accessory = React.createClass({
                     </div>
                 </div>
                 <p className="content-padded">Cet accessoire marche avec les medias:</p>
-                <MediasList medias={accmedias} />
+                <MediasList medias={accmedias} brand={accessory.brand} />
 
                 <ul className="table-view">
                     <li className="table-view-cell media">
