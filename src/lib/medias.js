@@ -17,7 +17,6 @@ medias.filterByBrand = function(brand) {
         .flatten()
         .uniq()
         .map(function(media) {
-            console.log(media);
             return medias.get(media);
         })
         .value();

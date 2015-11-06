@@ -27,7 +27,7 @@
 
 
     <gap:plugin name="com.phonegap.plugin.statusbar" />
-    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarBackgroundColor" value="#662d91" />
     <preference name="StatusBarStyle" value="lightcontent" />
 
