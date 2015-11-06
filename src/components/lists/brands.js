@@ -7,7 +7,7 @@ var Brand = React.createClass({
         var brand = this.props.brand;
 
         return <li className="table-view-cell media">
-            <Link to={'/medias/'+brand.id} className="navigate-right">
+            <Link to={'/brand/'+brand.id} className="navigate-right">
                     {brand.title}
             </Link>
         </li>;
