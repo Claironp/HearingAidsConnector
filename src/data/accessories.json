@@ -34,7 +34,7 @@
     },
     {
         "id": "resound-tv-streamer-2",
-        "image": "images/resound-tv-streamer",
+        "image": "images/resound-tv-streamer.png",
         "brand": "resound",
         "medias": ["tv","computer","music"],
         "title": "Unite TV Streamer 2",
@@ -42,7 +42,7 @@
     },
     {
         "id": "resound-phone-clip",
-        "image": "images/resound-phone-clip",
+        "image": "images/resound-phone-clip.png",
         "brand": "resound",
         "medias": ["remote","mobile phone","phone","tv","computer","music"],
         "title": "Unite Phone Clip+",
@@ -50,7 +50,7 @@
     },
     {
         "id": "resound-mini-microphone-",
-        "image": "images/resound-mini-microphone",
+        "image": "images/resound-mini-microphone.png",
         "brand": "resound",
         "medias": ["tv","computer","music","distance","difficult"],
         "title": "Unite Mini Microphone",
@@ -98,7 +98,7 @@
     },
     {
         "id": "widex-com-dex",
-        "image": "images/comdex.jpg",
+        "image": "images/widex-comdex.jpg",
         "brand": "widex",
         "medias": ["remote","mobile phone","phone","tv","computer","music"],
         "title": "Com Dex",
@@ -154,7 +154,7 @@
     },
     {
         "id": "phonak-remote-mic",
-        "image": "images/phonak-remote-mic",
+        "image": "images/phonak-remote-mic.jpg",
         "brand": "phonak",
         "medias": ["distance"],
         "title": "Remote Mic",
@@ -179,7 +179,7 @@
     {
         "id": "",
         "image": "images/",
-        "brand": "phonak",
+        "brand": "",
         "medias": [],
         "title": "",
         "description": ""
