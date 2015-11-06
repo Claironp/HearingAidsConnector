@@ -16,7 +16,7 @@ ReactDOM.render(
         <router.Route path="/brand/:brand" component={BrandTab}/>
         <router.Route path="/accessory/:id" component={AccessoryTab}/>
         <router.Route path="/about" component={AboutTab}/>
-        <router.Route path="/search" component={SearchTab}/>
+        <router.Route path="/search(/:q)" component={SearchTab}/>
     </router.Router>,
     document.getElementById('app')
 );
