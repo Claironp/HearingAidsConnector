@@ -62,7 +62,7 @@
         "brand": "widex",
         "medias": ["phone"],
         "title": "Phone Dex",
-        "description": "Pone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives. Il s'utilise comme un téléphone fixe traditionnel. ",
+        "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives. Il s'utilise comme un téléphone fixe traditionnel. ",
     },
     {
         "id": "widex-rc-dex",
@@ -111,5 +111,213 @@
         "medias": ["phone","mobile phone","tv","computer","music","difficult"],
         "title": "M Dex",
         "description": "M-DEX transmet les conversations téléphoniques depuis votre téléphone mobile directement à vos aides auditives. Il fait aussi office de télécommande et facilite l'écoute dans des situations d'écoute difficiles."
+    },
+    {
+        "id": "resound-tv-streamer-2",
+        "image": "images/resound-tv-streamer",
+        "brand": "resound",
+        "medias": ["tv","computer","music"],
+        "title": "Unite TV Streamer 2",
+        "description": "Ecoutez le son de votre télévision directement dans vos aides auditives au volume que vous désirez."
+    },
+    {
+        "id": "phonak-dect",
+        "image": "images/phonak-dect.jpg",
+        "brand": "phonak",
+        "medias": ["phone"],
+        "title": "Dect",
+        "description": "Phonak DECT est un téléphone fixe sans fil qui transmet le son en simultané à vos deux aides auditives, réduisant le bruit pour une compréhension optimale."
+    },
+    {
+        "id": "phonak-easy-call",
+        "image": "images/phonak-easy-call.jpg",
+        "brand": "phonak",
+        "medias": ["mobile phone"],
+        "title": "Easy Call",
+        "description": "Phonak EasyCall connecte sans fil vos aides auditives Phonak à votre téléphone mobile. Il est branché à votre téléphone et diffuse la conversation directement dans les aides auditives."
+    },
+    {
+        "id": "phonak-pilot-one",
+        "image": "images/phonak-pilot-one.jpg",
+        "brand": "phonak",
+        "medias": ["remote"],
+        "title": "Pilot One",
+        "description": "Il ajuste les réglages du volume et des programmes des aides auditives.",
+    },
+    {
+        "id": "phonak-tv-link",
+        "image": "images/phonak-tv-link.jpg",
+        "brand": "phonak",
+        "medias": ["tv","music"],
+        "title": "TV Link",
+        "description": "La base TV Link est l'interface pour la télévision fonctionnant avec le ComPilot (ou le ComPilot Air) pour transmettre le son de votre télévision directement à vos aides auditives."
+    },
+    {
+        "id": "phonak-remote-mic",
+        "image": "images/phonak-remote-mic",
+        "brand": "phonak",
+        "medias": ["distance"],
+        "title": "Remote Mic",
+        "description": "Remote Mic est un microphone sans fil utile pour l'écoute à distance, il fonctionne avec le ComPilot (ou le ComPilot Air) pour transmettre la voix de l'orateur dans les aides auditives de l'auditeur."
+    },
+    {
+        "id": "phonak-com-pilot",
+        "image": "images/phonak-com-pilot.jpg",
+        "brand": "phonak",
+        "medias": ["remote","phone","mobile phone","tv","music","computer"],
+        "title": "Com Pilot",
+        "description": "Grâce à sa connectivité Bluetooth, le ComPilot transmet le son a vos aides auditives de nombreux appareils multimédia tels que : téléphones mobiles, ordinateurs, lecteurs de musique, télévisions... "
+    },
+    {
+        "id": "phonak-com-pilot-air",
+        "image": "images/phonak-com-pilot-air.jpg",
+        "brand": "phonak",
+        "medias": ["remote","phone","mobile phone","tv","music","computer"],
+        "title": "Com Pilot Air",
+        "description": "Com Pilot Air a les meme fonctionnalités que Com Pilot, il est simplement plus petit et ne se porte pas autour du coup."
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "phonak",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": "-",
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": "-",
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": ""
     }
 ]
