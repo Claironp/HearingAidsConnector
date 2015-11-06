@@ -142,7 +142,7 @@
         "brand": "phonak",
         "medias": ["remote"],
         "title": "Pilot One",
-        "description": "Il ajuste les réglages du volume et des programmes des aides auditives.",
+        "description": "Pilot One est une télécommande simple qui ajuste les réglages du volume et des programmes des aides auditives.",
     },
     {
         "id": "phonak-tv-link",
