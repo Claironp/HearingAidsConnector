@@ -9,13 +9,14 @@ var AccessoriesList = require('./lists/accessories');
 
 var AccessoriesTab = React.createClass({
     render: function() {
-        var filterType = this.props.params.filter;
-        var filterValue = this.props.params.value;
+        var media = this.props.params.media;
+        var brand = this.props.params.brand;
 
         var filter = function(accessory) {
-            if (filterType == 'media') return _.contains(accessory.medias, filterValue);
-            if (filterType == 'brand') return accessory.brand ==  filterValue;
-            return true;
+            return (
+                accessory.brand == brand
+                && _.contains(accessory.medias, media)
+            );
         };
 
         return <Tab title='Accessoires'>

@@ -12,7 +12,7 @@ var MediasTab = React.createClass({
 
         return <Tab title='Medias'>
             <div id="tab-accessories" className="content">
-                <MediasList medias={medias.filterByBrand(brand)} />
+                <MediasList medias={medias.filterByBrand(brand)} brand={brand} />
             </div>
         </Tab>;
     }

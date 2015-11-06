@@ -12,7 +12,7 @@ var SearchTab = require('./components/search');
 ReactDOM.render(
     <router.Router>
         <router.Route path="/" component={BrandsTab} />
-        <router.Route path="/accessories/:filter/:value" component={AccessoriesTab}/>
+        <router.Route path="/accessories/:brand/:media" component={AccessoriesTab}/>
         <router.Route path="/medias/:brand" component={MediasTab}/>
         <router.Route path="/accessory/:id" component={AccessoryTab}/>
         <router.Route path="/about" component={AboutTab}/>
