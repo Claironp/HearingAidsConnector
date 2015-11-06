@@ -38,7 +38,7 @@ var Accessory = React.createClass({
 
                 <ul className="table-view">
                     <li className="table-view-cell media">
-                        <Link to={'/accessories/brand/'+brand.id}  className="navigate-right">
+                        <Link to={'brand/'+brand.id}  className="navigate-right">
                             <div className="media-body">
                                 Voir tous les accessoires pour {brand.title}
                             </div>
