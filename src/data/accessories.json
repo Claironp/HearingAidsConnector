@@ -139,7 +139,7 @@
         "medias": ["remote"],
         "title": "Pilot One",
         "description": "Pilot One est une télécommande simple qui ajuste les réglages du volume et des programmes des aides auditives.",
-        "detail": "Controle de volume, controle des programmes, marche/arret."
+        "detail": "Telecommande basique : Controle de volume, controle des programmes, marche/arret."
     },
     {
         "id": "phonak-tv-link",
@@ -174,44 +174,49 @@
         "description": "Com Pilot Air a les meme fonctionnalités que Com Pilot, il est simplement plus petit et ne se porte pas autour du coup."
     },
     {
-        "id": "",
-        "image": "images/",
-        "brand": "",
-        "medias": [],
-        "title": "",
-        "description": ""
+        "id": "oticon-telecommande-2.0",
+        "image": "images/oticon-telecommande-2.0.jpeg",
+        "brand": "oticon",
+        "medias": ["remote"],
+        "title": "Telecommande 2.0",
+        "description": "Réglez le volume de vos appareils auditifs ou changer de programme en utilisant seulement trois boutons.",
+        "detail": "Telecommande basique : Controle de volume, controle des programmes."
     },
     {
-        "id": "",
-        "image": "images/",
-        "brand": "",
-        "medias": [],
-        "title": "",
-        "description": ""
+        "id": "oticon-streamer-pro",
+        "image": "images/oticon-streamer-pro.jpeg",
+        "brand": "oticon",
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance","difficult"],
+        "title": "Streamer Pro",
+        "description": "Le Streamer Pro vous offre un contrôle total sur le monde sonore qui vous entoure.",
+        "detail": "Telecommande : Controle de volume, controle des programmes. <br/> Ecoute du téléphone mobile : Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Streamer via Bluetooth, ou de facon filaire. <br/> Ecoute du telephone fixe : Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0, ou via Bluetooth si votre téléphone fixe est Bluetooth. <br/> Ecoute de la télévision : Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0, ou via Bluetooth si votre téléviseur est Bluetooth. <br/> Ecoute du lecteur de musique : Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire si il n'est pas équipé du Bluetooth. <br/> Ecoute de l'ordinateur, tablette : Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth, de facon filaire, ou via une clé USB Sennheiser. <br/> Ecoute à distance, en situations difficiles : Ecoute directement dans les appareils la voix de votre interlocuteur portant le microphone Connect Line, connecté via Bluetooth au Streamer Pro."
     },
     {
-        "id": "",
-        "image": "images/",
-        "brand": "",
-        "medias": [],
-        "title": "",
-        "description": "-",
+        "id": "oticon-microphone-connectline",
+        "image": "images/oticon-microphone-connectline.jpeg",
+        "brand": "oticon",
+        "medias": ["distance","difficult"],
+        "title": "Microphone ConnectLine",
+        "description": "Grâce au Microphone ConnectLine, vous pouvez converser et comprendre votre interlocuteur dans les situations les plus difficiles, et cela même lorsque vous vous trouvez à une certaine distance.",
+        "detail": "Ecoute à distance, en situations difficiles : Ecoute directement dans les appareils la voix de votre interlocuteur portant le microphone Connect Line, connecté via Bluetooth au Streamer. Streamer necessaire"
     },
     {
-        "id": "",
-        "image": "images/",
-        "brand": "",
-        "medias": [],
-        "title": "",
-        "description": ""
+        "id": "oticon-adaptateur-tv-2.0",
+        "image": "images/oticon-adaptateur-tv-2.0.jpeg",
+        "brand": "oticon",
+        "medias": ["tv"],
+        "title": "Adaptateur TV 2.0",
+        "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent, avec l'adaptateur TV 2.0 ",
+        "detail": "Ecoute de la télévision : Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0. Streamer necessaire."
     },
     {
-        "id": "",
-        "image": "images/",
-        "brand": "",
-        "medias": [],
-        "title": "",
-        "description": ""
+        "id": "oticon-adaptateur-telephonique-2.0",
+        "image": "images/oticon-adaptateur-telephone-2.0.jpeg",
+        "brand": "oticon",
+        "medias": ["phone"],
+        "title": "Adaptateur Telephonique 2.0",
+        "description": "Grâce à l'adaptateur téléphonique ConnectLine, vous pouvez recevoir tous vos appels téléphoniques directement dans vos aides auditives.",
+        "detail": "Ecoute du telephone fixe : Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0. Streamer necessaire"
     },
     {
         "id": "",
