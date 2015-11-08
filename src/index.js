@@ -10,6 +10,7 @@ var AboutTab = require('./components/about');
 var SearchTab = require('./components/search');
 var ErrorTab = require('./components/error');
 
+
 ReactDOM.render(
     <router.Router>
         <router.Route path="/" component={BrandsTab} />
@@ -22,3 +23,16 @@ ReactDOM.render(
     </router.Router>,
     document.getElementById('app')
 );
+
+
+document.addEventListener('deviceready', function() {
+    if (typeof cordova.plugins.Keyboard !== 'undefined') {
+        cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
+    }
+
+    if (typeof StatusBar !== 'undefined') {
+        StatusBar.styleDefault();
+        StatusBar.overlaysWebView(false);
+        StatusBar.backgroundColorByHexString("#F7F7F7");
+    }
+}, false);

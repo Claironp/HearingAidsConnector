@@ -25,13 +25,15 @@
     <preference name="KeyboardShrinksView" value="false"/>
     <gap:platform name="ios" />
 
-
-    <gap:plugin name="com.phonegap.plugin.statusbar" />
-    <preference name="StatusBarOverlaysWebView" value="true" />
-    <preference name="StatusBarBackgroundColor" value="#662d91" />
-    <preference name="StatusBarStyle" value="lightcontent" />
-
     <gap:plugin name="org.apache.cordova.splashscreen" />
+    <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
+    <gap:plugin name="com.phonegap.plugin.statusbar" />
+
+
+    <feature name="Keyboard">
+        <param name="ios-package" value="IonicKeyboard" onload="true" />
+    </feature>
+
     <icon gap:role="default" src="images/icon/base.png" />
     <icon gap:platform="ios" height="40" src="images/icon/ios/icon-40.png" width="40" />
     <icon gap:platform="ios" height="50" src="images/icon/ios/icon-50.png" width="50" />
