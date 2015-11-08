@@ -8,7 +8,7 @@ var Accessory = React.createClass({
 
         return <li className="table-view-cell media">
             <Link to={'/accessory/'+accessory.id} className="navigate-right">
-                <img className="media-object pull-left" src={accessory.image} />
+                <img className="media-object pull-left" src={accessory.image} style={{maxWidth: '30%'}} />
                 <div className="media-body">
                     {accessory.title}
                     <p>{accessory.description}</p>
