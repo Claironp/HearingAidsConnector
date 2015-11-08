@@ -6,7 +6,7 @@ var AboutTab = React.createClass({
         return <Tab title='A propos'>
             <div id="tab-about" className="content">
                 <div className="content-padded">
-                    <h2>A propos de cette application</h2>
+                    <h2>Application développée dans le cadre de mon mémoire de troisième année en audioprothèse. Claire Pélissier, Institut des Sciences et Techniques de la Réadaptation, Université Claude Bernard LYON1 </h2>
                 </div>
             </div>
         </Tab>;

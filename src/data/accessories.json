@@ -111,7 +111,7 @@
         "id": "widex-m-dex",
         "image": "images/widex-MDex.png",
         "brand": "widex",
-        "medias": ["phone","mobile phone","tv","computer","music","difficult"],
+        "medias": ["remote","phone","mobile phone","tv","computer","music","difficult"],
         "title": "M Dex",
         "description": "M-DEX transmet les conversations téléphoniques depuis votre téléphone mobile directement à vos aides auditives. Il fait aussi office de télécommande et facilite l'écoute dans des situations d'écoute difficiles."
     },
