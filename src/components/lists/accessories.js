@@ -8,7 +8,7 @@ var Accessory = React.createClass({
 
         return <li className="table-view-cell media">
             <Link to={'/accessory/'+accessory.id} className="navigate-right">
-                <img className="media-object pull-left" src={accessory.image} style={{maxWidth: '30%'}} />
+                <div className="media-object pull-left"><img src={accessory.image} /></div>
                 <div className="media-body">
                     {accessory.title}
                     <p>{accessory.description}</p>
@@ -20,7 +20,7 @@ var Accessory = React.createClass({
 
 var AccessoriesList = React.createClass({
     render: function() {
-        return <ul className="table-view">
+        return <ul className="table-view accessories-table-view">
             {_.map(this.props.accessories, function(accessory) {
                 return <Accessory key={accessory.id} accessory={accessory} />
             })}
