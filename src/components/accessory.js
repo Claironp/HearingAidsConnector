@@ -30,7 +30,7 @@ var Accessory = React.createClass({
                         <img src={accessory.image} />
                         <h3>{accessory.title}</h3>
                         <p className="content-padded">{accessory.description}</p>
-                        <p className="content-padded">{accessory.detail}</p>
+                        <p className="content-padded" dangerouslySetInnerHTML={{__html: accessory.detail}}></p>
                     </div>
                 </div>
                 <p className="content-padded">Cet accessoire marche avec les medias:</p>
