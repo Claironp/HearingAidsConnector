@@ -32,7 +32,7 @@
     <preference name="StatusBarStyle" value="lightcontent" />
 
     <gap:plugin name="org.apache.cordova.splashscreen" />
-    <gap:plugin name="org.apache.cordova.keyboard" />
+    <gap:plugin name="com.phonegap.plugin.keyboard" />
     <icon gap:role="default" src="images/icon/base.png" />
     <icon gap:platform="ios" height="40" src="images/icon/ios/icon-40.png" width="40" />
     <icon gap:platform="ios" height="50" src="images/icon/ios/icon-50.png" width="50" />
