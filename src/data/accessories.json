@@ -354,7 +354,7 @@
         "id": "bernafon-soundgate-3",
         "image": "images/bernafon-soundgate-3.jpeg",
         "brand": "bernafon",
-        "medias": [],
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "SoundGate 3",
         "description": "Grace à sa connectivité Bluetooth, le SoundGate 3 transmet le son à vos aides auditives de nombreux accessoires multimédia.",
         "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth, ou de facon filaire <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 (à acheter séparément), ou via Bluetooth (pour certaines télévision Bluetooth). <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire si il n'est pas équipé du Bluetooth. <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate"
