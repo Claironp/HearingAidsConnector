@@ -423,6 +423,60 @@
         "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la Blu ou à la Mini Blu via le Transmitter. <span class='couleur-bleu'>Blu ou Mini Blu necessaire.</span> (De même pour une chaine Hi-Fi, un ordinateur...)"
     },
     {
+        "id": "hansaton-media",
+        "image": "images/hansaton-media.jpg",
+        "brand": "hansaton",
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
+        "title": "Media",
+        "description": "Grâce à sa connectivité Bluetooth, la Media transmet le son à vos aides auditives de nombreux appareils multimédia",
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Media via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté à la Media via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Media"
+    },
+    {
+        "id": "hansaton-mini-media",
+        "image": "images/hansaton-mini-media.jpg",
+        "brand": "hansaton",
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
+        "title": "Mini Media",
+        "description": "Grâce à sa connectivité Bluetooth, la Mini Media transmet le son à vos aides auditives de nombreux appareils multimédia",
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Mini Media via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Mini Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la Mini Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté à la Mini Media via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Mini Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Mini Media"
+    },
+    {
+        "id": "hansaton-emote-2",
+        "image": "images/hansaton-emote-2.JPG",
+        "brand": "hansaton",
+        "medias": ["remote"],
+        "title": "eMote 2",
+        "description": "Permet de rêgler le volume ou de changer de programme facilement",
+        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes, marche/arret"
+    },
+    {
+        "id": "hansaton-transmitter",
+        "image": "images/hansaton-transmitter.jpeg",
+        "brand": "hansaton",
+        "medias": ["tv","music","computer"],
+        "title": "Transmitter",
+        "description": "Le Transmitter connecte les appareils non équipés du Bluetooth à la Media ou à la Mini Media. Il peut être connecté à votre TV, votre chaîne stéréo, votre ordinateur...",
+        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la Media ou à la Mini Media via le Transmitter. <span class='couleur-bleu'>Media ou Mini Media necessaire.</span> (De même pour une chaine Hi-Fi, un ordinateur...)"
+    },
+    {
+        "id": "hansaton-speech-connect",
+        "image": "images/hansaton-speech-connect.jpeg",
+        "brand": "hansaton",
+        "medias": ["distance"],
+        "title": "Speech Connect",
+        "description": "Speech Connect est un microphone sans fil utile pour l'écoute à distance",
+        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la Media ou à la Mini Media <span class='couleur-bleu'>Media ou Mini Media nécessaire</span>"
+    },
+    {
+        "id": "",
+        "image": "images/",
+        "brand": "",
+        "medias": [],
+        "title": "",
+        "description": "",
+        "detail": ""
+    },
+    {
         "id": "",
         "image": "images/",
         "brand": "",
