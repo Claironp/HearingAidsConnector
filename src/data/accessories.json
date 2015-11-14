@@ -5,7 +5,7 @@
         "brand": "starkey",
         "medias": ["remote"],
         "title": "Surflink Telecommande",
-        "description": "La télécommande SurfLink permet de commander les aides auditives pour changer le programme et le volume, couper le son...",
+        "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "<h4>Télécommande basique :</h4> Controle de volume, controle des programmes, marche/arret, controle de volume monaural, activation du streaming (si associé au Surflink Media)."
     },
     {
@@ -14,8 +14,8 @@
         "brand": "starkey",
         "medias": ["remote","mobile phone","phone","tv","computer","music","distance","difficult"],
         "title": "Surflink Mobile 2",
-        "description": "Le SurfLink Mobile 2 permet de recevoir directement dans les aides auditives les conversations téléphoniques, le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs. Il permet également des facilités d'écoute à distance et dans des environnements sonores difficiles.",
-        "detail": ""
+        "description": "Grace à sa connectivité Bluetooth, la Surlink Mobile transmet directement à vos aides auditives le son de nombreux appareils multimédia",
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Surflink Mobile via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Surflink Mobile via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Surflink Mobile via Bluetooth (pour certains téléviseurs Bluetooth, sinon utiliser le Surflink Media) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Surflink Mobile via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Surlink Mobile via Bluetooth, ou de facon filaire <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur éloigné portant le Surlink Mobile <br/> <h4> Ecoute en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur dans une situation bruyante grace au microphone directionnel de la Surlink Mobile"
     },
     {
         "id": "starkey-surflink-media",
@@ -23,8 +23,8 @@
         "brand": "starkey",
         "medias": ["tv","computer","music"],
         "title": "Surflink Media",
-        "description": "Le SurfLink Media permet de recevoir directement dans les aides auditives (sans aucun accessoire intermédiaire) le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs...",
-        "detail": ""
+        "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
+        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute de la télévision connectée directement à vos appareils SANS AUCUN ACCESSOIRE INTERMEDIAIRE (De même pour une chaine Hi-Fi, un ordinateur...)"
     },
     {
         "id": "resound-remote-control-2",
