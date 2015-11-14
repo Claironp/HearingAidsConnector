@@ -6,16 +6,16 @@
         "medias": ["remote"],
         "title": "Surflink Telecommande",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
-        "detail": "<h4>Télécommande basique :</h4> Controle de volume, controle des programmes, marche/arret, controle de volume monaural, activation du streaming (si associé au Surflink Media)."
+        "detail": "<h4>Télécommande :</h4> Controle de volume, controle des programmes, marche/arret, controle de volume monaural, activation du streaming (si associé au Surflink Media)."
     },
     {
         "id": "starkey-surflink-mobile",
         "image": "images/starkey-surflink-mobile.jpeg",
         "brand": "starkey",
         "medias": ["remote","mobile phone","phone","tv","computer","music","distance","difficult"],
-        "title": "Surflink Mobile 2",
+        "title": "Surflink Mobile",
         "description": "Grace à sa connectivité Bluetooth, la Surlink Mobile transmet directement à vos aides auditives le son de nombreux appareils multimédia",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Surflink Mobile via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Surflink Mobile via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Surflink Mobile via Bluetooth (pour certains téléviseurs Bluetooth, sinon utiliser le Surflink Media) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Surflink Mobile via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Surlink Mobile via Bluetooth, ou de facon filaire <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur éloigné portant le Surlink Mobile <br/> <h4> Ecoute en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur dans une situation bruyante grace au microphone directionnel de la Surlink Mobile"
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Surflink Mobile via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Surflink Mobile via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Surflink Mobile via Bluetooth (pour certains téléviseurs Bluetooth, sinon utiliser le Surflink Media) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Surflink Mobile via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Surlink Mobile via Bluetooth, ou de facon filaire <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur éloigné portant le Surlink Mobile, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/> <h4> Ecoute en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur dans une situation bruyante grace au microphone directionnel de la Surlink Mobile, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE"
     },
     {
         "id": "starkey-surflink-media",
@@ -24,7 +24,7 @@
         "medias": ["tv","computer","music"],
         "title": "Surflink Media",
         "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
-        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute de la télévision connectée directement à vos appareils SANS AUCUN ACCESSOIRE INTERMEDIAIRE (De même pour une chaine Hi-Fi, un ordinateur...)"
+        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute de la télévision connectée directement à vos appareils via le Surlink Media, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)"
     },
     {
         "id": "resound-remote-control-2",
@@ -32,17 +32,17 @@
         "brand": "resound",
         "medias": ["remote"],
         "title": "Unite Remote Control 2",
-        "description": "Ajustez le volume et changez les programmes de vos aides auditives compatibles sans fil en toute discrétion.",
+        "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "<h4>Télécommande basique :</h4> Controle de volume, controle des programmes, marche/arret, commande de volume monaural, activation du streaming (si associé au Unite TV)."
     },
     {
         "id": "resound-phone-clip",
         "image": "images/resound-phone-clip.png",
         "brand": "resound",
-        "medias": ["remote","mobile phone","phone","tv","computer","music"],
+        "medias": ["remote","mobile phone","phone","tv","music","computer"],
         "title": "Unite Phone Clip+",
-        "description": "Entendez clairement toutes vos conversations téléphoniques directement dans vos aides auditives compatible sans fil.",
-        "detail": ""
+        "description": "Grace à sa connectivité Bluetooth, Unite Phone Clip+ transmet directement à vos aides auditives le son de nombreux appareils multimédia",
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Unite Phone Clip+ via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Unite Phone Clip+ via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Unite Phone Clip+ via Bluetooth (pour certains téléviseurs Bluetooth, sinon utiliser la Unite TV) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Unite Phone Clip+ via Bluetooth <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Unite Phone Clip+ via Bluetooth"
     },
     {
         "id": "resound-tv-streamer-2",
@@ -50,8 +50,8 @@
         "brand": "resound",
         "medias": ["tv","computer","music"],
         "title": "Unite TV Streamer 2",
-        "description": "Ecoutez le son de votre télévision directement dans vos aides auditives au volume que vous désirez.",
-        "detail": ""
+        "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
+        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute de la télévision connectée directement à vos appareils via la Unite TV, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)"
     },
     {
         "id": "resound-mini-microphone-",
@@ -59,8 +59,8 @@
         "brand": "resound",
         "medias": ["tv","computer","music","distance","difficult"],
         "title": "Unite Mini Microphone",
-        "description": "Profitez de toutes les conversations même dans les environnements bruyants avec ce micro-cravate.",
-        "detail": ""
+        "description": "Profitez de toutes les conversations même à distance et dans les environnements bruyants avec ce micro-cravate.",
+        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur éloigné portant le Mini Microphone, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/> <h4> Ecoute en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur dans une situation bruyante grace au Mini Microphone, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Mini Microphone de façon filaire, ou tout simplement en rapprochant le Mini Microphone des hauts parleurs de votre télévision, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique (MP3, Radio, Chaine Hi-Fi...) connecté au Mini Microphone de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Mini Microphone de facon filaire"
     },
     {
         "id": "widex-rc-dex",
