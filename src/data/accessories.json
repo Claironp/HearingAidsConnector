@@ -9,21 +9,21 @@
         "detail": "<h4>Télécommande basique :</h4> Controle de volume, controle des programmes, marche/arret, controle de volume monaural, activation du streaming (si associé au Surflink Media)."
     },
     {
-        "id": "starkey-surflink-media",
-        "image": "images/starkey-surflink-media.jpg",
-        "brand": "starkey",
-        "medias": ["tv","computer","music"],
-        "title": "Surflink Media",
-        "description": "Le SurfLink Media permet de recevoir directement dans les aides auditives (sans aucun accessoire intermédiaire) le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs...",
-        "detail": ""
-    },
-    {
         "id": "starkey-surflink-mobile",
         "image": "images/starkey-surflink-mobile.jpeg",
         "brand": "starkey",
         "medias": ["remote","mobile phone","phone","tv","computer","music","distance","difficult"],
         "title": "Surflink Mobile 2",
         "description": "Le SurfLink Mobile 2 permet de recevoir directement dans les aides auditives les conversations téléphoniques, le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs. Il permet également des facilités d'écoute à distance et dans des environnements sonores difficiles.",
+        "detail": ""
+    },
+    {
+        "id": "starkey-surflink-media",
+        "image": "images/starkey-surflink-media.jpg",
+        "brand": "starkey",
+        "medias": ["tv","computer","music"],
+        "title": "Surflink Media",
+        "description": "Le SurfLink Media permet de recevoir directement dans les aides auditives (sans aucun accessoire intermédiaire) le son de la plupart des appareils multimédia, notamment les télévisions, lecteurs de musique, ordinateurs...",
         "detail": ""
     },
     {
