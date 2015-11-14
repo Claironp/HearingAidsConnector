@@ -36,21 +36,21 @@
         "detail": "<h4>Télécommande basique :</h4> Controle de volume, controle des programmes, marche/arret, commande de volume monaural, activation du streaming (si associé au Unite TV)."
     },
     {
-        "id": "resound-tv-streamer-2",
-        "image": "images/resound-tv-streamer.png",
-        "brand": "resound",
-        "medias": ["tv","computer","music"],
-        "title": "Unite TV Streamer 2",
-        "description": "Ecoutez le son de votre télévision directement dans vos aides auditives au volume que vous désirez.",
-        "detail": ""
-    },
-    {
         "id": "resound-phone-clip",
         "image": "images/resound-phone-clip.png",
         "brand": "resound",
         "medias": ["remote","mobile phone","phone","tv","computer","music"],
         "title": "Unite Phone Clip+",
         "description": "Entendez clairement toutes vos conversations téléphoniques directement dans vos aides auditives compatible sans fil.",
+        "detail": ""
+    },
+    {
+        "id": "resound-tv-streamer-2",
+        "image": "images/resound-tv-streamer.png",
+        "brand": "resound",
+        "medias": ["tv","computer","music"],
+        "title": "Unite TV Streamer 2",
+        "description": "Ecoutez le son de votre télévision directement dans vos aides auditives au volume que vous désirez.",
         "detail": ""
     },
     {
@@ -61,15 +61,6 @@
         "title": "Unite Mini Microphone",
         "description": "Profitez de toutes les conversations même dans les environnements bruyants avec ce micro-cravate.",
         "detail": ""
-    },
-    {
-        "id": "widex-phone-dex",
-        "image": "images/widex-phonedex.png",
-        "brand": "widex",
-        "medias": ["phone"],
-        "title": "Phone Dex",
-        "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives.",
-        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique."
     },
     {
         "id": "widex-rc-dex",
@@ -88,6 +79,15 @@
         "title": "Call Dex",
         "description": "Call Dex permet la transmission de conversations directement depuis le téléphone portable à vos aides auditives. Il s'agit d'un petit sabot qui se branche sur la prise casque du téléphone mobile.",
         "detail": ""
+    },
+    {
+        "id": "widex-phone-dex",
+        "image": "images/widex-phonedex.png",
+        "brand": "widex",
+        "medias": ["phone"],
+        "title": "Phone Dex",
+        "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives.",
+        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique."
     },
     {
         "id": "widex-tv-dex",
@@ -126,13 +126,13 @@
         "detail": ""
     },
     {
-        "id": "phonak-dect",
-        "image": "images/phonak-dect.jpg",
+        "id": "phonak-pilot-one",
+        "image": "images/phonak-pilot-one.jpg",
         "brand": "phonak",
-        "medias": ["phone"],
-        "title": "Dect",
-        "description": "Phonak DECT est un téléphone fixe qui transmet le son directement à vos aides auditives.",
-        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique. Augmentation du volume jusqu'à 15dB, mode booster pour les moments ou les utilisateurs ne portent pas leurs aides auditives."
+        "medias": ["remote"],
+        "title": "Pilot One",
+        "description": "Pilot One est une télécommande simple qui ajuste les réglages du volume et des programmes des aides auditives.",
+        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes, marche/arret."
     },
     {
         "id": "phonak-easy-call",
@@ -144,13 +144,13 @@
         "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté via Bluetooth au EasyCall."
     },
     {
-        "id": "phonak-pilot-one",
-        "image": "images/phonak-pilot-one.jpg",
+        "id": "phonak-dect",
+        "image": "images/phonak-dect.jpg",
         "brand": "phonak",
-        "medias": ["remote"],
-        "title": "Pilot One",
-        "description": "Pilot One est une télécommande simple qui ajuste les réglages du volume et des programmes des aides auditives.",
-        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes, marche/arret."
+        "medias": ["phone"],
+        "title": "Dect",
+        "description": "Phonak DECT est un téléphone fixe qui transmet le son directement à vos aides auditives.",
+        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique. Augmentation du volume jusqu'à 15dB, mode booster pour les moments ou les utilisateurs ne portent pas leurs aides auditives."
     },
     {
         "id": "phonak-tv-link",
@@ -160,15 +160,6 @@
         "title": "TV Link",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
         "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot ou au ComPilot Air via le TV Link. <span class='couleur-bleu'>ComPilot ou ComPilot Air necessaire.</span>"
-    },
-    {
-        "id": "phonak-remote-mic",
-        "image": "images/phonak-remote-mic.jpg",
-        "brand": "phonak",
-        "medias": ["distance"],
-        "title": "Remote Mic",
-        "description": "Remote Mic est un microphone sans fil utile pour l'écoute à distance.",
-        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au ComPilot ou au ComPilot Air. <span class='couleur-bleu'>ComPilot ou ComPilot Air necessaire.</span>"
     },
     {
         "id": "phonak-com-pilot",
@@ -187,6 +178,15 @@
         "title": "Com Pilot Air",
         "description": "Com Pilot Air a les meme fonctionnalités que Com Pilot, il est simplement plus petit et ne se porte pas autour du cou.",
         "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot Air via Bluetooth (si votre téléphone fixe est Bluetooth). <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot Air via le TV Link (à acheter séparément), ou via Bluetooth si votre téléviseur est Bluetooth. <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot Air."
+    },
+    {
+        "id": "phonak-remote-mic",
+        "image": "images/phonak-remote-mic.jpg",
+        "brand": "phonak",
+        "medias": ["distance"],
+        "title": "Remote Mic",
+        "description": "Remote Mic est un microphone sans fil utile pour l'écoute à distance.",
+        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au ComPilot ou au ComPilot Air. <span class='couleur-bleu'>ComPilot ou ComPilot Air necessaire.</span>"
     },
     {
         "id": "oticon-telecommande-2.0",
@@ -261,24 +261,6 @@
         "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes."
     },
     {
-        "id": "unitron-umic",
-        "image": "images/unitron-umic.png",
-        "brand": "unitron",
-        "medias": ["distance"],
-        "title": "uMic",
-        "description": "uMic est un microphone sans fil utile pour l'écoute à distance.",
-        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au uDirect ou au uStream. <span class='couleur-bleu'>uDirect ou uStream necessaire.</span>"
-    },
-    {
-        "id": "unitron-utv",
-        "image": "images/unitron-utv.png",
-        "brand": "unitron",
-        "medias": ["tv"],
-        "title": "uTV",
-        "description": "uTV communique le son d'un téléviseur directement aux deux aides auditives.",
-        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au uDirect ou au uStream via le uTV. <span class='couleur-bleu'>uDirect ou uStream necessaire.</span>"
-    },
-    {
         "id": "unitron-udirect",
         "image": "images/unitron-udirect.png",
         "brand": "unitron",
@@ -295,6 +277,24 @@
         "title": "uStream",
         "description": "uStream a les meme fonctionnalités que uDirect, il est simplement plus petit et ne se porte pas autour du cou.",
         "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au uStream via Bluetooth. <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au uStream via Bluetooth (si votre téléphone fixe est Bluetooth). <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au uStream via le uTV (à acheter séparément), ou via Bluetooth si votre téléviseur est Bluetooth. <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au uStream via Bluetooth. <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au uStream via Bluetooth. <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au uStream.",
+    },
+    {
+        "id": "unitron-utv",
+        "image": "images/unitron-utv.png",
+        "brand": "unitron",
+        "medias": ["tv"],
+        "title": "uTV",
+        "description": "uTV communique le son d'un téléviseur directement aux deux aides auditives.",
+        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au uDirect ou au uStream via le uTV. <span class='couleur-bleu'>uDirect ou uStream necessaire.</span>"
+    },
+    {
+        "id": "unitron-umic",
+        "image": "images/unitron-umic.png",
+        "brand": "unitron",
+        "medias": ["distance"],
+        "title": "uMic",
+        "description": "uMic est un microphone sans fil utile pour l'écoute à distance.",
+        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au uDirect ou au uStream. <span class='couleur-bleu'>uDirect ou uStream necessaire.</span>"
     },
     {
         "id": "simens-easypocket",
