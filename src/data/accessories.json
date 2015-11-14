@@ -21,7 +21,7 @@
         "id": "starkey-surflink-media",
         "image": "images/starkey-surflink-media.jpg",
         "brand": "starkey",
-        "medias": ["tv","computer","music"],
+        "medias": ["tv"],
         "title": "Surflink Media",
         "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
         "detail": "<h4>Ecoute de la télévision :</h4> Ecoute de la télévision connectée directement à vos appareils via le Surlink Media, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)"
@@ -48,7 +48,7 @@
         "id": "resound-tv-streamer-2",
         "image": "images/resound-tv-streamer.png",
         "brand": "resound",
-        "medias": ["tv","computer","music"],
+        "medias": ["tv"],
         "title": "Unite TV Streamer 2",
         "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
         "detail": "<h4>Ecoute de la télévision :</h4> Ecoute de la télévision connectée directement à vos appareils via la Unite TV, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)"
