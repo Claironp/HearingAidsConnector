@@ -77,8 +77,8 @@
         "brand": "widex",
         "medias": ["mobile phone"],
         "title": "Call Dex",
-        "description": "Call Dex permet la transmission de conversations directement depuis le téléphone portable à vos aides auditives. Il s'agit d'un petit sabot qui se branche sur la prise casque du téléphone mobile.",
-        "detail": ""
+        "description": "Branché à votre téléphone mobile, Call Dex connecte sans fil vos aides auditives à votre téléphone mobile.",
+        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile branché au Call Dex."
     },
     {
         "id": "widex-phone-dex",
@@ -86,8 +86,8 @@
         "brand": "widex",
         "medias": ["phone"],
         "title": "Phone Dex",
-        "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives.",
-        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique."
+        "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives",
+        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique"
     },
     {
         "id": "widex-tv-dex",
@@ -95,8 +95,8 @@
         "brand": "widex",
         "medias": ["tv"],
         "title": "TV Dex",
-        "description": "Avec TV Dex, vous bénéficierez d'une transmission sans fil du son du téléviseur directement à votre aide auditive. ",
-        "detail": ""
+        "description": "Bénéficiez d'une transmission sans fil du son du téléviseur directement à vos aide auditive",
+        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au TV Dex."
     },
     {
         "id": "widex-uni-dex",
@@ -104,17 +104,17 @@
         "brand": "widex",
         "medias": ["mobile phone","computer","music"],
         "title": "Uni Dex",
-        "description": "L'appareil transmet le son à vos aides auditives via un cable mini-jack, non seulement depuis les téléphones portables, mais aussi depuis tout appareil muni d'une sortie mini-jack.",
-        "detail": ""
+        "description": "L'appareil transmet directement le son à vos aides auditives de tout appareil muni d'une sortie mini-jack (téléphones mobiles, MP3, ordinateurs..)",
+        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Uni Dex de facon filaire <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique (par exemple un lecteur MP3) connecté au Uni Dex via de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Uni Dex de facon filaire"
     },
     {
         "id": "widex-com-dex",
         "image": "images/widex-comdex.jpg",
         "brand": "widex",
-        "medias": ["remote","mobile phone","phone","tv","computer","music"],
+        "medias": ["mobile phone","phone","tv","computer","music"],
         "title": "Com Dex",
-        "description": "Com Dex est un appareil de communication en mode mains libres qui transmet le son à vos aides auditives depuis votre smartphone. Il se porte autour du cou et se connecte sans fil à vos aides auditives pour vous offrir une véritable solution mains libres. Vous pouvez également transmettre de la musique et plus encore.",
-        "detail": ""
+        "description": "Com Dex est un appareil de communication en mode mains libres qui transmet le son à vos aides auditives de nombreux objets multimédia",
+        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Com Dex via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Com Dex via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Uni Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Com Dex via Bluetooth <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Com Dex via Bluetooth "
     },
     {
         "id": "widex-m-dex",
@@ -122,8 +122,8 @@
         "brand": "widex",
         "medias": ["remote","phone","mobile phone","tv","computer","music","difficult"],
         "title": "M Dex",
-        "description": "M Dex transmet les conversations téléphoniques depuis votre téléphone mobile directement à vos aides auditives. Il fait aussi office de télécommande et facilite l'écoute dans des situations d'écoute difficiles.",
-        "detail": ""
+        "description": "M Dex transmet directement à vos aides auditives le son de nombreux accessoires multimédia",
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au M Dex via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au M Dex via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au M Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au M Dex via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au M Dex via Bluetooth, ou de facon filaire <br/> <h4>Ecoute en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur en milieu bruyant grace au microphone directionnel du M Dex"
     },
     {
         "id": "phonak-pilot-one",
@@ -141,7 +141,7 @@
         "medias": ["mobile phone"],
         "title": "Easy Call",
         "description": "Fixé à votre téléphone mobile, EasyCall connecte sans fil vos aides auditives Phonak à votre téléphone mobile.",
-        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté via Bluetooth au EasyCall."
+        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile fixé au EasyCall."
     },
     {
         "id": "phonak-dect",
@@ -150,16 +150,16 @@
         "medias": ["phone"],
         "title": "Dect",
         "description": "Phonak DECT est un téléphone fixe qui transmet le son directement à vos aides auditives.",
-        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique. Augmentation du volume jusqu'à 15dB, mode booster pour les moments ou les utilisateurs ne portent pas leurs aides auditives."
+        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique"
     },
     {
         "id": "phonak-tv-link",
         "image": "images/phonak-tv-link.jpg",
         "brand": "phonak",
-        "medias": ["tv","music"],
+        "medias": ["tv"],
         "title": "TV Link",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
-        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot ou au ComPilot Air via le TV Link. <span class='couleur-bleu'>ComPilot ou ComPilot Air necessaire.</span>"
+        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot ou au ComPilot Air via le TV Link (de même pour une chaine Hi-Fi...) <span class='couleur-bleu'>ComPilot ou ComPilot Air necessaire.</span>"
     },
     {
         "id": "phonak-com-pilot",
@@ -168,7 +168,7 @@
         "medias": ["remote","phone","mobile phone","tv","music","computer","distance"],
         "title": "Com Pilot",
         "description": "Grâce à sa connectivité Bluetooth, le ComPilot transmet le son à vos aides auditives de nombreux appareils multimédia.",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot via Bluetooth, ou de facon filaire. <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot via Bluetooth (si votre téléphone fixe est Bluetooth). <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot via le TV Link (à acheter séparément), ou via Bluetooth si votre téléviseur est Bluetooth. <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot via Bluetooth, ou de facon filaire si il n'est pas équipé du Bluetooth. <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot via Bluetooth, ou de facon filaire. <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot."
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot via Bluetooth (pour certains téléphones Bluetooth). <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot via le TV Link (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot via Bluetooth, ou de facon filaire <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot."
     },
     {
         "id": "phonak-com-pilot-air",
@@ -177,7 +177,7 @@
         "medias": ["remote","phone","mobile phone","tv","music","computer","distance"],
         "title": "Com Pilot Air",
         "description": "Com Pilot Air a les meme fonctionnalités que Com Pilot, il est simplement plus petit et ne se porte pas autour du cou.",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot Air via Bluetooth (si votre téléphone fixe est Bluetooth). <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot Air via le TV Link (à acheter séparément), ou via Bluetooth si votre téléviseur est Bluetooth. <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot Air."
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot Air via Bluetooth (pour certains téléphones Bluetooth). <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au ComPilot Air via le TV Link (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot Air via Bluetooth <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot Air via Bluetooth. <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot Air."
     },
     {
         "id": "phonak-remote-mic",
