@@ -6,7 +6,7 @@ var AboutTab = React.createClass({
         return <Tab title='A propos'>
             <div id="tab-about" className="content">
                 <div className="content-padded">
-                    <h2>Application développée dans le cadre de mon mémoire de troisième année en audioprothèse. Claire Pélissier, Institut des Sciences et Techniques de la Réadaptation, Université Claude Bernard LYON1 </h2>
+                    <h5>Dans le cadre de l'élaboration de mon mémoire de troisième année en audioprothèse, j'ai choisi de développer cette application visant à faciliter la recherche d'accessoires pour aides auditives : conditions d'utilisation, documentation, modes d'emploi, compatibilité. Toutes ces informations sont désormais accessibles facilement, et surtout rapidement.  <br/> <br/> <br/> <br/>Claire Pélissier <br/>Troisième année d'audioprothèse <br/>Institut des Sciences et Techniques de la Réadaptation <br/>UNIVERSITE CLAUDE BERNARD LYON 1 </h5>
                 </div>
             </div>
         </Tab>;
