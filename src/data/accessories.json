@@ -1,5 +1,15 @@
 [
     {
+        "id": "starkey-trulink",
+        "image": "images/starkey-app-trulink.jpg",
+        "brand": "starkey",
+        "medias": ["app"],
+        "title": "TruLink Hearing Control",
+        "description": "Application mobile dédiée aux aides auditives 'Halo'",
+        "detail": "Fonctions : <br/> Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, de vos musiques, vidéos... directement dans les appareils <br/> Géolocalisez un appareil perdu <br/> Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/> Créez vos propres programmes personnalisés <br/> Utilisez votre smartphone comme microphone pour mieux profiter des conversations en situations de bruit ",
+        "notice": "https://www.dropbox.com/s/11kuk12sugck8l1/starkey-guide_utilisation_trulink.pdf?dl=0"
+    },
+    {
         "id": "starkey-surflink-telecommande",
         "image": "images/starkey-surflink-telecommande.png",
         "brand": "starkey",
