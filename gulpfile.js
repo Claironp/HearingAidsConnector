@@ -28,7 +28,7 @@ b.on('log', gutil.log);
 function bundleJS() {
     return b.bundle()
     .on('error', function(err) {
-        gutil.log(gutil.colors.red('JS error:'), err.message);
+        gutil.log(gutil.colors.red('JS error:'), err);
     })
     .pipe(source('bundle.js'))
     .pipe(gulp.dest('./www/js'));
