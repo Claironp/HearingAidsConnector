@@ -1,12 +1,12 @@
  [
     {
-        "id": "mobile apps",
+        "id": "appli",
         "title": "Applications Mobiles",
         "icon": "fa fa-at"
     },
     {
         "id": "remote",
-        "title": "Télécommande",
+        "title": "Télécommandes",
         "icon": "fa fa-volume-up"
     },
     {

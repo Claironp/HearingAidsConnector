@@ -3,10 +3,10 @@
         "id": "starkey-trulink",
         "image": "images/starkey-app-trulink.jpg",
         "brand": "starkey",
-        "medias": ["app"],
+        "medias": ["appli"],
         "title": "TruLink Hearing Control",
-        "description": "Application mobile dédiée aux aides auditives 'Halo'",
-        "detail": "Fonctions : <br/> Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, de vos musiques, vidéos... directement dans les appareils <br/> Géolocalisez un appareil perdu <br/> Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/> Créez vos propres programmes personnalisés <br/> Utilisez votre smartphone comme microphone pour mieux profiter des conversations en situations de bruit ",
+        "description": "Application mobile dédiée aux aides auditives Halo",
+        "detail": "Fonctions : <br/> Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, de vos musiques, vidéos... directement dans les appareils <br/> Géolocalisez un appareil perdu <br/> Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/> Créez vos propres programmes personnalisés <br/> Utilisez votre smartphone comme microphone pour mieux profiter des conversations en situations de bruit  <br/> </br> Compatibilité iOS : Halo et l'appli TruLink sont compatibles avec iPhone 6S Plus, iPhone 6S, iPhone 6 Plus, iPhone 6, l'iPhone 5s, l'iPhone 5c, l'iPhone 5, l'iPhone 4s, l'iPad Air, l'iPad Air 2, l'iPad (4ème génération), l'iPad mini avec écran Retina, l'iPad mini, l'iPad mini 3, l'iPod touch (5ème génération) et Apple Watch. L'utilisation d'Apple Watch nécessite l'iPhone 5 ou ultérieur. Halo et l'appli TruLink sont compatibles avec l'iOS 9.1, 9.0.2, 9.0.1, 9, 8.4.1, 8.3, 8.2, 8.1.3, 8.1.2, 8.1.1, 8.1, 8, 7.1.2, 7.1.1 et 7.1 <br/> <br/> Compatibilité Android : Halo et l'appli TruLink sont compatibles avec les produits Android suivants: Samsung Galaxy S® 6 Edge Plus, Samsung Galaxy S® 6, Samsung Galaxy S® 5, Samsung Galaxy S® 4, Samsung Galaxy Note® 5, Samsung Galaxy Note® 4, Samsung Galaxy Note® 3, HTC One® M8 and HTC One® M7. Il est recommandé aux usagers d'utiliser la plate-forme 5.1.1 pour les téléphones Galaxy S6 Edge Plus et Galaxy Note 5. Il est recommandé aux usagers d'utiliser la plate-forme 4.4.4 pour les téléphones Galaxy S5 et S4 et la plate-forme 5.0 pour Galaxy S6, HTC One M8 et M7, et Note 4 et Note 3",
         "notice": "https://www.dropbox.com/s/11kuk12sugck8l1/starkey-guide_utilisation_trulink.pdf?dl=0"
     },
     {
@@ -220,6 +220,26 @@
         "notice": "https://www.dropbox.com/s/0e9jtkwbkkajjv0/phonak-remote-mic.pdf?dl=0"
     },
     {
+        "id": "oticon-connectline",
+        "image": "images/oticon-app-connectline.jpeg",
+        "brand": "oticon",
+        "medias": ["appli"],
+        "title": "Connectline",
+        "description": "Application mobile permettant de piloter le Streamer Pro",
+        "detail": "Fonctions : Profitez de toutes les options de votre Streamer Pro avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS : L'application ConnectLine pour iPhone, iPad et iPod touch est compatible avec l'iPhone 6 Plus, l'iPhone 6, l'iPhone 5s, l'iPhone 5c, l'iPhone 5, l'iPhone 4s, l'iPhone 4, l'iPad Air, l'iPad mini avec écran Retina, l'iPad mini, l'iPad (3ème et 4ème génération), li'Pad 2 et l'iPod touch (5ème génération) et nécessite un Streamer Pro 1.2 App ou une version ultérieure <br/> <br/> Compatibilité Android : L'application ConnectLine pour smartphones et tablettes Android nécessite le Streamer Pro 1.3A ou version ultérieure",
+        "notice": "https://www.dropbox.com/s/jt4e7q8urfz81se/oticon-app-connectline.pdf?dl=0",
+        "notice 2": "https://www.dropbox.com/s/orh8bmlgwfblkkd/oticon-app-connectline-android.pdf?dl=0"
+    },
+    {
+        "id": "oticon-tinnitus-sound-support",
+        "image": "images/oticon-tinnitus-app.jpg",
+        "brand": "oticon",
+        "medias": ["appli"],
+        "title": "Tinnitus SoundSupport",
+        "description": "Application de gestion des acouphènes",
+        "detail": "Fonctions : Grâce à la bibliothèque de sons, vous pourrez répertorier des sons utiles et agréables pour vous soulager de vos acouphènes au quotidien <br/> </br> Compatibilité : iOS et Android"
+    },
+    {
         "id": "oticon-telecommande-2.0",
         "image": "images/oticon-telecommande-2.0.jpeg",
         "brand": "oticon",
@@ -388,6 +408,15 @@
         "description": "VoiceLink est un microphone sans fil utile pour l'écoute à distance",
         "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la easyTek ou à la miniTek. <span class='couleur-bleu'>easyTek ou miniTek necessaire.</span>",
         "notice": ""
+    },
+    {
+        "id": "bernafon-soundgate",
+        "image": "images/bernafon-soundgate-app.jpeg",
+        "brand": "bernafon",
+        "medias": ["appli"],
+        "title": "SoundGate",
+        "description": "Application mobile permettant de piloter le SoudGate 3",
+        "detail": "Fonctions : Profitez de toutes les options de votre SoudGate 3 avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS : L’application SoundGate pour iPhone fonctionne avec l‘iPhone 6 Plus, l‘iPhone 6, l‘iPhone 5s, l‘iPhone 5c, iPhone 5, l‘iPhone 4s et l‘iPhone 4. Elle requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.0 ou ultérieure <br/> <br/> Compatibilité Android : L’application SoundGate pour les smartphones Android™ requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.1 ou ultérieure"
     },
     {
         "id": "bernafon-telecommande",
