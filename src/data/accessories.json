@@ -80,6 +80,15 @@
         "notice": "https://www.dropbox.com/s/xhl3uynebsjy06y/Unite%20Mini%20MicrophoneMode%20demploi.pdf?dl=0"
     },
     {
+        "id": "widex",
+        "image": "images/widex-comdex-app.jpeg",
+        "brand": "widex",
+        "medias": ["appli"],
+        "title": "COM-DEX",
+        "description": "Application mobile permettant de piloter l'accessoire Com Dex",
+        "detail": "Fonctions : Profitez de toutes les options de votre Com Dex avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS : Disponible a partir de l'iphone 4s, iOS 8 ou version ultérieure <br/> <br/> Compatibilité Android : Fonctionne avec Android 4.4 ou version ultérieure"
+    },
+    {
         "id": "widex-rc-dex",
         "image": "images/widex-RCDex.png",
         "brand": "widex",
@@ -224,7 +233,7 @@
         "image": "images/oticon-app-connectline.jpeg",
         "brand": "oticon",
         "medias": ["appli"],
-        "title": "Connectline",
+        "title": "ConnectLine",
         "description": "Application mobile permettant de piloter le Streamer Pro",
         "detail": "Fonctions : Profitez de toutes les options de votre Streamer Pro avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS : L'application ConnectLine pour iPhone, iPad et iPod touch est compatible avec l'iPhone 6 Plus, l'iPhone 6, l'iPhone 5s, l'iPhone 5c, l'iPhone 5, l'iPhone 4s, l'iPhone 4, l'iPad Air, l'iPad mini avec écran Retina, l'iPad mini, l'iPad (3ème et 4ème génération), li'Pad 2 et l'iPod touch (5ème génération) et nécessite un Streamer Pro 1.2 App ou une version ultérieure <br/> <br/> Compatibilité Android : L'application ConnectLine pour smartphones et tablettes Android nécessite le Streamer Pro 1.3A ou version ultérieure",
         "notice": "https://www.dropbox.com/s/jt4e7q8urfz81se/oticon-app-connectline.pdf?dl=0",
@@ -288,6 +297,15 @@
         "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives.",
         "detail": "<h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0. <span class='couleur-bleu'>Streamer necessaire.</span>",
         "notice": ""
+    },
+    {
+        "id": "unitron-ucontrol",
+        "image": "images/unitron-ucontrol-app.png",
+        "brand": "unitron",
+        "medias": ["appli"],
+        "title": "uControl",
+        "description": "Application mobile permettant de piloter le uDirect (ou le uStream)",
+        "detail": "Fonctions : Profitez de toutes les options de votre accessoire uDirect (ou uStream) avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS et Android"
     },
     {
         "id": "unitron-telecommande",
