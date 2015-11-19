@@ -80,7 +80,7 @@
         "notice": "https://www.dropbox.com/s/xhl3uynebsjy06y/Unite%20Mini%20MicrophoneMode%20demploi.pdf?dl=0"
     },
     {
-        "id": "widex",
+        "id": "widex-comdex-app",
         "image": "images/widex-comdex-app.jpeg",
         "brand": "widex",
         "medias": ["appli"],
@@ -157,6 +157,16 @@
         "description": "M Dex transmet directement à vos aides auditives le son de nombreux accessoires multimédia",
         "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au M Dex via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au M Dex via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au M Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au M Dex via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au M Dex via Bluetooth, ou de facon filaire <br/> <h4>Ecoute en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur en milieu bruyant grace au microphone directionnel du M Dex",
         "notice": "https://www.dropbox.com/s/ayn2nldavbtdwhw/widex-m-dex.pdf?dl=0"
+    },
+    {
+        "id": "phonak-remotecontrol-app",
+        "image": "images/phonak-remotecontrol-app.png",
+        "brand": "phonak",
+        "medias": ["appli"],
+        "title": "RemoteControl",
+        "description": "Application mobile permettant de piloter l'accessoire ComPilot II ou ComPilot Air II",
+        "detail": "Fonctions : Profitez de toutes les fonctions de votre ComPilot II (ou ComPilot Air II) avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone. <br/> </br> Compatibilité iOS : Disponible à partir d'iOS 7 ou version ultérieure <br/> <br/> Compatibilité Android : Disponible a partir d'Android 4.0 ou version ultérieure",
+        "notice": "https://www.dropbox.com/s/6aexidjiht15kte/phonak-remotecontrol-app-notice.pdf?dl=0"
     },
     {
         "id": "phonak-pilot-one",
