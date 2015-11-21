@@ -1,7 +1,7 @@
 [
     {
         "id": "starkey-trulink",
-        "image": "images/starkey-app-trulink.jpg",
+        "image": "images/starkey-trulink-app.jpeg",
         "brand": "starkey",
         "medias": ["appli"],
         "title": "TruLink Hearing Control",
@@ -270,7 +270,7 @@
     },
     {
         "id": "oticon-connectline",
-        "image": "images/oticon-app-connectline.jpeg",
+        "image": "images/oticon-connectline-app.jpeg",
         "brand": "oticon",
         "medias": ["appli"],
         "title": "ConnectLine",
@@ -281,7 +281,7 @@
     },
     {
         "id": "oticon-tinnitus-sound-support",
-        "image": "images/oticon-tinnitus-app.jpg",
+        "image": "images/oticon-tinnitus-app.jpeg",
         "brand": "oticon",
         "medias": ["appli"],
         "title": "Tinnitus SoundSupport",
@@ -505,7 +505,7 @@
     },
     {
         "id": "bernafon-soundgate",
-        "image": "images/bernafon-soundgate-app.jpeg",
+        "image": "images/bernafon-soundgate-app - copie.jpeg",
         "brand": "bernafon",
         "medias": ["appli"],
         "title": "SoundGate",
