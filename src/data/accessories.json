@@ -574,7 +574,7 @@
     {
         "id": "rexton-miniblu-app",
         "image": "images/rexton-mini-blu-app.jpeg",
-        "brand": "srexton",
+        "brand": "rexton",
         "medias": ["appli"],
         "title": "mini Blu RCU",
         "description": "Application mobile permettant de piloter l'accessoire miniBlu",
