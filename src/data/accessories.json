@@ -388,6 +388,42 @@
         "notice": ""
     },
     {
+        "id": "siemens-touchcontrol-app",
+        "image": "images/siemens-touchcontrol-app.png",
+        "brand": "siemens",
+        "medias": ["appli"],
+        "title": "touchControl",
+        "description": "Application mobile dédiée aux aides auditives Binax",
+        "detail": "Fonctions :  Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes, la balance graves/aigus, l'option marche/arret </br> <br/> Compatibilité iOS : Nécessite iOS 7.0 ou une version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+    },
+    {
+        "id": "siemens-easytek-app",
+        "image": "images/siemens-easytek-app.png",
+        "brand": "siemens",
+        "medias": ["appli"],
+        "title": "easyTek",
+        "description": "Application mobile permettant de piloter l'accessoire' easyTek",
+        "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire easyTek, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Nécessite iOS 7.0 ou une version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+    },
+    {
+        "id": "siemens-minitek-app",
+        "image": "images/siemens-minitek-app.jpeg",
+        "brand": "siemens",
+        "medias": ["appli"],
+        "title": "miniTek",
+        "description": "Application mobile permettant de piloter l'accessoire' miniTek",
+        "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire miniTek, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Pas disponible sur iOS <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+    },
+    {
+        "id": "unitron-ucontrol",
+        "image": "images/unitron-ucontrol-app.png",
+        "brand": "unitron",
+        "medias": ["appli"],
+        "title": "uControl",
+        "description": "Application mobile permettant de piloter le uDirect (ou le uStream)",
+        "detail": "Fonctions : Profitez de toutes les options de votre accessoire uDirect (ou uStream) avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS et Android"
+    },
+    {
         "id": "simens-easypocket",
         "image": "images/siemens-easypocket.jpeg",
         "brand": "siemens",
