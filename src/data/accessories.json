@@ -40,6 +40,36 @@
         "notice": "https://www.dropbox.com/s/vinnivubbya3xho/guide_utilisation_surflink_media.pdf?dl=0"
     },
     {
+        "id": "resound-smart-app",
+        "image": "images/resound-smart-app.jpeg",
+        "brand": "resound",
+        "medias": ["appli"],
+        "title": "Smart",
+        "description": "Application mobile dédiée aux aides auditives LiNX2, LiNX, ENZO,et Up Smart",
+        "detail": "Fonctions : <br/> Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, de vos musiques, vidéos... directement dans les appareils <br/> Géolocalisez un appareil perdu <br/> Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/> Créez vos propres programmes personnalisés <br/> Utilisez l'outil de gestion des acouphènes  <br/> <br/> Compatibilité iOS : iPhone® 6 Plus, iPhone® 6, iPhone® 5s, iPhone® 5c, iPhone® 5, iPad Air® 2, iPad Air®, iPad® (4ème génération), iPad® mini 3, iPad® mini 2, iPad® mini avec Retina Display, iPad® mini et iPod® touch (5ème génération). L’application est optimisée pour l’iPhone 5. Le système d’exploitation doit être iOS 7 ou une version postérieure. Nous recommandons vivement la version iOS 8.1 ou plus pour l’iPhone® 6 Plus et l’iPhone® 6. Également compatible avec l’Apple Watch. <br/> <br/> Compatibilité Android : Samsung Galaxy® S6, Samsung Galaxy® S6 Edge, Samsung Galaxy® S5, Samsung Galaxy® S4, Samsung Galaxy® Note 4. Assurez-vous que votre appareil est équipé de la version recommandée de l’OS Android (au minimum Lollipop version 5.0)",
+        "notice": "https://www.dropbox.com/s/8wn3r4skucs77xf/resound-smart-app-guide-iOS.pdf?dl=0",
+        "notice": "https://www.dropbox.com/s/ysbpaq9yxqvxnlq/resound-smart-app-android.pdf?dl=0"
+    },
+    {
+        "id": "resound-control-app",
+        "image": "images/resound-control-app.jpeg",
+        "brand": "resound",
+        "medias": ["appli"],
+        "title": "Control",
+        "description": "Application mobile permettant de piloter l'accessoire Unite Phone Clip+",
+        "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire Unite Phone Clip+, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Disponible pour iPhone, iPod ou iPad touch fonctionnant sur iOS 7 ou version ultérieure. L’app est optimisée pour l’iPhone 5 <br/> <br/> Compatibilité Android : Nécessite un Smartphone Android™ fonctionnant sur la version 2.3.5 ou ultérieure",
+        "notice": "https://www.dropbox.com/s/9xwkr42gg5340hw/resound-control-app-guide.pdf?dl=0"
+    },
+    {
+        "id": "resound-relief-app",
+        "image": "images/resound-relief-app.jpeg",
+        "brand": "resound",
+        "medias": ["appli"],
+        "title": "Relief",
+        "description": "Application de gestion des acouphènes",
+        "detail": "Fonctions : Utilisez l’appli Relief comme partie intégrante d’un programme de gestion des acouphènes. Elle offre une association de thérapie sonore et d’exercices de relaxation ayant pour but de vous distraire de votre concentration sur vos acouphènes. <br/> <br/> Compatibilité iOS : L’app est disponible pour iPhone 6 Plus, 6, 5c, 5s, et 5, fonctionnant sur iOS 7.1 ou version ultérieure. Vous pouvez également télécharger l’app sur votre iPad ou votre iPod touch <br/> <br/> Compatibilité Android : Fonctionne avec tous les appareils Android fonctionnant sous Android 4.1 ou version ultérieure"
+    },
+    {
         "id": "resound-remote-control-2",
         "image": "images/resound-remote-control.png",
         "brand": "resound",
