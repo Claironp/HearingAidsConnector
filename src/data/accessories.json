@@ -445,15 +445,6 @@
         "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire miniTek, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Pas disponible sur iOS <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
     },
     {
-        "id": "unitron-ucontrol",
-        "image": "images/unitron-ucontrol-app.png",
-        "brand": "unitron",
-        "medias": ["appli"],
-        "title": "uControl",
-        "description": "Application mobile permettant de piloter le uDirect (ou le uStream)",
-        "detail": "Fonctions : Profitez de toutes les options de votre accessoire uDirect (ou uStream) avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS et Android"
-    },
-    {
         "id": "simens-easypocket",
         "image": "images/siemens-easypocket.jpeg",
         "brand": "siemens",
@@ -563,6 +554,53 @@
         "notice": "https://www.dropbox.com/s/j3aveclexcesy1n/bernafon-telephone2.pdf?dl=0"
     },
     {
+        "id": "rexton-smart-remote-app",
+        "image": "images/rexton-smart-remote-app.jpeg",
+        "brand": "rexton",
+        "medias": ["appli"],
+        "title": "Smart Remote",
+        "description": "Application mobile dédiée aux dernières aides auditives Rexton",
+        "detail": "Fonctions :  Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes, la balance graves/aigus, l'option marche/arret </br> <br/> Compatibilité iOS : Nécessite iOS 7.0 ou version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+    },
+    {
+        "id": "rexton-smart-connect-app",
+        "image": "images/rexton-connexx-smart-connect-app.jpeg",
+        "brand": "rexton",
+        "medias": ["appli"],
+        "title": "Smart Connect",
+        "description": "Application mobile permettant de piloter l'accessoire Smart Connect",
+        "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire Smart Connect, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Nécessite iOS 7.0 ou version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+    },
+    {
+        "id": "rexton-miniblu-app",
+        "image": "images/rexton-mini-blu-app.jpeg",
+        "brand": "srexton",
+        "medias": ["appli"],
+        "title": "mini Blu RCU",
+        "description": "Application mobile permettant de piloter l'accessoire miniBlu",
+        "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire miniBlu, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Pas disponible sur iOS <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+    },
+    {
+        "id": "rexton-smart-pocket",
+        "image": "images/rexton-smart-pocket.jpeg",
+        "brand": "rexton",
+        "medias": ["remote"],
+        "title": "Smart Pocket",
+        "description": "Permet de rêgler le volume ou de changer de programme facilement",
+        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes, marche/arret",
+        "notice": ""
+    },
+    {
+        "id": "rexton-smart-connect",
+        "image": "images/rexton-smart-connect.jpeg",
+        "brand": "rexton",
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
+        "title": "Smart Connect",
+        "description": "Grâce à sa connectivité Bluetooth, la Smart Connect transmet le son à vos aides auditives de nombreux appareils multimédia",
+        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Smart Connect via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Smart Connect via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la Smart Connect via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté à la Smart Connect via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Smart Connect via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/> ",
+        "notice": ""
+    },
+    {
         "id": "rexton-blu",
         "image": "images/rexton-blu.jpeg",
         "brand": "rexton",
@@ -580,16 +618,6 @@
         "title": "Mini Blu",
         "description": "Grâce à sa connectivité Bluetooth, la Mini Blu transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Mini Blu via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Mini Blu via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la Mini Blu via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté à la Mini Blu via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Mini Blu via Bluetooth, ou via le Transmitter (à acheter séparemment)",
-        "notice": ""
-    },
-    {
-        "id": "rexton-smart-pocket",
-        "image": "images/rexton-smart-pocket.jpeg",
-        "brand": "rexton",
-        "medias": ["remote"],
-        "title": "Smart Pocket",
-        "description": "Permet de rêgler le volume ou de changer de programme facilement",
-        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes, marche/arret",
         "notice": ""
     },
     {
