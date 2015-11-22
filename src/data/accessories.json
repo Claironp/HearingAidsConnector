@@ -117,7 +117,7 @@
         "medias": ["appli"],
         "title": "COM-DEX",
         "description": "Application mobile permettant de piloter l'accessoire Com Dex",
-        "detail": "Fonctions : Profitez de toutes les options de votre Com Dex avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS : Disponible a partir de l'iphone 4s, iOS 8 ou version ultérieure <br/> <br/> Compatibilité Android : Fonctionne avec Android 4.4 ou version ultérieure"
+        "detail": "FONCTIONS : <br/>Profitez de toutes les fonctions de votre accessoire Com Dex avec des options supplémentaires et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>Disponible a partir de l'iphone 4s, iOS 8 ou version ultérieure <br/><br/>COMPATIBILITÉ ANDROID :<br/>Fonctionne avec Android 4.4 ou version ultérieure"
     },
     {
         "id": "widex-rc-dex",
@@ -125,8 +125,8 @@
         "brand": "widex",
         "medias": ["remote"],
         "title": "RC Dex",
-        "description": "RC Dex est une télécommande vous donnant le contrôle des fonctions de l'aide auditive comme le volume et les programmes.",
-        "detail": "<h4>Télécommande basique :</h4> Controle de volume, controle des programmes, marche/arret.",
+        "description": "Permet de rêgler le volume ou de changer de programme facilement",
+        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret",
         "notice": "https://www.dropbox.com/s/87iftbs121k4cs6/widex-rc-dex.pdf?dl=0"
     },
     {
@@ -135,8 +135,8 @@
         "brand": "widex",
         "medias": ["mobile phone"],
         "title": "Call Dex",
-        "description": "Branché à votre téléphone mobile, Call Dex connecte sans fil vos aides auditives à votre téléphone mobile.",
-        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile branché au Call Dex.",
+        "description": "Branché à votre téléphone mobile, Call Dex connecte vos aides auditives à votre téléphone mobile",
+        "detail": "ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile branché au Call Dex",
         "notice": "https://www.dropbox.com/s/vixifp83xk7jue2/widex-call-dex.pdf?dl=0"
     },
     {
@@ -146,7 +146,7 @@
         "medias": ["phone"],
         "title": "Phone Dex",
         "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives",
-        "detail": "<h4>Ecoute du téléphone fixe :</h4> S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique",
+        "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de façon classique",
         "notice": "https://www.dropbox.com/s/xz1g7owd0deh6ky/widex-phone-dex.pdf?dl=0"
     },
     {
@@ -156,7 +156,7 @@
         "medias": ["tv"],
         "title": "TV Dex",
         "description": "Bénéficiez d'une transmission sans fil du son du téléviseur directement à vos aide auditive",
-        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au TV Dex.",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au TV Dex.",
         "notice": "https://www.dropbox.com/s/zv7lbuzp4vtd25i/widex-tv-dex.pdf?dl=0"
     },
     {
@@ -165,8 +165,8 @@
         "brand": "widex",
         "medias": ["mobile phone","computer","music"],
         "title": "Uni Dex",
-        "description": "L'appareil transmet directement le son à vos aides auditives de tout appareil muni d'une sortie mini-jack (téléphones mobiles, MP3, ordinateurs..)",
-        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Uni Dex de facon filaire <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique (par exemple un lecteur MP3) connecté au Uni Dex via de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Uni Dex de facon filaire",
+        "description": "Transmet directement le son à vos aides auditives de tout appareil muni d'une sortie mini-jack (téléphones mobiles, MP3, ordinateurs...)",
+        "detail": "ÉCOUTE DU TÉLÉPONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Uni Dex de facon filaire <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique (par exemple un lecteur MP3) connecté au Uni Dex via de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Uni Dex de facon filaire",
         "notice": "https://www.dropbox.com/s/9x9kyve3zvuvkzq/widex-uni-dex.pdf?dl=0"
     },
     {
@@ -175,8 +175,8 @@
         "brand": "widex",
         "medias": ["mobile phone","phone","tv","computer","music"],
         "title": "Com Dex",
-        "description": "Com Dex est un appareil de communication en mode mains libres qui transmet le son à vos aides auditives de nombreux objets multimédia",
-        "detail": "<h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Com Dex via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Com Dex via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Uni Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Com Dex via Bluetooth <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Com Dex via Bluetooth",
+        "description": "Com Dex transmet directement à vos aides auditives le son de nombreux accessoires multimédia",
+        "detail": "ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Com Dex via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Com Dex via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du Phone Dex) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :Ecoute directe dans les appareils de la télévision connectée au Com Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Com Dex via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Com Dex via Bluetooth",
         "notice": "https://www.dropbox.com/s/73ynx6mj161tysg/widex-com-dex.pdf?dl=0"
     },
     {
@@ -186,7 +186,7 @@
         "medias": ["remote","phone","mobile phone","tv","computer","music","difficult"],
         "title": "M Dex",
         "description": "M Dex transmet directement à vos aides auditives le son de nombreux accessoires multimédia",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au M Dex via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au M Dex via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au M Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au M Dex via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au M Dex via Bluetooth, ou de facon filaire <br/> <h4>Ecoute en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur en milieu bruyant grace au microphone directionnel du M Dex",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au M Dex via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au M Dex via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du Phone Dex) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au M Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au M Dex via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au M Dex via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur en milieu bruyant grace au microphone directionnel du M Dex",
         "notice": "https://www.dropbox.com/s/ayn2nldavbtdwhw/widex-m-dex.pdf?dl=0"
     },
     {
