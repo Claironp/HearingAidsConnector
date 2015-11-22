@@ -682,15 +682,5 @@
         "description": "Speech Connect est un microphone sans fil utile pour l'écoute à distance",
         "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la Media ou à la Mini Media <span class='couleur-bleu'>Media ou Mini Media nécessaire</span>",
         "notice": ""
-    },
-    {
-        "id": "",
-        "image": "images/",
-        "brand": "",
-        "medias": [],
-        "title": "",
-        "description": "",
-        "detail": "",
-        "notice": ""
     }
 ]
