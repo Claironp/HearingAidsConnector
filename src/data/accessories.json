@@ -236,7 +236,7 @@
         "medias": ["tv"],
         "title": "TV Link",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent",
-        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot ou au ComPilot Air via le TV Link (de même pour une chaine Hi-Fi...) <span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot ou au ComPilot Air via le TV Link (de même pour une chaine Hi-Fi...) <br/><span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
         "notice": "https://www.dropbox.com/s/pzqo9c4e90005ou/phonak-tv-link.pdf?dl=0"
     },
     {
@@ -266,7 +266,7 @@
         "medias": ["distance"],
         "title": "Remote Mic",
         "description": "Remote Mic est un microphone sans fil utile pour l'écoute à distance",
-        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au ComPilot ou au ComPilot Air <span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
+        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au ComPilot ou au ComPilot Air <br/><span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
         "notice": "https://www.dropbox.com/s/0e9jtkwbkkajjv0/phonak-remote-mic.pdf?dl=0"
     },
     {
@@ -276,7 +276,7 @@
         "medias": ["appli"],
         "title": "ConnectLine",
         "description": "Application mobile permettant de piloter le Streamer Pro",
-        "detail": "Fonctions : Profitez de toutes les options de votre Streamer Pro avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS : L'application ConnectLine pour iPhone, iPad et iPod touch est compatible avec l'iPhone 6 Plus, l'iPhone 6, l'iPhone 5s, l'iPhone 5c, l'iPhone 5, l'iPhone 4s, l'iPhone 4, l'iPad Air, l'iPad mini avec écran Retina, l'iPad mini, l'iPad (3ème et 4ème génération), li'Pad 2 et l'iPod touch (5ème génération) et nécessite un Streamer Pro 1.2 App ou une version ultérieure <br/> <br/> Compatibilité Android : L'application ConnectLine pour smartphones et tablettes Android nécessite le Streamer Pro 1.3A ou version ultérieure",
+        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre Streamer Pro avec des options supplémentaires et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>L'application ConnectLine pour iPhone, iPad et iPod touch est compatible avec l'iPhone 6 Plus, l'iPhone 6, l'iPhone 5s, l'iPhone 5c, l'iPhone 5, l'iPhone 4s, l'iPhone 4, l'iPad Air, l'iPad mini avec écran Retina, l'iPad mini, l'iPad (3ème et 4ème génération), li'Pad 2 et l'iPod touch (5ème génération) et nécessite un Streamer Pro 1.2 App ou une version ultérieure <br/><br/>COMPATIBILITÉ ANDROID :<br/>Nécessite Android 2.3.3 ou version ultérieure",
         "notice": "https://www.dropbox.com/s/jt4e7q8urfz81se/oticon-app-connectline.pdf?dl=0",
         "notice": "https://www.dropbox.com/s/orh8bmlgwfblkkd/oticon-app-connectline-android.pdf?dl=0"
     },
@@ -287,7 +287,7 @@
         "medias": ["appli"],
         "title": "Tinnitus SoundSupport",
         "description": "Application de gestion des acouphènes",
-        "detail": "Fonctions : Grâce à la bibliothèque de sons, vous pourrez répertorier des sons utiles et agréables pour vous soulager de vos acouphènes au quotidien <br/> </br> Compatibilité : iOS et Android"
+        "detail": "FONCTIONS :<br/>Grâce à la bibliothèque de sons, vous pourrez répertorier des sons utiles et agréables pour vous soulager de vos acouphènes au quotidien <br/></br>COMPATIBILITÉ iOS : <br/>Nécessite iOS 7.1 ou une version ultérieure. Compatible avec l'iPhon, l'iPad et l'iPod touch <br/><br/>COMPATIBILITÉ ANDROID :<br/>Nécessite Android 4.2 ou version ultérieure"
     },
     {
         "id": "oticon-telecommande-2.0",
@@ -295,8 +295,8 @@
         "brand": "oticon",
         "medias": ["remote"],
         "title": "Telecommande 2.0",
-        "description": "Réglez le volume de vos appareils auditifs ou changez de programme en utilisant seulement trois boutons.",
-        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes.",
+        "description": "Permet de rêgler le volume ou de changer de programme facilement",
+        "detail": "<br/>TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes",
         "notice": ""
     },
     {
@@ -305,8 +305,8 @@
         "brand": "oticon",
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance","difficult"],
         "title": "Streamer Pro",
-        "description": "Grace à sa connectivité Bluetooth, le Streamer Pro transmet le son à vos aides auditives de nombreux accessoires multimédia.",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Streamer via Bluetooth, ou de facon filaire. <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0 (à acheter séparément), ou via Bluetooth pour certains téléphones fixes Bluetooth acceptant les kit mains libres. <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0 (à acheter séparément), ou via Bluetooth pour certaines télévision Bluetooth (attention à la faible compatibilité). <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire si il n'est pas équipé du Bluetooth. <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth, de facon filaire, ou via une clé USB Sennheiser (à acheter séparément). <br/> <h4>Ecoute à distance, en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Connect Line (à acheter séparément), connecté via Bluetooth au Streamer.",
+        "description": "Grace à sa connectivité Bluetooth, le Streamer Pro transmet le son à vos aides auditives de nombreux accessoires multimédia",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth, de facon filaire, ou via une clé USB Sennheiser (à acheter séparément) <br/><br/>ÉCOUTE À DISTANCE/EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Connect Line (à acheter séparément), connecté via Bluetooth au Streamer",
         "notice": "https://www.dropbox.com/s/pzdq5suvfk1qvue/oticon-streamer-pro.pdf?dl=0"
     },
     {
@@ -315,8 +315,8 @@
         "brand": "oticon",
         "medias": ["distance","difficult"],
         "title": "Microphone ConnectLine",
-        "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance.",
-        "detail": "<h4>Ecoute à distance, en situations difficiles :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au Streamer. <span class='couleur-bleu'>Streamer necessaire.</span>",
+        "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance",
+        "detail": "ÉCOUTE À DISTANCE/EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au Streamer <br/><span class='couleur-bleu'>Streamer necessaire</span>",
         "notice": "https://www.dropbox.com/s/j8evsbbfppkp7ax/oticon-microphone.pdf?dl=0"
     },
     {
@@ -325,8 +325,8 @@
         "brand": "oticon",
         "medias": ["tv"],
         "title": "Adaptateur TV 2.0",
-        "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
-        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0. <span class='couleur-bleu'>Streamer necessaire.</span>",
+        "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0 <br/><span class='couleur-bleu'>Streamer necessaire</span>",
         "notice": ""
     },
     {
@@ -335,8 +335,8 @@
         "brand": "oticon",
         "medias": ["phone"],
         "title": "Adaptateur Telephonique 2.0",
-        "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives.",
-        "detail": "<h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0. <span class='couleur-bleu'>Streamer necessaire.</span>",
+        "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives",
+        "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0 <br/><span class='couleur-bleu'>Streamer necessaire</span>",
         "notice": ""
     },
     {
