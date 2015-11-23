@@ -504,7 +504,7 @@
         "medias": ["appli"],
         "title": "SoundGate",
         "description": "Application mobile permettant de piloter le SoudGate 3",
-        "detail": "Fonctions : Profitez de toutes les options de votre SoudGate 3 avec une manipulation plus discrète depuis votre smartphone <br/> </br> Compatibilité iOS : L’application SoundGate pour iPhone fonctionne avec l‘iPhone 6 Plus, l‘iPhone 6, l‘iPhone 5s, l‘iPhone 5c, iPhone 5, l‘iPhone 4s et l‘iPhone 4. Elle requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.0 ou ultérieure <br/> <br/> Compatibilité Android : L’application SoundGate pour les smartphones Android™ requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.1 ou ultérieure"
+        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre SoudGate 3 avec des options supplémentaires et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>L’application SoundGate pour iPhone fonctionne avec l‘iPhone 6 Plus, l‘iPhone 6, l‘iPhone 5s, l‘iPhone 5c, iPhone 5, l‘iPhone 4s et l‘iPhone 4. Elle requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.0 ou ultérieure <br/><br/>COMPATIBILITÉ ANDROID :<br/>L’application SoundGate pour les smartphones Android requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.1 ou ultérieure"
     },
     {
         "id": "bernafon-telecommande",
@@ -512,8 +512,8 @@
         "brand": "bernafon",
         "medias": ["remote"],
         "title": "Telecommande",
-        "description": "Réglez le volume de vos appareils auditifs ou changez de programme en utilisant seulement trois boutons.",
-        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes.",
+        "description": "Réglez le volume ou changez de programme facilement",
+        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes",
         "notice": "https://www.dropbox.com/s/5wrv2ptkzubks9v/bernafon-telecommande.pdf?dl=0"
     },
     {
@@ -522,8 +522,8 @@
         "brand": "bernafon",
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "SoundGate 3",
-        "description": "Grace à sa connectivité Bluetooth, le SoundGate 3 transmet le son à vos aides auditives de nombreux accessoires multimédia.",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth, ou de facon filaire <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 (à acheter séparément), ou via Bluetooth (pour certaines télévision Bluetooth). <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire si il n'est pas équipé du Bluetooth. <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate",
+        "description": "Grace à sa connectivité Bluetooth, le SoundGate 3 transmet le son à vos aides auditives de nombreux accessoires multimédia",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate",
         "notice": "https://www.dropbox.com/s/sxd8ci9caus6f40/bernafon-soundgate3.pdf?dl=0"
     },
     {
@@ -532,8 +532,8 @@
         "brand": "bernafon",
         "medias": ["distance"],
         "title": "SoundGate Mic",
-        "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance.",
-        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au SoundGate 3. <span class='couleur-bleu'>SoundGate 3 necessaire.</span>",
+        "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance",
+        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au SoundGate 3 <br/><span class='couleur-bleu'>SoundGate 3 nécessaire</span>",
         "notice": "https://www.dropbox.com/s/vmg19v5ry1hxla5/bernafon-microphone.pdf?dl=0"
     },
     {
@@ -543,7 +543,7 @@
         "medias": ["tv"],
         "title": "Adaptateur TV 2",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
-        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 <span class='couleur-bleu'>SoundGate necessaire.</span>",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
         "notice": "https://www.dropbox.com/s/3lwjlnser674sz9/bernafon-tv2.pdf?dl=0"
     },
     {
@@ -552,8 +552,8 @@
         "brand": "bernafon",
         "medias": ["phone"],
         "title": "Adaptateur téléphone 2",
-        "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives.",
-        "detail": "<h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 <span class='couleur-bleu'>SoundGate necessaire</span>",
+        "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives",
+        "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
         "notice": "https://www.dropbox.com/s/j3aveclexcesy1n/bernafon-telephone2.pdf?dl=0"
     },
     {
@@ -640,7 +640,7 @@
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "Media",
         "description": "Grâce à sa connectivité Bluetooth, la Media transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/> <h4>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DU L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE:<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Media",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DU L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE:<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Media",
         "notice": ""
     },
     {
@@ -670,7 +670,7 @@
         "medias": ["tv","music","computer"],
         "title": "Transmitter",
         "description": "Le Transmitter connecte les appareils non équipés du Bluetooth à la Media ou à la Mini Media. Il peut être connecté à votre TV, votre chaîne stéréo, votre ordinateur...",
-        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media ou à la Mini Media via le Transmitter <br/><span class='couleur-bleu'>Media ou Mini Media necessaire</span> (De même pour une chaine Hi-Fi, un ordinateur...)",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media ou à la Mini Media via le Transmitter (De même pour une chaine Hi-Fi, un ordinateur...)<br/><span class='couleur-bleu'>Media ou Mini Media necessaire</span>",
         "notice": ""
     },
     {
