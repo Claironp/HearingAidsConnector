@@ -425,7 +425,7 @@
         "medias": ["appli"],
         "title": "touchControl",
         "description": "Application mobile dédiée aux aides auditives Binax",
-        "detail": "Fonctions :  Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes, la balance graves/aigus, l'option marche/arret SANS AUCUN AUTRE ACCESSOIRE INTERMÉDIAIRE SUPPLÉMENTAIRE</br> <br/> Compatibilité iOS : Nécessite iOS 7.0 ou une version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+        "detail": "FONCTIONS :<br/>Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes, la balance graves/aigus, l'option marche/arret SANS AUCUN AUTRE ACCESSOIRE INTERMÉDIAIRE SUPPLÉMENTAIRE </br><br/>COMPATIBILITÉ iOS :<br/>Nécessite iOS 7.0 ou une version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/><br/>COMPATIBILITÉ ANDROID :<br/>Nécessite Android 2.3.3 ou version ultérieure"
     },
     {
         "id": "siemens-easytek-app",
@@ -434,7 +434,7 @@
         "medias": ["appli"],
         "title": "easyTek",
         "description": "Application mobile permettant de piloter l'accessoire easyTek",
-        "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire easyTek, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Nécessite iOS 7.0 ou une version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre accessoire easyTek, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/><br/>COMPATIBILITÉ iOS :<br/>Nécessite iOS 7.0 ou une version ultérieure. Compatible avec l'iPhone, l'iPad et l'iPod touch <br/><br/>COMPATIBILITÉ ANDROID :<br/>Nécessite Android 2.3.3 ou version ultérieure"
     },
     {
         "id": "siemens-minitek-app",
@@ -443,7 +443,7 @@
         "medias": ["appli"],
         "title": "miniTek",
         "description": "Application mobile permettant de piloter l'accessoire miniTek",
-        "detail": "Fonctions : Profitez de toutes les fonctions de votre accessoire miniTek, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/> <br/> Compatibilité iOS : Pas disponible sur iOS <br/> <br/> Compatibilité Android : Nécessite Android 2.3.3 ou version ultérieure"
+        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre accessoire miniTek, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/><br/>COMPATIBILITÉ iOS :<br/>Pas disponible sur iOS <br/><br/>COMPATIBILITÉ ANDROID :<br/>Nécessite Android 2.3.3 ou version ultérieure"
     },
     {
         "id": "simens-easypocket",
@@ -452,7 +452,7 @@
         "medias": ["remote"],
         "title": "easyPocket",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
-        "detail": "<h4>Telecommande basique :</h4> Controle de volume, controle des programmes, marche/arret",
+        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret",
         "notice": ""
     },
     {
@@ -462,7 +462,7 @@
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "easyTek",
         "description": "Grâce à sa connectivité Bluetooth, la easyTek transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la easyTek via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la easyTek via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la easyTek via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté à la easyTek via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la easyTek via Bluetooth, ou via le Tek Transmitter (à acheter séparemment) <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone VoiceLink (à acheter séparément), connecté via Bluetooth à la easyTek",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la easyTek via Bluetooth <br/><br/> <h4>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la easyTek via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la easyTek via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la easyTek via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la easyTek via Bluetooth, ou via le Tek Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone VoiceLink (à acheter séparément), connecté via Bluetooth à la easyTek",
         "notice": "https://www.dropbox.com/s/39hsjtcxohqfubx/Manuel-d%27utilisation-easyTek.pdf?dl=0",
         "notice": "https://www.dropbox.com/s/wzmgnxuk6xvprqv/guide%20adaptation%20rapide-easyTek.pdf?dl=0"
     },
@@ -473,7 +473,7 @@
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "miniTek",
         "description": "Grâce à sa connectivité Bluetooth, la miniTek transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "<h4>Telecommande :</h4> Controle de volume, controle des programmes. <br/> <h4>Ecoute du téléphone mobile :</h4> Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la miniTek via Bluetooth <br/> <h4>Ecoute du telephone fixe :</h4> Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la miniTek via Bluetooth (pour certains téléphones fixes Bluetooth) <br/> <h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la miniTek via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/> <h4>Ecoute du lecteur de musique :</h4> Ecoute directe dans les appareils du lecteur de musique connecté à la miniTek via Bluetooth, ou de facon filaire <br/> <h4>Ecoute de l'ordinateur, tablette :</h4> Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la miniTek via Bluetooth, ou via le Tek Transmitter (à acheter séparemment) <br/> <h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone VoiceLink (à acheter séparément), connecté via Bluetooth à la miniTek",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la miniTek via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la miniTek via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la miniTek via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la miniTek via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la miniTek via Bluetooth, ou via le Tek Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone VoiceLink (à acheter séparément), connecté via Bluetooth à la miniTek",
         "notice": "https://www.dropbox.com/s/t34l6vxfr44ggj0/Guide-d%27utilisation-minitek.pdf?dl=0",
         "notice": "https://www.dropbox.com/s/t2jev2tidjx6g55/guide%20adaptation%20rapide%20miniTek.pdf?dl=0"
     },
@@ -484,7 +484,7 @@
         "medias": ["tv","music","computer"],
         "title": "Tek Transmitter",
         "description": "Le Tek Transmitter connecte les appareils non équipés du Bluetooth à la miniTek ou easyTek. Il peut être connecté à votre TV, votre chaîne stéréo, votre ordinateur...",
-        "detail": "<h4>Ecoute de la télévision :</h4> Ecoute directe dans les appareils de la télévision connectée à la easyTek ou à la miniTek via le TekTransmitter. <span class='couleur-bleu'>easyTek ou miniTek necessaire.</span> (De même pour une chaine Hi-Fi, un ordinateur...)",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la easyTek ou à la miniTek via le TekTransmitter (De même pour une chaine Hi-Fi, un ordinateur...) <br/><span class='couleur-bleu'>easyTek ou miniTek necessaire</span>",
         "notice": ""
     },
     {
@@ -494,7 +494,7 @@
         "medias": ["distance"],
         "title": "VoiceLink",
         "description": "VoiceLink est un microphone sans fil utile pour l'écoute à distance",
-        "detail": "<h4>Ecoute à distance :</h4> Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la easyTek ou à la miniTek. <span class='couleur-bleu'>easyTek ou miniTek necessaire.</span>",
+        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la easyTek ou à la miniTek <br/><span class='couleur-bleu'>easyTek ou miniTek necessaire</span>",
         "notice": ""
     },
     {
