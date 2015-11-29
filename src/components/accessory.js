@@ -40,7 +40,7 @@ var Accessory = React.createClass({
             <div id="tab-accessory" className="content">
                 <div className="accessory-intro">
                     <div className="content-padded">
-                        <img src={accessory.image} />
+                        <img src={accessory.image} style={{maxWidth: '60%'}} />
                         <h3>{accessory.title}</h3>
                         <p className="content-padded">{accessory.description}</p>
                         <p className="content-padded" dangerouslySetInnerHTML={{__html: accessory.detail}}></p>
