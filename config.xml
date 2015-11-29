@@ -2,7 +2,7 @@
 <widget id="com.clairepelissier.auditionconnectee" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>L'Audition Connectée</name>
     <description>
-        First application.
+        Retrouvez tous les accessoires connectés à votre appareil auditif.
     </description>
     <author email="pelissier.claire@gmail.com" href="https://github.com/Claironp">
         Claire Pelissier
