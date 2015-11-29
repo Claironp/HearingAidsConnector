@@ -23,6 +23,19 @@ var Accessory = React.createClass({
 
         var brand = brands.get(accessory.brand);
 
+        var notices = [];
+
+        _.each(accessory.notices || [], function(notice) {
+            notices.push(<li className="table-view-cell media">
+                <a href={notice} target="_blank" className="navigate-right">
+                    <div className="media-body">
+                        Voir le mode d'emploi
+                    </div>
+                </a>
+            </li>);
+        });
+
+
         return <Tab title="Accessoire" back={true} backLabel="Back">
             <div id="tab-accessory" className="content">
                 <div className="accessory-intro">
@@ -37,6 +50,8 @@ var Accessory = React.createClass({
                 <MediasList medias={accmedias} brand={accessory.brand} />
 
                 <ul className="table-view">
+                    {notices}
+
                     <li className="table-view-cell media">
                         <Link to={'brand/'+brand.id}  className="navigate-right">
                             <div className="media-body">

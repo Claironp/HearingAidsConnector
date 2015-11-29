@@ -7,7 +7,7 @@
         "title": "TruLink Hearing Control",
         "description": "Application mobile dédiée aux aides auditives Halo",
         "detail": "FONCTIONS : <br/>- Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, musiques, vidéos... directement dans vos appareils auditifs <br/> - Géolocalisez un appareil perdu <br/> - Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/> - Enregistrez vos propres programmes d'écoute personnalisés <br/> - Utilisez votre smartphone comme microphone pour mieux profiter des conversations en situations de bruit  <br/> </br> COMPATIBILITÉ iOS : <br/>Halo et l'appli TruLink sont compatibles avec iPhone 6S Plus, iPhone 6S, iPhone 6 Plus, iPhone 6, l'iPhone 5s, l'iPhone 5c, l'iPhone 5, l'iPhone 4s, l'iPad Air, l'iPad Air 2, l'iPad (4ème génération), l'iPad mini avec écran Retina, l'iPad mini, l'iPad mini 3, l'iPod touch (5ème génération) et Apple Watch. L'utilisation d'Apple Watch nécessite l'iPhone 5 ou ultérieur. Halo et l'appli TruLink sont compatibles avec l'iOS 9.1, 9.0.2, 9.0.1, 9, 8.4.1, 8.3, 8.2, 8.1.3, 8.1.2, 8.1.1, 8.1, 8, 7.1.2, 7.1.1 et 7.1 <br/> <br/> COMPATIBILITÉ ANDROID : <br/>Halo et l'appli TruLink sont compatibles avec les produits Android suivants: Samsung Galaxy S® 6 Edge Plus, Samsung Galaxy S® 6, Samsung Galaxy S® 5, Samsung Galaxy S® 4, Samsung Galaxy Note® 5, Samsung Galaxy Note® 4, Samsung Galaxy Note® 3, HTC One® M8 and HTC One® M7. Il est recommandé aux usagers d'utiliser la plate-forme 5.1.1 pour les téléphones Galaxy S6 Edge Plus et Galaxy Note 5. Il est recommandé aux usagers d'utiliser la plate-forme 4.4.4 pour les téléphones Galaxy S5 et S4 et la plate-forme 5.0 pour Galaxy S6, HTC One M8 et M7, et Note 4 et Note 3",
-        "notice": "https://www.dropbox.com/s/11kuk12sugck8l1/starkey-guide_utilisation_trulink.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/11kuk12sugck8l1/starkey-guide_utilisation_trulink.pdf?dl=0"]
     },
     {
         "id": "starkey-surflink-telecommande",
@@ -17,7 +17,7 @@
         "title": "Surflink Telecommande",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "TÉLÉCOMMANDE : <br/>Controle de volume, controle des programmes, marche/arret, controle de volume monaural, activation du streaming (si associé au Surflink Media).",
-        "notice": "https://www.dropbox.com/s/k10ho4uein4cjzu/guide_utilisation_telecommande_surflink.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/k10ho4uein4cjzu/guide_utilisation_telecommande_surflink.pdf?dl=0"]
     },
     {
         "id": "starkey-surflink-mobile",
@@ -27,7 +27,7 @@
         "title": "Surflink Mobile",
         "description": "Grace à sa connectivité Bluetooth, la Surlink Mobile transmet directement à vos aides auditives le son de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE : <br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE : <br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Surflink Mobile via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE : <br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Surflink Mobile via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION : <br/>Ecoute directe dans les appareils de la télévision connectée au Surflink Mobile via Bluetooth (pour certains téléviseurs Bluetooth, sinon utiliser le Surflink Media) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE : <br/>Ecoute directe dans les appareils du lecteur de musique connecté au Surflink Mobile via Bluetooth, ou de facon filaire<br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE : <br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Surlink Mobile via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE A DISTANCE : <br/>Ecoute directement dans les appareils de la voix de votre interlocuteur éloigné portant le Surlink Mobile, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/><br/> ÉCOUTE EN SITUATION DIFFICILE : <br/>Ecoute directement dans les appareils de la voix de votre interlocuteur dans une situation bruyante grace au microphone directionnel de la Surlink Mobile, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE",
-        "notice": "https://www.dropbox.com/s/alyu29c8nt6jahc/guide_utilisation_surflink_mobile.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/alyu29c8nt6jahc/guide_utilisation_surflink_mobile.pdf?dl=0"]
     },
     {
         "id": "starkey-surflink-media",
@@ -37,7 +37,7 @@
         "title": "Surflink Media",
         "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
         "detail": "ÉCOUTE DE LA TÉLÉVISION : <br/>Ecoute de la télévision connectée directement à vos appareils via le Surlink Media, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)",
-        "notice": "https://www.dropbox.com/s/vinnivubbya3xho/guide_utilisation_surflink_media.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/vinnivubbya3xho/guide_utilisation_surflink_media.pdf?dl=0"]
     },
     {
         "id": "resound-smart-app",
@@ -47,8 +47,10 @@
         "title": "Smart",
         "description": "Application mobile dédiée aux aides auditives LiNX2, LiNX, ENZO,et Up Smart",
         "detail": "FONCTIONS : <br/>-Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, de vos musiques, vidéos... directement dans les appareils <br/>-Géolocalisez un appareil perdu <br/>-Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/>-Enregistrez vos propres programmes personnalisés <br/>-Utilisez l'outil de gestion des acouphènes  <br/> <br/>COMPATIBILITÉ iOS :<br/>iPhone® 6 Plus, iPhone® 6, iPhone® 5s, iPhone® 5c, iPhone® 5, iPad Air® 2, iPad Air®, iPad® (4ème génération), iPad® mini 3, iPad® mini 2, iPad® mini avec Retina Display, iPad® mini et iPod® touch (5ème génération). L’application est optimisée pour l’iPhone 5. Le système d’exploitation doit être iOS 7 ou une version postérieure. Nous recommandons vivement la version iOS 8.1 ou plus pour l’iPhone® 6 Plus et l’iPhone® 6. Également compatible avec l’Apple Watch. <br/> <br/>COMPATIBILITÉ ANDROID :<br/>Samsung Galaxy® S6, Samsung Galaxy® S6 Edge, Samsung Galaxy® S5, Samsung Galaxy® S4, Samsung Galaxy® Note 4. Assurez-vous que votre appareil est équipé de la version recommandée de l’OS Android (au minimum Lollipop version 5.0)",
-        "notice": "https://www.dropbox.com/s/8wn3r4skucs77xf/resound-smart-app-guide-iOS.pdf?dl=0",
-        "notice": "https://www.dropbox.com/s/ysbpaq9yxqvxnlq/resound-smart-app-android.pdf?dl=0"
+        "notices": [
+            "https://www.dropbox.com/s/8wn3r4skucs77xf/resound-smart-app-guide-iOS.pdf?dl=0",
+            "https://www.dropbox.com/s/ysbpaq9yxqvxnlq/resound-smart-app-android.pdf?dl=0"
+        ]
     },
     {
         "id": "resound-control-app",
@@ -58,7 +60,7 @@
         "title": "Control",
         "description": "Application mobile permettant de piloter l'accessoire Unite Phone Clip+",
         "detail": "FONCTIONS : <br/>Profitez de toutes les fonctions de votre accessoire Unite Phone Clip+, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/><br/>COMPATIBILITÉ iOS :<br/>Disponible pour iPhone, iPod ou iPad touch fonctionnant sur iOS 7 ou version ultérieure. L’app est optimisée pour l’iPhone 5 <br/> <br/>COMPATIBILITÉ ANDROID :<br/>Nécessite un Smartphone Android fonctionnant sous la version 2.3.5 ou ultérieure",
-        "notice": "https://www.dropbox.com/s/9xwkr42gg5340hw/resound-control-app-guide.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/9xwkr42gg5340hw/resound-control-app-guide.pdf?dl=0"]
     },
     {
         "id": "resound-relief-app",
@@ -68,7 +70,7 @@
         "title": "Relief",
         "description": "Application de gestion des acouphènes",
         "detail": "FONCTIONS : <br/>Utilisez l’appli Relief comme partie intégrante d’un programme de gestion des acouphènes. Elle offre une association de thérapie sonore et d’exercices de relaxation ayant pour but de vous distraire de votre concentration sur vos acouphènes. <br/><br/>COMPATIBILITÉ iOS :<br/>L’app est disponible pour iPhone 6 Plus, 6, 5c, 5s, et 5, fonctionnant sur iOS 7.1 ou version ultérieure. Vous pouvez également télécharger l’app sur votre iPad ou votre iPod touch <br/><br/>COMPATIILITÉ ANDROID :<br/>Fonctionne avec tous les appareils Android fonctionnant sous Android 4.1 ou version ultérieure",
-        "notice": "https://www.dropbox.com/s/big1mfkt20r9fz2/resound-relief-app.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/big1mfkt20r9fz2/resound-relief-app.pdf?dl=0"]
     },
     {
         "id": "resound-remote-control-2",
@@ -78,7 +80,7 @@
         "title": "Unite Remote Control 2",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret, commande de volume monaural, activation du streaming (si associé au Unite TV)",
-        "notice": "https://www.dropbox.com/s/g6i14wormiwwa8t/Unite%20Remote%20Control%202Mode%20demploi.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/g6i14wormiwwa8t/Unite%20Remote%20Control%202Mode%20demploi.pdf?dl=0"]
     },
     {
         "id": "resound-phone-clip",
@@ -88,7 +90,7 @@
         "title": "Unite Phone Clip+",
         "description": "Grace à sa connectivité Bluetooth, Unite Phone Clip+ transmet directement à vos aides auditives le son de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Unite Phone Clip+ via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Unite Phone Clip+ via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :Ecoute directe dans les appareils de la télévision connectée au Unite Phone Clip+ via Bluetooth (pour certains téléviseurs Bluetooth, sinon utiliser la Unite TV) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Unite Phone Clip+ via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Unite Phone Clip+ via Bluetooth",
-        "notice": "https://www.dropbox.com/s/vvx58fwoizwuvru/Unite%20Phone%20ClipMode%20demploi.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/vvx58fwoizwuvru/Unite%20Phone%20ClipMode%20demploi.pdf?dl=0"]
     },
     {
         "id": "resound-tv-streamer-2",
@@ -98,7 +100,7 @@
         "title": "Unite TV Streamer 2",
         "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute de la télévision connectée directement à vos appareils via la Unite TV, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)",
-        "notice": "https://www.dropbox.com/s/4n5de2rnoxud75r/Unite%20TV%20Streamer%202Mode%20demploi.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/4n5de2rnoxud75r/Unite%20TV%20Streamer%202Mode%20demploi.pdf?dl=0"]
     },
     {
         "id": "resound-mini-microphone-",
@@ -108,7 +110,7 @@
         "title": "Unite Mini Microphone",
         "description": "Profitez de toutes les conversations même à distance et dans les environnements bruyants avec ce micro-cravate.",
         "detail": "ÉCOUTE À DISTANCE: <br/>Ecoute directement dans les appareils de la voix de votre interlocuteur éloigné portant le Mini Microphone, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/><br/>ÉCOUTE EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur dans une situation bruyante grace au Mini Microphone, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Mini Microphone de façon filaire, ou tout simplement en rapprochant le Mini Microphone des hauts parleurs de votre télévision, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique (MP3, Radio, Chaine Hi-Fi...) connecté au Mini Microphone de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Mini Microphone de facon filaire",
-        "notice": "https://www.dropbox.com/s/xhl3uynebsjy06y/Unite%20Mini%20MicrophoneMode%20demploi.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/xhl3uynebsjy06y/Unite%20Mini%20MicrophoneMode%20demploi.pdf?dl=0"]
     },
     {
         "id": "widex-comdex-app",
@@ -127,7 +129,7 @@
         "title": "RC Dex",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret",
-        "notice": "https://www.dropbox.com/s/87iftbs121k4cs6/widex-rc-dex.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/87iftbs121k4cs6/widex-rc-dex.pdf?dl=0"]
     },
     {
         "id": "widex-call-dex",
@@ -137,7 +139,7 @@
         "title": "Call Dex",
         "description": "Branché à votre téléphone mobile, Call Dex connecte vos aides auditives à votre téléphone mobile",
         "detail": "ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile branché au Call Dex",
-        "notice": "https://www.dropbox.com/s/vixifp83xk7jue2/widex-call-dex.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/vixifp83xk7jue2/widex-call-dex.pdf?dl=0"]
     },
     {
         "id": "widex-phone-dex",
@@ -147,7 +149,7 @@
         "title": "Phone Dex",
         "description": "Phone Dex est un téléphone fixe sans fil, qui transmet le son du téléphone directement dans vos aides auditives",
         "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de façon classique",
-        "notice": "https://www.dropbox.com/s/xz1g7owd0deh6ky/widex-phone-dex.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/xz1g7owd0deh6ky/widex-phone-dex.pdf?dl=0"]
     },
     {
         "id": "widex-tv-dex",
@@ -157,7 +159,7 @@
         "title": "TV Dex",
         "description": "Bénéficiez d'une transmission sans fil du son du téléviseur directement à vos aide auditive",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au TV Dex.",
-        "notice": "https://www.dropbox.com/s/zv7lbuzp4vtd25i/widex-tv-dex.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/zv7lbuzp4vtd25i/widex-tv-dex.pdf?dl=0"]
     },
     {
         "id": "widex-uni-dex",
@@ -167,7 +169,7 @@
         "title": "Uni Dex",
         "description": "Transmet directement le son à vos aides auditives de tout appareil muni d'une sortie mini-jack (téléphones mobiles, MP3, ordinateurs...)",
         "detail": "ÉCOUTE DU TÉLÉPONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Uni Dex de facon filaire <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique (par exemple un lecteur MP3) connecté au Uni Dex via de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Uni Dex de facon filaire",
-        "notice": "https://www.dropbox.com/s/9x9kyve3zvuvkzq/widex-uni-dex.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/9x9kyve3zvuvkzq/widex-uni-dex.pdf?dl=0"]
     },
     {
         "id": "widex-com-dex",
@@ -177,7 +179,7 @@
         "title": "Com Dex",
         "description": "Com Dex transmet directement à vos aides auditives le son de nombreux accessoires multimédia",
         "detail": "ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Com Dex via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Com Dex via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du Phone Dex) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Com Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Com Dex via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Com Dex via Bluetooth",
-        "notice": "https://www.dropbox.com/s/73ynx6mj161tysg/widex-com-dex.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/73ynx6mj161tysg/widex-com-dex.pdf?dl=0"]
     },
     {
         "id": "widex-m-dex",
@@ -187,7 +189,7 @@
         "title": "M Dex",
         "description": "M Dex transmet directement à vos aides auditives le son de nombreux accessoires multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au M Dex via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au M Dex via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du Phone Dex) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au M Dex via Bluetooth (pour certains téléviseurs Bluetooth, sinon s'équiper du TV Dex) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au M Dex via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au M Dex via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur en milieu bruyant grace au microphone directionnel du M Dex",
-        "notice": "https://www.dropbox.com/s/ayn2nldavbtdwhw/widex-m-dex.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/ayn2nldavbtdwhw/widex-m-dex.pdf?dl=0"]
     },
     {
         "id": "phonak-remotecontrol-app",
@@ -197,7 +199,7 @@
         "title": "RemoteControl",
         "description": "Application mobile permettant de piloter l'accessoire ComPilot II ou ComPilot Air II",
         "detail": "FONCTIONS : <br/>Profitez de toutes les fonctions de votre ComPilot II (ou ComPilot Air II) avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>Disponible à partir d'iOS 7 ou version ultérieure <br/><br/>COMPATIBILITÉ ANDROID :<br/>Disponible a partir d'Android 4.0 ou version ultérieure",
-        "notice": "https://www.dropbox.com/s/6aexidjiht15kte/phonak-remotecontrol-app-notice.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/6aexidjiht15kte/phonak-remotecontrol-app-notice.pdf?dl=0"]
     },
     {
         "id": "phonak-pilot-one",
@@ -207,7 +209,7 @@
         "title": "Pilot One",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "<br/>TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret",
-        "notice": "https://www.dropbox.com/s/ors96jyd4wxst25/phonak-pilot-one.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/ors96jyd4wxst25/phonak-pilot-one.pdf?dl=0"]
     },
     {
         "id": "phonak-easy-call",
@@ -217,7 +219,7 @@
         "title": "Easy Call",
         "description": "Fixé à votre téléphone mobile, EasyCall connecte vos aides auditives Phonak à votre téléphone mobile",
         "detail": "ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile fixé au EasyCall",
-        "notice": "https://www.dropbox.com/s/b0i4rrrfpxomvob/phonak-easy-call.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/b0i4rrrfpxomvob/phonak-easy-call.pdf?dl=0"]
     },
     {
         "id": "phonak-dect",
@@ -227,7 +229,7 @@
         "title": "Dect",
         "description": "Phonak DECT est un téléphone fixe qui transmet le son directement à vos aides auditives",
         "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>S'utilise comme un téléphone fixe traditionnel, approchez le combiné de votre oreille et recevez le son directement dans vos aides auditives. Les personnes non appareilllées utilisent ce téléphone de facon classique",
-        "notice": "https://www.dropbox.com/s/4rkkhy662ltr3ji/phonak-dect.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/4rkkhy662ltr3ji/phonak-dect.pdf?dl=0"]
     },
     {
         "id": "phonak-tv-link",
@@ -237,7 +239,7 @@
         "title": "TV Link",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot ou au ComPilot Air via le TV Link (de même pour une chaine Hi-Fi...) <br/><span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/pzqo9c4e90005ou/phonak-tv-link.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/pzqo9c4e90005ou/phonak-tv-link.pdf?dl=0"]
     },
     {
         "id": "phonak-com-pilot",
@@ -247,7 +249,7 @@
         "title": "Com Pilot",
         "description": "Grâce à sa connectivité Bluetooth, le ComPilot transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du téléphone DECT) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot via le TV Link (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot",
-        "notice": "https://www.dropbox.com/s/l7t9k9ldixuk4jc/phonak-compilot.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/l7t9k9ldixuk4jc/phonak-compilot.pdf?dl=0"]
     },
     {
         "id": "phonak-com-pilot-air",
@@ -257,7 +259,7 @@
         "title": "Com Pilot Air",
         "description": "Com Pilot Air a les meme fonctionnalités que Com Pilot, il est simplement plus petit et ne se porte pas autour du cou",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot Air via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot Air via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du téléphone DECT) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot Air via le TV Link (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot Air via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot Air via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot Air",
-        "notice": "https://www.dropbox.com/s/6ocycr47n3khdc0/phonak-compilot-air.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/6ocycr47n3khdc0/phonak-compilot-air.pdf?dl=0"]
     },
     {
         "id": "phonak-remote-mic",
@@ -267,7 +269,7 @@
         "title": "Remote Mic",
         "description": "Remote Mic est un microphone sans fil utile pour l'écoute à distance",
         "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au ComPilot ou au ComPilot Air <br/><span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/0e9jtkwbkkajjv0/phonak-remote-mic.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/0e9jtkwbkkajjv0/phonak-remote-mic.pdf?dl=0"]
     },
     {
         "id": "oticon-connectline",
@@ -277,8 +279,10 @@
         "title": "ConnectLine",
         "description": "Application mobile permettant de piloter le Streamer Pro",
         "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre Streamer Pro avec des options supplémentaires et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>L'application ConnectLine pour iPhone, iPad et iPod touch est compatible avec l'iPhone 6 Plus, l'iPhone 6, l'iPhone 5s, l'iPhone 5c, l'iPhone 5, l'iPhone 4s, l'iPhone 4, l'iPad Air, l'iPad mini avec écran Retina, l'iPad mini, l'iPad (3ème et 4ème génération), li'Pad 2 et l'iPod touch (5ème génération) <br/><br/>COMPATIBILITÉ ANDROID :<br/>Nécessite Android 2.3.3 ou version ultérieure",
-        "notice": "https://www.dropbox.com/s/jt4e7q8urfz81se/oticon-app-connectline.pdf?dl=0",
-        "notice": "https://www.dropbox.com/s/orh8bmlgwfblkkd/oticon-app-connectline-android.pdf?dl=0"
+        "notices": [
+            "https://www.dropbox.com/s/jt4e7q8urfz81se/oticon-app-connectline.pdf?dl=0",
+            "https://www.dropbox.com/s/orh8bmlgwfblkkd/oticon-app-connectline-android.pdf?dl=0"
+        ]
     },
     {
         "id": "oticon-tinnitus-sound-support",
@@ -296,8 +300,7 @@
         "medias": ["remote"],
         "title": "Telecommande 2.0",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
-        "detail": "<br/>TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes",
-        "notice": ""
+        "detail": "<br/>TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes"
     },
     {
         "id": "oticon-streamer-pro",
@@ -307,7 +310,7 @@
         "title": "Streamer Pro",
         "description": "Grace à sa connectivité Bluetooth, le Streamer Pro transmet le son à vos aides auditives de nombreux accessoires multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth, de facon filaire, ou via une clé USB Sennheiser (à acheter séparément) <br/><br/>ÉCOUTE À DISTANCE/EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Connect Line (à acheter séparément), connecté via Bluetooth au Streamer",
-        "notice": "https://www.dropbox.com/s/pzdq5suvfk1qvue/oticon-streamer-pro.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/pzdq5suvfk1qvue/oticon-streamer-pro.pdf?dl=0"]
     },
     {
         "id": "oticon-microphone-connectline",
@@ -317,7 +320,7 @@
         "title": "Microphone ConnectLine",
         "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance",
         "detail": "ÉCOUTE À DISTANCE/EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au Streamer <br/><span class='couleur-bleu'>Streamer necessaire</span>",
-        "notice": "https://www.dropbox.com/s/j8evsbbfppkp7ax/oticon-microphone.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/j8evsbbfppkp7ax/oticon-microphone.pdf?dl=0"]
     },
     {
         "id": "oticon-adaptateur-tv-2.0",
@@ -326,8 +329,7 @@
         "medias": ["tv"],
         "title": "Adaptateur TV 2.0",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent",
-        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0 <br/><span class='couleur-bleu'>Streamer necessaire</span>",
-        "notice": ""
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Streamer via l'adaptateur TV 2.0 <br/><span class='couleur-bleu'>Streamer necessaire</span>"
     },
     {
         "id": "oticon-adaptateur-telephonique-2.0",
@@ -336,8 +338,7 @@
         "medias": ["phone"],
         "title": "Adaptateur Telephonique 2.0",
         "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives",
-        "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0 <br/><span class='couleur-bleu'>Streamer necessaire</span>",
-        "notice": ""
+        "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Streamer via l'adaptateur téléphonique 2.0 <br/><span class='couleur-bleu'>Streamer necessaire</span>"
     },
     {
         "id": "unitron-ucontrol",
@@ -356,7 +357,7 @@
         "title": "Telecommande",
         "description": "Permet de régler le volume ou de changer de programme facilement",
         "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes",
-        "notice": "https://www.dropbox.com/s/0kc2mgen9eovi9v/unitron-telecommande2.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/0kc2mgen9eovi9v/unitron-telecommande2.pdf?dl=0"]
     },
     {
         "id": "unitron-telecommande-smart-control",
@@ -366,7 +367,7 @@
         "title": "Telecommande Smart Control",
         "description": "Le patient applique facilement de très nombreux réglages à son aide auditive, notamment le confort d'écoute et la clarté",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes, controle de volume monaural, controle de la clarté sonore et des bruits de fonds",
-        "notice": "https://www.dropbox.com/s/e4bik4shrfpj5ae/unitron-smartcontrol.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/e4bik4shrfpj5ae/unitron-smartcontrol.pdf?dl=0"]
     },
     {
         "id": "unitron-udirect",
@@ -376,7 +377,7 @@
         "title": "uDirect",
         "description": "Grâce à sa connectivité Bluetooth, le uDirect transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au uDirect via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au uDirect via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au uDirect via le uTV (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au uDirect via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au uDirect via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au uDirect",
-        "notice": "https://www.dropbox.com/s/olay85n1xq4npw3/unitron-udirect3.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/olay85n1xq4npw3/unitron-udirect3.pdf?dl=0"]
     },
     {
         "id": "unitron-ustream",
@@ -385,8 +386,7 @@
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "uStream",
         "description": "uStream a les meme fonctionnalités que uDirect, il est simplement plus petit et ne se porte pas autour du cou<br/>",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au uStream via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au uStream via Bluetooth (pour certains téléphones fixes est Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au uStream via le uTV (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au uStream via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au uStream via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au uStream",
-        "notice": ""
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au uStream via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au uStream via Bluetooth (pour certains téléphones fixes est Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au uStream via le uTV (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au uStream via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au uStream via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au uStream"
     },
     {
         "id": "unitron-utv",
@@ -396,7 +396,7 @@
         "title": "uTV",
         "description": "uTV communique le son d'un téléviseur directement aux deux aides auditives",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au uDirect ou au uStream via le uTV <br/><span class='couleur-bleu'>uDirect ou uStream necessaire</span>",
-        "notice": "https://www.dropbox.com/s/ra9l546ywhod19f/unitron-utv3.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/ra9l546ywhod19f/unitron-utv3.pdf?dl=0"]
     },
     {
         "id": "unitron-umic",
@@ -406,7 +406,7 @@
         "title": "uMic",
         "description": "uMic est un microphone sans fil utile pour l'écoute à distance",
         "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au uDirect ou au uStream <br/><span class='couleur-bleu'>uDirect ou uStream necessaire</span>",
-        "notice": "https://www.dropbox.com/s/6s97460v2naxvcq/unitron-umic.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/6s97460v2naxvcq/unitron-umic.pdf?dl=0"]
     },
     {
         "id": "siemens-touchcontrol-app",
@@ -442,8 +442,7 @@
         "medias": ["remote"],
         "title": "easyPocket",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
-        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret",
-        "notice": ""
+        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret"
     },
     {
         "id": "siemens-easytek",
@@ -453,8 +452,10 @@
         "title": "easyTek",
         "description": "Grâce à sa connectivité Bluetooth, la easyTek transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la easyTek via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la easyTek via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la easyTek via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la easyTek via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la easyTek via Bluetooth, ou via le Tek Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone VoiceLink (à acheter séparément), connecté via Bluetooth à la easyTek",
-        "notice": "https://www.dropbox.com/s/39hsjtcxohqfubx/Manuel-d%27utilisation-easyTek.pdf?dl=0",
-        "notice": "https://www.dropbox.com/s/wzmgnxuk6xvprqv/guide%20adaptation%20rapide-easyTek.pdf?dl=0"
+        "notices": [
+            "https://www.dropbox.com/s/39hsjtcxohqfubx/Manuel-d%27utilisation-easyTek.pdf?dl=0",
+            "https://www.dropbox.com/s/wzmgnxuk6xvprqv/guide%20adaptation%20rapide-easyTek.pdf?dl=0"
+        ]
     },
     {
         "id": "siemens-minitek",
@@ -464,8 +465,10 @@
         "title": "miniTek",
         "description": "Grâce à sa connectivité Bluetooth, la miniTek transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la miniTek via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la miniTek via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la miniTek via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la miniTek via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la miniTek via Bluetooth, ou via le Tek Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone VoiceLink (à acheter séparément), connecté via Bluetooth à la miniTek",
-        "notice": "https://www.dropbox.com/s/t34l6vxfr44ggj0/Guide-d%27utilisation-minitek.pdf?dl=0",
-        "notice": "https://www.dropbox.com/s/t2jev2tidjx6g55/guide%20adaptation%20rapide%20miniTek.pdf?dl=0"
+        "notices": [
+            "https://www.dropbox.com/s/t34l6vxfr44ggj0/Guide-d%27utilisation-minitek.pdf?dl=0",
+            "https://www.dropbox.com/s/t2jev2tidjx6g55/guide%20adaptation%20rapide%20miniTek.pdf?dl=0"
+        ]
     },
     {
         "id": "siemens-tek-transmitter",
@@ -474,8 +477,7 @@
         "medias": ["tv","music","computer"],
         "title": "Tek Transmitter",
         "description": "Le Tek Transmitter connecte les appareils non équipés du Bluetooth à la miniTek ou easyTek. Il peut être connecté à votre TV, votre chaîne stéréo, votre ordinateur...",
-        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la easyTek ou à la miniTek via le TekTransmitter (De même pour une chaine Hi-Fi, un ordinateur...) <br/><span class='couleur-bleu'>easyTek ou miniTek necessaire</span>",
-        "notice": ""
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la easyTek ou à la miniTek via le TekTransmitter (De même pour une chaine Hi-Fi, un ordinateur...) <br/><span class='couleur-bleu'>easyTek ou miniTek necessaire</span>"
     },
     {
         "id": "siemens-voice-link",
@@ -484,8 +486,7 @@
         "medias": ["distance"],
         "title": "VoiceLink",
         "description": "VoiceLink est un microphone sans fil utile pour l'écoute à distance",
-        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la easyTek ou à la miniTek <br/><span class='couleur-bleu'>easyTek ou miniTek necessaire</span>",
-        "notice": ""
+        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la easyTek ou à la miniTek <br/><span class='couleur-bleu'>easyTek ou miniTek necessaire</span>"
     },
     {
         "id": "bernafon-soundgate",
@@ -504,7 +505,7 @@
         "title": "Telecommande",
         "description": "Réglez le volume ou changez de programme facilement",
         "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes",
-        "notice": "https://www.dropbox.com/s/5wrv2ptkzubks9v/bernafon-telecommande.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/5wrv2ptkzubks9v/bernafon-telecommande.pdf?dl=0"]
     },
     {
         "id": "bernafon-soundgate-3",
@@ -514,7 +515,7 @@
         "title": "SoundGate 3",
         "description": "Grace à sa connectivité Bluetooth, le SoundGate 3 transmet le son à vos aides auditives de nombreux accessoires multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate",
-        "notice": "https://www.dropbox.com/s/sxd8ci9caus6f40/bernafon-soundgate3.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/sxd8ci9caus6f40/bernafon-soundgate3.pdf?dl=0"]
     },
     {
         "id": "bernafon-soundgate-mic",
@@ -524,7 +525,7 @@
         "title": "SoundGate Mic",
         "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance",
         "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au SoundGate 3 <br/><span class='couleur-bleu'>SoundGate 3 nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/vmg19v5ry1hxla5/bernafon-microphone.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/vmg19v5ry1hxla5/bernafon-microphone.pdf?dl=0"]
     },
     {
         "id": "bernafon-adaptateur-tv",
@@ -534,7 +535,7 @@
         "title": "Adaptateur TV 2",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/3lwjlnser674sz9/bernafon-tv2.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/3lwjlnser674sz9/bernafon-tv2.pdf?dl=0"]
     },
     {
         "id": "bernafon-adapteteur-telephone",
@@ -544,7 +545,7 @@
         "title": "Adaptateur téléphone 2",
         "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives",
         "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/j3aveclexcesy1n/bernafon-telephone2.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/j3aveclexcesy1n/bernafon-telephone2.pdf?dl=0"]
     },
     {
         "id": "rexton-smart-remote-app",
@@ -581,7 +582,7 @@
         "title": "Smart Pocket",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret",
-        "notice": "https://www.dropbox.com/s/00x97o339si93t8/rexton-smart-pocket.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/00x97o339si93t8/rexton-smart-pocket.pdf?dl=0"]
     },
     {
         "id": "rexton-smart-connect",
@@ -590,8 +591,7 @@
         "medias": ["remote","mobile phone","phone","tv","music","computer"],
         "title": "Smart Connect",
         "description": "Grâce à sa connectivité Bluetooth, la Smart Connect transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Smart Connect via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Smart Connect via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Smart Connect via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Smart Connect via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Smart Connect via Bluetooth, ou via le Transmitter (à acheter séparemment)",
-        "notice": ""
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Smart Connect via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Smart Connect via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Smart Connect via le Tek Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Smart Connect via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Smart Connect via Bluetooth, ou via le Transmitter (à acheter séparemment)"
     },
     {
         "id": "rexton-blu",
@@ -601,7 +601,7 @@
         "title": "Blu",
         "description": "Grâce à sa connectivité Bluetooth, la Blu transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Blu via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Blu via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Blu via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Blu via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Blu via Bluetooth, ou via le Transmitter (à acheter séparemment)",
-        "notice": "https://www.dropbox.com/s/glt4smtg3o7b214/rexton-blu.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/glt4smtg3o7b214/rexton-blu.pdf?dl=0"]
     },
     {
         "id": "rexton-miniblu",
@@ -611,7 +611,7 @@
         "title": "Mini Blu",
         "description": "Grâce à sa connectivité Bluetooth, la Mini Blu transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Mini Blu via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Mini Blu via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Mini Blu via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Mini Blu via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Mini Blu via Bluetooth, ou via le Transmitter (à acheter séparemment)",
-        "notice": "https://www.dropbox.com/s/rnuyn8w62maolxl/rexton-miniblu.pdf?dl=0"
+        "notices": ["https://www.dropbox.com/s/rnuyn8w62maolxl/rexton-miniblu.pdf?dl=0"]
     },
     {
         "id": "rexton-transmitter",
@@ -620,8 +620,7 @@
         "medias": ["tv","music","computer"],
         "title": "Transmitter",
         "description": "Le Transmitter connecte les appareils non équipés du Bluetooth à la Blu ou à la Mini Blu. Il peut être connecté à votre TV, votre chaîne stéréo, votre ordinateur...",
-        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Blu ou à la Mini Blu via le Transmitter  (De même pour une chaine Hi-Fi, un ordinateur...)<br/><span class='couleur-bleu'>Blu ou Mini Blu necessaire</span>",
-        "notice": ""
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Blu ou à la Mini Blu via le Transmitter  (De même pour une chaine Hi-Fi, un ordinateur...)<br/><span class='couleur-bleu'>Blu ou Mini Blu necessaire</span>"
     },
     {
         "id": "hansaton-media",
@@ -630,8 +629,7 @@
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "Media",
         "description": "Grâce à sa connectivité Bluetooth, la Media transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DU L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE:<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Media",
-        "notice": ""
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DU L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE:<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Media"
     },
     {
         "id": "hansaton-mini-media",
@@ -640,8 +638,7 @@
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "Mini Media",
         "description": "Grâce à sa connectivité Bluetooth, la Mini Media transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Mini Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Mini Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Mini Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Mini Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Mini Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Mini Media",
-        "notice": ""
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Mini Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Mini Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Mini Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Mini Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Mini Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Mini Media"
     },
     {
         "id": "hansaton-emote-2",
@@ -650,8 +647,7 @@
         "medias": ["remote"],
         "title": "eMote 2",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
-        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret",
-        "notice": ""
+        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret"
     },
     {
         "id": "hansaton-transmitter",
@@ -660,8 +656,7 @@
         "medias": ["tv","music","computer"],
         "title": "Transmitter",
         "description": "Le Transmitter connecte les appareils non équipés du Bluetooth à la Media ou à la Mini Media. Il peut être connecté à votre TV, votre chaîne stéréo, votre ordinateur...",
-        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media ou à la Mini Media via le Transmitter (De même pour une chaine Hi-Fi, un ordinateur...)<br/><span class='couleur-bleu'>Media ou Mini Media necessaire</span>",
-        "notice": ""
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media ou à la Mini Media via le Transmitter (De même pour une chaine Hi-Fi, un ordinateur...)<br/><span class='couleur-bleu'>Media ou Mini Media necessaire</span>"
     },
     {
         "id": "hansaton-speech-connect",
@@ -670,7 +665,6 @@
         "medias": ["distance"],
         "title": "Speech Connect",
         "description": "Speech Connect est un microphone sans fil utile pour l'écoute à distance",
-        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la Media ou à la Mini Media <br/><span class='couleur-bleu'>Media ou Mini Media nécessaire</span>",
-        "notice": ""
+        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la Media ou à la Mini Media <br/><span class='couleur-bleu'>Media ou Mini Media nécessaire</span>"
     }
 ]
