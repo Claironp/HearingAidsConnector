@@ -49,7 +49,7 @@
     <icon gap:platform="ios" height="72" src="images/icon/ios/icon-72.png" width="72" />
     <icon gap:platform="ios" height="76" src="images/icon/ios/icon-76.png" width="76" />
     <icon gap:platform="ios" height="29" src="images/icon/ios/icon-small.png" width="29" />
-    <icon gap:platform="ios" height="40" src="images/icon/ios/icon.png" width="40" />
+    <icon gap:platform="ios" height="57" src="images/icon/ios/icon.png" width="57" />
     <gap:splash gap:platform="ios" height="1136" src="images/screen/ios/Default-568h@2x~iphone.png" width="640" />
     <gap:splash gap:platform="ios" height="2208" src="images/screen/ios/Default-736h.png" width="1242" />
     <gap:splash gap:platform="ios" height="1334" src="images/screen/ios/Default-667h.png" width="750" />
