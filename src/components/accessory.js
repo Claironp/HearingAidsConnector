@@ -7,6 +7,7 @@ var accessories = require('../lib/accessories');
 var brands = require('../lib/brands');
 var medias = require('../lib/medias');
 var MediasList = require('./lists/medias');
+var BrowserLink = require('./browserlink');
 
 var Accessory = React.createClass({
     propTypes: {
@@ -26,12 +27,12 @@ var Accessory = React.createClass({
         var notices = [];
 
         _.each(accessory.notices || [], function(notice) {
-            notices.push(<li className="table-view-cell media">
-                <a href={notice} target="_blank" className="navigate-right">
+            notices.push(<li key={notice} className="table-view-cell media">
+                <BrowserLink href={notice} target="_system" className="navigate-right">
                     <div className="media-body">
                         Voir le mode d'emploi
                     </div>
-                </a>
+                </BrowserLink>
             </li>);
         });
 

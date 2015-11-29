@@ -1,5 +1,6 @@
 var React = require('react');
 var Tab = require('./tab');
+var BrowserLink = require('./browserlink');
 
 var AboutTab = React.createClass({
     render: function() {
@@ -11,7 +12,7 @@ var AboutTab = React.createClass({
                     <br/><br/><br/>
                     <h4>Me contacter:</h4>
                     <p>Claire Pélissier<br/>
-                    <a href="mailto:pelissier.claire@gmail.com" target="_blank">pelissier.claire@gmail.com</a></p>
+                    <BrowserLink href="mailto:pelissier.claire@gmail.com" target="_blank">pelissier.claire@gmail.com</BrowserLink></p>
                     <p>
                         Troisième année d'audioprothèse<br/>
                         Institut des Sciences et Techniques de la Réadaptation<br/>
