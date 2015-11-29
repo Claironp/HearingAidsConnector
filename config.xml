@@ -29,6 +29,7 @@
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
     <gap:plugin name="com.phonegap.plugin.statusbar" />
+    <gap:plugin name="org.apache.cordova.core.inappbrowser" version="0.6.0" />
 
 
     <feature name="Keyboard">

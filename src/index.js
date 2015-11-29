@@ -29,6 +29,9 @@ document.addEventListener('deviceready', function() {
     if (typeof cordova.plugins.Keyboard !== 'undefined') {
         cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
     }
+    if (typeof cordova.InAppBrowser !== 'undefined') {
+        window.open = cordova.InAppBrowser.open;
+    }
 
     if (typeof StatusBar !== 'undefined') {
         StatusBar.styleDefault();
