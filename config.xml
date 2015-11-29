@@ -23,6 +23,7 @@
     <preference name="disable-cursor" value="false" />
     <preference name="HideKeyboardFormAccessoryBar" value="true"/>
     <preference name="KeyboardShrinksView" value="false"/>
+    <preference name="target-device" value="handset" />
     <gap:platform name="ios" />
 
     <gap:plugin name="org.apache.cordova.splashscreen" />
