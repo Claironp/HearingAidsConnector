@@ -61,6 +61,7 @@ gulp.task('build-splash', function() {
 
 gulp.task('build-icons', function() {
     wwwDir.dir('images/icon/ios/', { empty: true });
+    srcDir.copy('images/icon/base.png', wwwDir.path('icon.png'));
     return genIcons(srcDir.path('images/icon/base.png'), wwwDir.path('images/icon/ios/'));
 });
 
