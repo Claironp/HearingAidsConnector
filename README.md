@@ -3,6 +3,7 @@
 Mon application mobile permet une recherche simplifiée des accessoires pour aides auditives
 
 Créé par Claire Pélissier.
+[Disponible sur l'App Store](https://itunes.apple.com/fr/app/laudition-connectee/id1063129092?l=en&mt=8)
 
 ### Comment tester sur un mac?
 
@@ -13,7 +14,7 @@ git pull
 npm i
 ```
 
-Puis pour demarrer l'application:
+Puis demarrer l'application:
 
 ```
 npm start
