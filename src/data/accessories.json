@@ -667,4 +667,133 @@
         "description": "Speech Connect est un microphone sans fil utile pour l'écoute à distance",
         "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la Media ou à la Mini Media <br/><span class='couleur-bleu'>Media ou Mini Media nécessaire</span>"
     }
+    {
+        "id": "beltone-hear-plus",
+        "image": "beltone-hearplus.png",
+        "brand": "beltone",
+        "medias": ["appli"],
+        "title": "Hear Plus",
+        "description": "Application mobile dédiée aux aides auditives Beltone Firt, Boost et Legend",
+        "detail": "FONCTIONS : <br/>-Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, de vos musiques, vidéos... directement dans les appareils <br/>-Géolocalisez un appareil perdu <br/>-Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/>-Enregistrez vos propres programmes personnalisés <br/>-Utilisez l'outil de gestion des acouphènes  <br/> <br/>COMPATIBILITÉ iOS :<br/>iPhone® 6 Plus, iPhone® 6, iPhone® 5s, iPhone® 5c, iPhone® 5, iPad Air® 2, iPad Air®, iPad® (4ème génération), iPad® mini 3, iPad® mini 2, iPad® mini avec Retina Display, iPad® mini et iPod® touch (5ème génération). L’application est optimisée pour l’iPhone 5. Le système d’exploitation doit être iOS 7 ou une version postérieure. Nous recommandons vivement la version iOS 8.1 ou plus pour l’iPhone® 6 Plus et l’iPhone® 6. Également compatible avec l’Apple Watch. <br/> <br/>COMPATIBILITÉ ANDROID :<br/>Samsung Galaxy® S6, Samsung Galaxy® S6 Edge, Samsung Galaxy® S5, Samsung Galaxy® S4, Samsung Galaxy® Note 4. Assurez-vous que votre appareil est équipé de la version recommandée de l’OS Android (au minimum Lollipop version 5.0)",
+        "notice": "https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"
+    },
+    {
+        "id": "beltone-smart-remote",
+        "image": "Beltone Smart Remote.png",
+        "brand": "beltone",
+        "medias": ["appli"],
+        "title": "Smart Remote",
+        "description": "Application mobile permettant de piloter l'accessoire Direct Phone Link 2",
+        "detail": "FONCTIONS : <br/>Profitez de toutes les fonctions de votre accessoire Direct Phone Link 2, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/><br/>COMPATIBILITÉ iOS :<br/>Disponible pour iPhone, iPod ou iPad touch fonctionnant sur iOS 7 ou version ultérieure. L’app est optimisée pour l’iPhone 5 <br/> <br/>COMPATIBILITÉ ANDROID :<br/>Nécessite un Smartphone Android fonctionnant sous la version 2.3.5 ou ultérieure",
+        "notice": "https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"
+    },
+    {
+        "id": "beltone-tinnitus-calmer",
+        "image": "Beltone tinnitus Calmer.png",
+        "brand": "beltone",
+        "medias": ["appli"],
+        "title": "Tinnitus Calmer",
+        "description": "Application de gestion des acouphènes",
+        "detail": "FONCTIONS : <br/>Utilisez l’appli Tinnitus Calmer comme partie intégrante d’un programme de gestion des acouphènes. Elle offre une association de thérapie sonore et d’exercices de relaxation ayant pour but de vous distraire de votre concentration sur vos acouphènes. <br/><br/>COMPATIBILITÉ iOS :<br/>L’app est disponible pour iPhone 6 Plus, 6, 5c, 5s, et 5, fonctionnant sur iOS 7.1 ou version ultérieure. Vous pouvez également télécharger l’app sur votre iPad ou votre iPod touch <br/><br/>COMPATIILITÉ ANDROID :<br/>Fonctionne avec tous les appareils Android fonctionnant sous Android 4.1 ou version ultérieure",
+        "notice": "https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"
+    },
+    {
+        "id": "beltone-remote-control-2",
+        "image": "Beltone-Télécommande Beltone Remote Control II.png",
+        "brand": "beltone",
+        "medias": ["remote"],
+        "title": "Remote Control II",
+        "description": "Permet de rêgler le volume ou de changer de programme facilement",
+        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret, commande de volume monaural, activation du streaming (si associé au Unite TV)",
+        "notice": "https://www.dropbox.com/s/cgh3e306lyhnse5/Beltone%20Remote%20Control2%20User%20Guide.pdf?dl=0"
+    },
+    {
+        "id": "beltone-direct-phone-link-2",
+        "image": "Beltone kit mains libres phone link 2.jpg",
+        "brand": "beltone",
+        "medias": ["remote","mobile phone","phone","tv","music","computer"],
+        "title": "Direct Phone Link II",
+        "description": "Grace à sa connectivité Bluetooth, Direct Phone Link II transmet directement à vos aides auditives le son de nombreux appareils multimédia",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au Direct Phone Link II via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au Direct Phone Link II via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :Ecoute directe dans les appareils de la télévision connectée au Direct Phone Link II via Bluetooth (pour certains téléviseurs Bluetooth, sinon utiliser l'accessoire TV) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Direct Phone Link II via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Direct Phone Link II via Bluetooth",
+        "notice": ""
+    },
+    {
+        "id": "beltone-direct-tv-link-2",
+        "image": "Beltone emetteur audio tv Link 2.jpg",
+        "brand": "beltone",
+        "medias": ["tv"],
+        "title": "Direct TV Link II",
+        "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute de la télévision connectée directement à vos appareils via le direct TV Link II, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)",
+        "notice": "https://www.dropbox.com/s/rxh7yfm6xrr2fj0/Beltone%20TV%20Link%202%20User%20Guide.pdf?dl=0"
+    },
+    {
+        "id": "beltone-mini-mic",
+        "image": "Beltone Mini-Microphone Direct Mini-Mic.jpg",
+        "brand": "beltone",
+        "medias": ["tv","computer","music","distance","difficult"],
+        "title": "Direct Mini-Mic",
+        "description": "Profitez de toutes les conversations même à distance et dans les environnements bruyants avec ce micro-cravate.",
+        "detail": "ÉCOUTE À DISTANCE: <br/>Ecoute directement dans les appareils de la voix de votre interlocuteur éloigné portant le Direct Mini-Mic, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/><br/>ÉCOUTE EN SITUATIONS DIFFICILES :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur dans une situation bruyante grace au Direct Mini-Mic, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Direct Mini-Mic de façon filaire, ou tout simplement en rapprochant le Direct Mini-Mic des hauts parleurs de votre télévision, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique (MP3, Radio, Chaine Hi-Fi...) connecté au Direct Mini-Mic de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Direct Mini-Mic de facon filaire",
+        "notice": ""
+    },
+    {
+        "id": "sonic-soundlink",
+        "image": "Sonic Soundlink App.jpg",
+        "brand": "sonic",
+        "medias": ["appli"],
+        "title": "SoundLink",
+        "description": "Application mobile permettant de piloter le SoudGate",
+        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre SoudGate avec des options supplémentaires et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>L’application SoundGate pour iPhone fonctionne avec l‘iPhone 6 Plus, l‘iPhone 6, l‘iPhone 5s, l‘iPhone 5c, iPhone 5, l‘iPhone 4s et l‘iPhone 4. Elle requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.0 ou ultérieure <br/><br/>COMPATIBILITÉ ANDROID :<br/>L’application SoundGate pour les smartphones Android requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.1 ou ultérieure"
+    },
+    {
+        "id": "sonic-rc-n-remote-control",
+        "image": "sonic-rc-n-remote.png",
+        "brand": "sonic",
+        "medias": ["remote"],
+        "title": "RC-N Remote Control",
+        "description": "Réglez le volume ou changez de programme facilement",
+        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes",
+        "notice": "https://www.dropbox.com/s/eu3tmx9n1lywidm/Sonic_RC_N_User_Guide_UK.pdf?dl=0"
+    },
+    {
+        "id": "sonic-soundgate",
+        "image": "Sonic Soundgate.jpg",
+        "brand": "sonic",
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
+        "title": "SoundGate",
+        "description": "Grace à sa connectivité Bluetooth, le SoundGate transmet le son à vos aides auditives de nombreux accessoires multimédia",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate",
+        "notice": "https://www.dropbox.com/s/rx5yvlxlgn9traq/Sonic%20Soundgate%203%20mode%20d%27emploi.pdf?dl=0"
+    },
+    {
+        "id": "sonic-soundgate-mic",
+        "image": "sonic soundgate mic.png",
+        "brand": "sonic",
+        "medias": ["distance"],
+        "title": "SoundGate Mic",
+        "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance",
+        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au SoundGate <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
+        "notice": "https://www.dropbox.com/s/5q4gsamylxmw707/Sonic%20SoundGate_Mic_User_Guide.pdf?dl=0"
+    },
+    {
+        "id": "sonic-tv-adapter",
+        "image": "sonic-tv-adapter.png",
+        "brand": "sonic",
+        "medias": ["tv"],
+        "title": "sonic-tv-adapter",
+        "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via le TV Adapter <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
+        "notice": "https://www.dropbox.com/s/ixqcxia9lnjrzuo/sonic_TVA_2_IG_and_User_Guide_UK_11_13.pdf?dl=0"
+    },
+    {
+        "id": "sonic-phone-adapter",
+        "image": "sonic-phone-adapter.png",
+        "brand": "sonic",
+        "medias": ["phone"],
+        "title": "Phone Adapter",
+        "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives",
+        "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via le Phone Adapter <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
+        "notice": "https://www.dropbox.com/s/wo6w3u08tkzyxi4/sonic%20phone%20adapter%20mode%20d%27emploi.pdf?dl=0"
+    }
 ]
