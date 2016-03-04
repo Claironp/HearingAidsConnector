@@ -623,53 +623,8 @@
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Blu ou à la Mini Blu via le Transmitter  (De même pour une chaine Hi-Fi, un ordinateur...)<br/><span class='couleur-bleu'>Blu ou Mini Blu necessaire</span>"
     },
     {
-        "id": "hansaton-media",
-        "image": "images/hansaton-media.jpg",
-        "brand": "hansaton",
-        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
-        "title": "Media",
-        "description": "Grâce à sa connectivité Bluetooth, la Media transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DU L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE:<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Media"
-    },
-    {
-        "id": "hansaton-mini-media",
-        "image": "images/hansaton-mini-media.jpg",
-        "brand": "hansaton",
-        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
-        "title": "Mini Media",
-        "description": "Grâce à sa connectivité Bluetooth, la Mini Media transmet le son à vos aides auditives de nombreux appareils multimédia",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté à la Mini Media via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté à la Mini Media via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Mini Media via le Transmitter (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté à la Mini Media via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté à la Mini Media via Bluetooth, ou via le Transmitter (à acheter séparemment) <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Speech Connect (à acheter séparément), connecté via Bluetooth à la Mini Media"
-    },
-    {
-        "id": "hansaton-emote-2",
-        "image": "images/hansaton-emote-2.JPG",
-        "brand": "hansaton",
-        "medias": ["remote"],
-        "title": "eMote 2",
-        "description": "Permet de rêgler le volume ou de changer de programme facilement",
-        "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret"
-    },
-    {
-        "id": "hansaton-transmitter",
-        "image": "images/hansaton-transmitter.jpeg",
-        "brand": "hansaton",
-        "medias": ["tv","music","computer"],
-        "title": "Transmitter",
-        "description": "Le Transmitter connecte les appareils non équipés du Bluetooth à la Media ou à la Mini Media. Il peut être connecté à votre TV, votre chaîne stéréo, votre ordinateur...",
-        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée à la Media ou à la Mini Media via le Transmitter (De même pour une chaine Hi-Fi, un ordinateur...)<br/><span class='couleur-bleu'>Media ou Mini Media necessaire</span>"
-    },
-    {
-        "id": "hansaton-speech-connect",
-        "image": "images/hansaton-speech-connect.jpeg",
-        "brand": "hansaton",
-        "medias": ["distance"],
-        "title": "Speech Connect",
-        "description": "Speech Connect est un microphone sans fil utile pour l'écoute à distance",
-        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth à la Media ou à la Mini Media <br/><span class='couleur-bleu'>Media ou Mini Media nécessaire</span>"
-    }
-    {
         "id": "beltone-hear-plus",
-        "image": "beltone-hearplus.png",
+        "image": "images/beltone-hearplus.png",
         "brand": "beltone",
         "medias": ["appli"],
         "title": "HearPlus",
@@ -679,7 +634,7 @@
     },
     {
         "id": "beltone-smart-remote",
-        "image": "beltone-smart-remote.png",
+        "image": "images/beltone-smart-remote.png",
         "brand": "beltone",
         "medias": ["appli"],
         "title": "SmartRemote",
@@ -689,7 +644,7 @@
     },
     {
         "id": "beltone-tinnitus-calmer",
-        "image": "beltone-tinnitus-calmer.png",
+        "image": "images/beltone-tinnitus-calmer.png",
         "brand": "beltone",
         "medias": ["appli"],
         "title": "Tinnitus Calmer",
@@ -699,7 +654,7 @@
     },
     {
         "id": "beltone-remote-control-2",
-        "image": "beltone-remote-control-2.png",
+        "image": "images/beltone-remote-control-2.png",
         "brand": "beltone",
         "medias": ["remote"],
         "title": "Remote Control II",
@@ -709,7 +664,7 @@
     },
     {
         "id": "beltone-direct-phone-link-2",
-        "image": "beltone-phone-link-2.jpg",
+        "image": "images/beltone-phone-link-2.jpg",
         "brand": "beltone",
         "medias": ["remote","mobile phone","phone","tv","music","computer"],
         "title": "Direct Phone Link II",
@@ -718,7 +673,7 @@
     },
     {
         "id": "beltone-direct-tv-link-2",
-        "image": "beltone-tv-link-2.jpg",
+        "image": "images/beltone-tv-link-2.jpg",
         "brand": "beltone",
         "medias": ["tv"],
         "title": "Direct TV Link II",
@@ -728,7 +683,7 @@
     },
     {
         "id": "beltone-mini-mic",
-        "image": "beltone-direct-mini-mic.jpg",
+        "image": "images/beltone-direct-mini-mic.jpg",
         "brand": "beltone",
         "medias": ["tv","computer","music","distance","difficult"],
         "title": "Direct Mini-Mic",
@@ -737,7 +692,7 @@
     },
     {
         "id": "sonic-soundlink",
-        "image": "sonic-soundlink-app.jpg",
+        "image": "images/sonic-soundlink-app.jpg",
         "brand": "sonic",
         "medias": ["appli"],
         "title": "SoundLink",
@@ -746,7 +701,7 @@
     },
     {
         "id": "sonic-rc-n-remote-control",
-        "image": "sonic-rc-n-remote.png",
+        "image": "images/sonic-rc-n-remote.png",
         "brand": "sonic",
         "medias": ["remote"],
         "title": "RC-N Remote Control",
@@ -756,7 +711,7 @@
     },
     {
         "id": "sonic-soundgate",
-        "image": "sonic-soundgate.jpg",
+        "image": "images/sonic-soundgate.jpg",
         "brand": "sonic",
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
         "title": "SoundGate 3",
@@ -766,7 +721,7 @@
     },
     {
         "id": "sonic-soundgate-mic",
-        "image": "sonic-soundgate-mic.png",
+        "image": "images/sonic-soundgate-mic.png",
         "brand": "sonic",
         "medias": ["distance"],
         "title": "SoundGate Mic",
@@ -776,7 +731,7 @@
     },
     {
         "id": "sonic-tv-adapter",
-        "image": "sonic-tv-adapter.png",
+        "image": "images/sonic-tv-adapter.png",
         "brand": "sonic",
         "medias": ["tv"],
         "title": "TV Adapter",
@@ -786,12 +741,66 @@
     },
     {
         "id": "sonic-phone-adapter",
-        "image": "sonic-phone-adapter.png",
+        "image": "images/sonic-phone-adapter.png",
         "brand": "sonic",
         "medias": ["phone"],
         "title": "Phone Adapter",
         "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives",
         "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via le Phone Adapter <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
         "notice": "https://www.dropbox.com/s/wo6w3u08tkzyxi4/sonic%20phone%20adapter%20mode%20d%27emploi.pdf?dl=0"
+    },
+    {
+        "id": "hansaton-remote-hd",
+        "image": "images/hansaton-remote-hd-app.jpg",
+        "brand": "hansaton",
+        "medias": ["appli"],
+        "title": "remoteHD",
+        "description": "Application mobile permettant de piloter le uDirect (ou le uStream)",
+        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre accessoire uDirect (ou uStream) avec des otpions supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>Nécessite iOS 7.0 ou une version ultérieure. compatible avec l'iPhone, l'iPad et l'iPod touch <br/><br/>COMPATIBILITÉ ANDROID :<br/>Nécessite Android 4.0.3 ou une version ultérieure"
+    },
+    {
+        "id": "hansaton-rcv-2",
+        "image": "images/hansaton-RCV2.png",
+        "brand": "hansaton",
+        "medias": ["remote"],
+        "title": "RCV2",
+        "description": "La télécommande RCV2 permet un réglage discret du volume et des programmes du système auditif",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes"
+    },
+    {
+        "id": "hansaton-udirect-3",
+        "image": "images/hansaton-uDirect3.png",
+        "brand": "hansaton",
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
+        "title": "uDirect 3",
+        "description": "Grâce à sa connectivité Bluetooth, le uDirect transmet le son à vos aides auditives de nombreux appareils multimédia",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au uDirect via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au uDirect via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au uDirect via le uTV3 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au uDirect via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au uDirect via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone uMic 2 (à acheter séparément), connecté via Bluetooth au uDirect"
+    },
+    {
+        "id": "hansaton-ustream",
+        "image": "images/hansaton-uStream.png",
+        "brand": "hansaton",
+        "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
+        "title": "uStream",
+        "description": "uStream a les meme fonctionnalités que uDirect, il est simplement plus petit et ne se porte pas autour du cou<br/>",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au uStream via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au uStream via Bluetooth (pour certains téléphones fixes est Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au uStream via le uTV3 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au uStream via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au uStream via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone uMic2 (à acheter séparément), connecté via Bluetooth au uStream"
+    },
+    {
+        "id": "hansaton-utv-3",
+        "image": "images/hansaton-uTV3.png",
+        "brand": "hansaton",
+        "medias": ["tv"],
+        "title": "uTV 3",
+        "description": "uTV communique le son d'un téléviseur directement aux deux aides auditives",
+        "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au uDirect ou au uStream via le uTV <br/><span class='couleur-bleu'>uDirect ou uStream necessaire</span>"
+    },
+    {
+        "id": "hansaton-umic-2",
+        "image": "images/hansaton-uMic2.png",
+        "brand": "hansaton",
+        "medias": ["distance"],
+        "title": "uMic 2",
+        "description": "uMic est un microphone sans fil utile pour l'écoute à distance",
+        "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au uDirect ou au uStream <br/><span class='couleur-bleu'>uDirect ou uStream necessaire</span>"
     }
 ]
