@@ -737,12 +737,12 @@
     },
     {
         "id": "sonic-soundlink",
-        "image": "Sonic Soundlink App.jpg",
+        "image": "sonic-soundlink-app.jpg",
         "brand": "sonic",
         "medias": ["appli"],
         "title": "SoundLink",
         "description": "Application mobile permettant de piloter le SoudGate",
-        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre SoudGate avec des options supplémentaires et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>L’application SoundGate pour iPhone fonctionne avec l‘iPhone 6 Plus, l‘iPhone 6, l‘iPhone 5s, l‘iPhone 5c, iPhone 5, l‘iPhone 4s et l‘iPhone 4. Elle requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.0 ou ultérieure <br/><br/>COMPATIBILITÉ ANDROID :<br/>L’application SoundGate pour les smartphones Android requiert des aides auditives sans fil de Bernafon et le SoundGate 3 avec la version 3.1 ou ultérieure"
+        "detail": "FONCTIONS :<br/>Profitez de toutes les fonctions de votre SoudGate avec des options supplémentaires et une manipulation plus discrète depuis votre smartphone <br/></br>COMPATIBILITÉ iOS :<br/>L’application SoundGate fonctionne sur iPhone, iPad et iPod Touch sous iOS 7.0 ou une version ultérieure <br/><br/>COMPATIBILITÉ ANDROID :<br/>Fonctionne avectout appareil Android sous la version 2.3.3 ou ultérieure"
     },
     {
         "id": "sonic-rc-n-remote-control",
@@ -756,17 +756,17 @@
     },
     {
         "id": "sonic-soundgate",
-        "image": "Sonic Soundgate.jpg",
+        "image": "sonic-soundgate.jpg",
         "brand": "sonic",
         "medias": ["remote","mobile phone","phone","tv","music","computer","distance"],
-        "title": "SoundGate",
+        "title": "SoundGate 3",
         "description": "Grace à sa connectivité Bluetooth, le SoundGate transmet le son à vos aides auditives de nombreux accessoires multimédia",
-        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique 2 (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV 2 (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Streamer via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Streamer via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate",
+        "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Soundgate via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Soundgate via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate",
         "notice": "https://www.dropbox.com/s/rx5yvlxlgn9traq/Sonic%20Soundgate%203%20mode%20d%27emploi.pdf?dl=0"
     },
     {
         "id": "sonic-soundgate-mic",
-        "image": "sonic soundgate mic.png",
+        "image": "sonic-soundgate-mic.png",
         "brand": "sonic",
         "medias": ["distance"],
         "title": "SoundGate Mic",
@@ -779,7 +779,7 @@
         "image": "sonic-tv-adapter.png",
         "brand": "sonic",
         "medias": ["tv"],
-        "title": "sonic-tv-adapter",
+        "title": "TV Adapter",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via le TV Adapter <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
         "notice": "https://www.dropbox.com/s/ixqcxia9lnjrzuo/sonic_TVA_2_IG_and_User_Guide_UK_11_13.pdf?dl=0"
