@@ -43,5 +43,10 @@
         "id": "difficult",
         "title": "Ecoute en situations difficiles",
         "icon": "fa fa-comments"
+    },
+    {
+        "id": "fm",
+        "title": "Systèmes FM",
+        "icon": "fa fa-graduation-cap"
     }
 ]
