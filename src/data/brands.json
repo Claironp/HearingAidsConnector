@@ -1,5 +1,9 @@
 [
     {
+        "id": "beltone",
+        "title": "Beltone"
+    },
+    {
         "id": "bernafon",
         "title": "Bernafon"
     },
@@ -26,6 +30,10 @@
     {
         "id": "siemens",
         "title": "Siemens"
+    },
+    {
+        "id": "sonic",
+        "title": "Sonic"
     },
     {
         "id": "starkey",

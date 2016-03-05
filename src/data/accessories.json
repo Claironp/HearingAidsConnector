@@ -236,7 +236,7 @@
         "image": "images/phonak-tv-link.jpg",
         "brand": "phonak",
         "medias": ["tv"],
-        "title": "TV Link",
+        "title": "TV Link 2",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot ou au ComPilot Air via le TV Link (de même pour une chaine Hi-Fi...) <br/><span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
         "notices": ["https://www.dropbox.com/s/pzqo9c4e90005ou/phonak-tv-link.pdf?dl=0"]
@@ -246,7 +246,7 @@
         "image": "images/phonak-com-pilot.jpg",
         "brand": "phonak",
         "medias": ["remote","phone","mobile phone","tv","music","computer","distance"],
-        "title": "Com Pilot",
+        "title": "Com Pilot 2",
         "description": "Grâce à sa connectivité Bluetooth, le ComPilot transmet le son à vos aides auditives de nombreux appareils multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du téléphone DECT) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot via le TV Link (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot",
         "notices": ["https://www.dropbox.com/s/l7t9k9ldixuk4jc/phonak-compilot.pdf?dl=0"]
@@ -256,7 +256,7 @@
         "image": "images/phonak-com-pilot-air.jpg",
         "brand": "phonak",
         "medias": ["remote","phone","mobile phone","tv","music","computer","distance"],
-        "title": "Com Pilot Air",
+        "title": "Com Pilot Air 2",
         "description": "Com Pilot Air a les meme fonctionnalités que Com Pilot, il est simplement plus petit et ne se porte pas autour du cou",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au ComPilot Air via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au ComPilot Air via Bluetooth (pour certains téléphones fixes Bluetooth, sinon s'équiper du téléphone DECT) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au ComPilot Air via le TV Link (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :Ecoute directe dans les appareils du lecteur de musique connecté au ComPilot Air via Bluetooth <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au ComPilot Air via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone Remote Mic (à acheter séparément), connecté via Bluetooth au ComPilot Air",
         "notices": ["https://www.dropbox.com/s/6ocycr47n3khdc0/phonak-compilot-air.pdf?dl=0"]
@@ -270,6 +270,137 @@
         "description": "Remote Mic est un microphone sans fil utile pour l'écoute à distance",
         "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au ComPilot ou au ComPilot Air <br/><span class='couleur-bleu'>ComPilot ou ComPilot Air nécessaire</span>",
         "notices": ["https://www.dropbox.com/s/0e9jtkwbkkajjv0/phonak-remote-mic.pdf?dl=0"]
+    },
+    {
+        "id": "phonak-roger-inspiro",
+        "image": "images/phonak-roger-inspiro.jpg",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Emetteur Roger Inspiro",
+        "description": "Microphone émetteur portable sans fil pour l'éducation (à porter par exemple par l'enseignant) pour système FM Roger",
+        "detail": "Transmet la voix de l'enseignant aux élèves porteurs d'aides auditives équipées de récepteurs Roger <br/><span class='couleur-bleu'>Récepteur Roger nécessaire</span>",
+        "notices": ["https://www.dropbox.com/s/4vlq1y4gzovjhty/User_Guide_roger_inspiro_029-0264.pdf?dl=0"]
+    },
+    {
+        "id": "phonak-roger-clip-on-mic",
+        "image": "images/phonak-roger-clip-on-mic.jpg",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Emetteur Roger Clip-On Mic",
+        "description": "Microphone émetteur clipsable pour système FM Roger + Connexion multimédia",
+        "detail": "EMETTEUR FM :<br/> Ce microphone sans fil discret porté sur les vêtements est utilisé par le partenaire de l'utilisateur des aides auditives équipées de récepteurs Roger. L'utilisateur d'aides auditives reçoit ainsi la voix de son partenaire directement dans ses appareils. Idéal pour les conversations en face à face. <br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Roger Clip-On Mic via la station d'accueil du Clip-On Mic (vendue avec). La station d'accueil peut être branchée à la TV via prise casque ou prise RCA. <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Roger Clip-On Mic de facon filaire, ou via la station d'accueil. <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Roger Clip-On Mic de facon filaire, ou via la station d'accueil.",
+        "notices": ["https://www.dropbox.com/s/9vjkdymrxo7j5yx/User_Guide_Roger_Clip-On_Mic_029-0277.pdf?dl=0"]
+    },
+    {
+        "id": "phonak-roger-pen",
+        "image": "images/phonak-roger-pen.jpg",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Emetteur Roger Pen",
+        "description": "Microphone émetteur sous forme discrète de stylo pour système FM Roger + Connexion multimédia",
+        "detail": "EMETTEUR FM :<br/> Ce microphone stylo <br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Roger Clip-On Mic via la station d'accueil du Clip-On Mic (vendue avec). La station d'accueil peut être branchée à la TV via prise casque ou prise RCA. <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Roger Clip-On Mic de facon filaire, ou via la station d'accueil. <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Roger Clip-On Mic de facon filaire, ou via la station d'accueil.",
+        "notices": ["https://www.dropbox.com/s/9l6k4faahfwy1xr/User_Guide_Roger_Pen_029-0276.pdf?dl=0"]
+    },
+    {
+        "id": "phonak-roger-easypen",
+        "image": "images/phonak-roger-easypen.jpg",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Emetteur Roger EasyPen",
+        "description": "Microphone émetteur sous forme discrète de stylo pour système FM Roger + Connexion multimédia",
+        "detail": "EMETTEUR FM :<br/> Cet accessoire stylo  <br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au Roger Clip-On Mic via la station d'accueil du Clip-On Mic (vendue avec). La station d'accueil peut être branchée à la TV via prise casque ou prise RCA. <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Roger Clip-On Mic de facon filaire, ou via la station d'accueil. <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Roger Clip-On Mic de facon filaire, ou via la station d'accueil.",
+        "notices": ["https://www.dropbox.com/s/krdxvc19l8dz3ov/User_Guide_Roger_EasyPen_029-0335.pdf?dl=0"]
+    },
+    {
+        "id": "phonak-roger-10",
+        "image": "images/phonak-recepteur-roger-10.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 10",
+        "description": "Intégré au design (pour les aides auditives Phonak)",
+        "detail": "Sabot permettant de recevoir directement dans les aides auditives la voix d'un interlocuteur portant un émetteur Roger. Disponible pour les aides auditives Phonak : Sky Q-UP, Naida Q-UP, Naida S-UP, Naida UP"
+    },
+    {
+        "id": "phonak-roger-11",
+        "image": "images/phonak-recepteur-roger-11.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 11",
+        "description": "Intégré au design (pour les aides auditives Phonak)",
+        "detail": "Sabot permettant de recevoir directement dans les aides auditives la voix d'un interlocuteur portant un émetteur Roger. Disponible pour les aides auditives Phonak : Sky Q-SP, Naida Q-SP, Naisa S-SP, Naida SP"
+    },
+    {
+        "id": "phonak-roger-13",
+        "image": "images/phonak-recepteur-roger-13.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 13",
+        "description": "Intégré au design (pour les aides auditives Phonak)",
+        "detail": "Sabot permettant de recevoir directement dans les aides auditives la voix d'un interlocuteur portant un émetteur Roger. Disponible pour les aides auditives Phonak : Ambra micro P/SP, Solana micro P/SP, Cassia micro P/SP, Dalia micro P/SP"
+    },
+    {
+        "id": "phonak-roger-15",
+        "image": "images/phonak-recepteur-roger-15.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 15",
+        "description": "Intégré au design (pour les aides auditives Phonak)",
+        "detail": "Sabot permettant de recevoir directement dans les aides auditives la voix d'un interlocuteur portant un émetteur Roger. Disponible pour les aides auditives Phonak : Sky Q-RIC, Sky Q-M13, Naida Q-RIC, Naida S-CRT, Bolero Q-M13, Ambra M H2O, Solana M H2O, Cassia M H2O, Nios S H2O "
+    },
+    {
+        "id": "phonak-roger-16",
+        "image": "images/phonak-recepteur-roger-16.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 16",
+        "description": "Intégré au design (pour les aides auditives Phonak)",
+        "detail": "Sabot permettant de recevoir directement dans les aides auditives la voix d'un interlocuteur portant un émetteur Roger. Disponible pour les aides auditives Phonak : Bolero Q-P, Bolero Q-SP"
+    },
+    {
+        "id": "phonak-roger-18",
+        "image": "images/phonak-recepteur-roger-18.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 18",
+        "description": "Intégré au design (pour les aides auditives Phonak)",
+        "detail": "Sabot permettant de recevoir directement dans les aides auditives la voix d'un interlocuteur portant un émetteur Roger. Disponible pour les aides auditives Phonak : Audéo V-13, Boléro V-P, Boléro V-SP"
+    },
+    {
+        "id": "phonak-roger-14",
+        "image": "images/phonak-recepteur-roger-14.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 14",
+        "description": "Intégré au design (pour les implants cochléaires)",
+        "detail": "Sabot permettant de recevoir directement dans les implants cochléaires la voix d'un interlocuteur portant un émetteur Roger. Disponible pour les implants cochléaires : Nucleus 5, Nucleus 6"
+    },
+    {
+        "id": "phonak-roger-17",
+        "image": "images/phonak-recepteur-roger-17.png",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger 17",
+        "description": "Intégré au design (pour les implants cochléaires)",
+        "detail": "Sabot permettant de recevoir directement dans les implants cochléaires la voix d'un interlocuteur portant un émetteur Roger.Disponible pour les implants cochléaires : Naida CI"
+    },
+    {
+        "id": "phonak-roger-x",
+        "image": "images/phonak-recepteur-roger-x.jpg",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger X",
+        "description": "Universel miniature (pour toutes les marques d'aides auditives et d'implants cochléaires)",
+        "detail": "Sabot permettant de recevoir directement dans les aides auditives ou implants cochléaires la voix d'un interlocuteur portant un émetteur Roger. Roger X est un récepteur Roger universel miniature, compatible avec pratiquement toutes les aides auditives et les processeurs vocaux des implants cochléaires du marché. Peut etre clipsé aussi à un ComPilot."
+    },
+    {
+        "id": "phonak-roger-mylink",
+        "image": "images/phonak-recepteur-roger-mylink.jpg",
+        "brand": "phonak",
+        "medias": ["fm"],
+        "title": "Récepteur Roger MyLink",
+        "description": "Collier inductif universel (pour tous les appareils équipés d'une bobine d'induction)",
+        "detail": "Collier inductif permettant de recevoir directement dans les aides auditives la voix d'un interlocuteur portant un émetteur Roger. Roger MyLink est un récepteur Roger abordable et facile à utiliser qui s’adapte à n’importe quelle aide auditive équipée d'une bobine d'induction (de Phonak ou de tout autre fabricant). Permet d'éviter l'ajout d'un sabot à l'aide auditive.",
+        "notices": ["https://www.dropbox.com/s/eq06aw7j1go8331/User_Guide_Roger_MyLink_029-0265.pdf?dl=0"]
     },
     {
         "id": "oticon-connectline",
@@ -630,7 +761,7 @@
         "title": "HearPlus",
         "description": "Application mobile dédiée aux aides auditives Beltone Firt, Boost et Legend",
         "detail": "FONCTIONS : <br/>-Sans aucun accessoire supplémentaire intermédiaire, entendez le son de vos conversations mobiles, de vos musiques, vidéos... directement dans les appareils <br/>-Géolocalisez un appareil perdu <br/>-Utilisez votre smartphone comme télécommande pour gérer le volume, les programmes <br/>-Enregistrez vos propres programmes personnalisés <br/>-Utilisez l'outil de gestion des acouphènes  <br/> <br/>COMPATIBILITÉ iOS :<br/>iPhone 6S, iPhone 6S Plus, iPhone® 6 Plus, iPhone® 6, iPhone® 5s, iPhone® 5c, iPhone® 5, iPad Air® 2, iPad Air®, iPad® (4ème génération), iPad mini 4, iPad® mini 3, iPad® mini 2, iPad® mini avec Retina Display, iPad® mini et iPod® touch (5ème génération). Le système d’exploitation doit être iOS 8 ou une version postérieure. Nous recommandons vivement la version iOS 8.1 ou plus pour l’iPhone® 6 Plus et l’iPhone® 6. Également compatible avec l’Apple Watch. <br/> <br/>COMPATIBILITÉ ANDROID :<br/> Samsung Galaxy S4, S5, S6, S6 EDGE and Galaxy Note 4. Assurez-vous que votre appareil est équipé de la version recommandée de l’OS Android (au minimum Lollipop version 5.0)",
-        "notice": "https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"
+        "notice": ["https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"]
     },
     {
         "id": "beltone-smart-remote",
@@ -640,7 +771,7 @@
         "title": "SmartRemote",
         "description": "Application mobile permettant de piloter l'accessoire Direct Phone Link 2",
         "detail": "FONCTIONS : <br/>Profitez de toutes les fonctions de votre accessoire Direct Phone Link 2, avec des options supplémentaires, et une manipulation plus discrète depuis votre smartphone <br/><br/>COMPATIBILITÉ iOS :<br/>Disponible pour iPhone, iPod ou iPad touch fonctionnant sur iOS 7 ou version ultérieure. <br/> <br/>COMPATIBILITÉ ANDROID :<br/>Nécessite un Smartphone Android fonctionnant sous la version 2.3 ou ultérieure",
-        "notice": "https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"
+        "notice": ["https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"]
     },
     {
         "id": "beltone-tinnitus-calmer",
@@ -650,7 +781,7 @@
         "title": "Tinnitus Calmer",
         "description": "Application de gestion des acouphènes",
         "detail": "FONCTIONS : <br/>Utilisez l’appli Tinnitus Calmer comme partie intégrante d’un programme de gestion des acouphènes. Elle offre une association de thérapie sonore et d’exercices de relaxation ayant pour but de vous distraire de votre concentration sur vos acouphènes. <br/><br/>COMPATIBILITÉ iOS :<br/>L’app est disponible pour iPhone, iPad et iPod Touch fonctionnant sur iOS 7.0 ou version ultérieure <br/><br/>COMPATIILITÉ ANDROID :<br/>Fonctionne avec tous les appareils Android fonctionnant sous Android 4.1 ou version ultérieure",
-        "notice": "https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"
+        "notice": ["https://www.dropbox.com/s/n2drn80r5a1ibgw/Beltone%20Apps%20Mode%20d%27emploi.PDF?dl=0"]
     },
     {
         "id": "beltone-remote-control-2",
@@ -660,7 +791,7 @@
         "title": "Remote Control II",
         "description": "Permet de rêgler le volume ou de changer de programme facilement",
         "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes, marche/arret, commande de volume monaural, activation du streaming (si associé au Direct TV Link II)",
-        "notice": "https://www.dropbox.com/s/cgh3e306lyhnse5/Beltone%20Remote%20Control2%20User%20Guide.pdf?dl=0"
+        "notice": ["https://www.dropbox.com/s/cgh3e306lyhnse5/Beltone%20Remote%20Control2%20User%20Guide.pdf?dl=0"]
     },
     {
         "id": "beltone-direct-phone-link-2",
@@ -679,7 +810,7 @@
         "title": "Direct TV Link II",
         "description": "Permet de recevoir directement dans vos aides auditives le son de votre télévision, chaine hi-fi...",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute de la télévision connectée directement à vos appareils via le direct TV Link II, SANS AUCUN AUTRE ACCESSOIRE INTERMEDIAIRE SUPPLEMENTAIRE (De même pour une chaine Hi-Fi, un ordinateur...)",
-        "notice": "https://www.dropbox.com/s/rxh7yfm6xrr2fj0/Beltone%20TV%20Link%202%20User%20Guide.pdf?dl=0"
+        "notice": ["https://www.dropbox.com/s/rxh7yfm6xrr2fj0/Beltone%20TV%20Link%202%20User%20Guide.pdf?dl=0"]
     },
     {
         "id": "beltone-mini-mic",
@@ -707,7 +838,7 @@
         "title": "RC-N Remote Control",
         "description": "Réglez le volume ou changez de programme facilement",
         "detail": "TÉLÉCOMMANDE BASIQUE :<br/>Controle de volume, controle des programmes",
-        "notice": "https://www.dropbox.com/s/eu3tmx9n1lywidm/Sonic_RC_N_User_Guide_UK.pdf?dl=0"
+        "notice": ["https://www.dropbox.com/s/eu3tmx9n1lywidm/Sonic_RC_N_User_Guide_UK.pdf?dl=0"]
     },
     {
         "id": "sonic-soundgate",
@@ -717,7 +848,7 @@
         "title": "SoundGate 3",
         "description": "Grace à sa connectivité Bluetooth, le SoundGate transmet le son à vos aides auditives de nombreux accessoires multimédia",
         "detail": "TÉLÉCOMMANDE :<br/>Controle de volume, controle des programmes <br/><br/>ÉCOUTE DU TÉLÉPHONE MOBILE :<br/>Ecoute directe dans les appareils des conversations au téléphone mobile connecté au SoundGate via Bluetooth <br/><br/>ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via l'adaptateur téléphonique (à acheter séparément), ou via Bluetooth (pour certains téléphones fixes Bluetooth) <br/><br/>ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via l'adaptateur TV (à acheter séparément), ou via Bluetooth (pour certains téléviseurs Bluetooth) <br/><br/>ÉCOUTE DU LECTEUR DE MUSIQUE :<br/>Ecoute directe dans les appareils du lecteur de musique connecté au Soundgate via Bluetooth, ou de facon filaire <br/><br/>ÉCOUTE DE L'ORDINATEUR/TABLETTE :<br/>Ecoute directe dans les appareils du son de l'ordinateur (musique, skype...) connecté au Soundgate via Bluetooth <br/><br/>ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone SoundGate Mic (à acheter séparément), connecté via Bluetooth au SoundGate",
-        "notice": "https://www.dropbox.com/s/rx5yvlxlgn9traq/Sonic%20Soundgate%203%20mode%20d%27emploi.pdf?dl=0"
+        "notice": ["https://www.dropbox.com/s/rx5yvlxlgn9traq/Sonic%20Soundgate%203%20mode%20d%27emploi.pdf?dl=0"]
     },
     {
         "id": "sonic-soundgate-mic",
@@ -727,7 +858,7 @@
         "title": "SoundGate Mic",
         "description": "Conversez et comprenez votre interlocuteur dans les situations les plus difficiles, et cela même à une certaine distance",
         "detail": "ÉCOUTE À DISTANCE :<br/>Ecoute directement dans les appareils de la voix de votre interlocuteur portant le microphone, connecté via Bluetooth au SoundGate <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/5q4gsamylxmw707/Sonic%20SoundGate_Mic_User_Guide.pdf?dl=0"
+        "notice": ["https://www.dropbox.com/s/5q4gsamylxmw707/Sonic%20SoundGate_Mic_User_Guide.pdf?dl=0"]
     },
     {
         "id": "sonic-tv-adapter",
@@ -737,7 +868,7 @@
         "title": "TV Adapter",
         "description": "Regardez vos programmes préférés, au volume que vous souhaitez et sans risquer de gêner les personnes qui vous entourent.",
         "detail": "ÉCOUTE DE LA TÉLÉVISION :<br/>Ecoute directe dans les appareils de la télévision connectée au SoundGate via le TV Adapter <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/ixqcxia9lnjrzuo/sonic_TVA_2_IG_and_User_Guide_UK_11_13.pdf?dl=0"
+        "notice": ["https://www.dropbox.com/s/ixqcxia9lnjrzuo/sonic_TVA_2_IG_and_User_Guide_UK_11_13.pdf?dl=0"]
     },
     {
         "id": "sonic-phone-adapter",
@@ -747,7 +878,7 @@
         "title": "Phone Adapter",
         "description": "Recevez les appels de votre téléphone fixe directement dans vos aides auditives",
         "detail": "ÉCOUTE DU TÉLÉPHONE FIXE :<br/>Ecoute directe dans les appareils des conversations au téléphone fixe connecté au SoundGate via le Phone Adapter <br/><span class='couleur-bleu'>SoundGate nécessaire</span>",
-        "notice": "https://www.dropbox.com/s/wo6w3u08tkzyxi4/sonic%20phone%20adapter%20mode%20d%27emploi.pdf?dl=0"
+        "notice": ["https://www.dropbox.com/s/wo6w3u08tkzyxi4/sonic%20phone%20adapter%20mode%20d%27emploi.pdf?dl=0"]
     },
     {
         "id": "hansaton-remote-hd",
